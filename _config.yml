@@ -21,10 +21,9 @@
 title: Halo's Protest
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The title doesn't mean anything. This is just a blog, mostly filled with
-  ranting about stupid bugs I encounter.
+  The title doesn't mean anything. This is just a blog, mostly filled with ranting about stupid bugs I encounter.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/jaericho/jaericho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jaericho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  jaericho
 
