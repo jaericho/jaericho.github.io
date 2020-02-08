@@ -6,7 +6,7 @@ categories: [Windows]
 tags: [File Permissions, ACL]
 ---
 
-I have a situation where users add files to pre-made folder structure, and smetimes they need to move the files around between the various subfolders.
+I have a situation where users add files to pre-made folder structure, and sometimes they need to move the files around between the various subfolders.
 
 ![Folder Structure](/assets/2019/12/folder-structure.png "Folder Structure"){: .center-image }
 
