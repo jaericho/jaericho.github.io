@@ -4,7 +4,6 @@ title:  "Fast Blogs"
 date:   2020-02-08 10:00:00 -0600
 categories: [Blog]
 tags: [Jekyll, Static Site Generator, Wordpress]
-draft: true
 ---
 
 I use this blog to jot down things I want to remember or snippets I hope will help someone else.
