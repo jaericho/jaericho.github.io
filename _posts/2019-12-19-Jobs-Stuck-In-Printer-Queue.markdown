@@ -2,7 +2,8 @@
 layout: post
 title:  "Print Jobs Sent to Printer and Stuck in Queue"
 date:   2019-12-19 20:33:36 -0600
-categories: [Windows, Printers]
+categories: [Windows]
+tags: [Printers]
 ---
 Here’s a funny one.
 

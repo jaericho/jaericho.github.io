@@ -3,7 +3,9 @@ layout: post
 title:  "Ivanti Issues: 2019 Edition"
 date:   2020-01-30 20:33:36 -0600
 categories: [Stupid Bugs]
+tags: [Ivanti, Landesk]
 ---
+
 It’s time for another list of stupid bugs in Ivanti Endpoint Manager (Landesk).
 
 The 2019 Edition of this list deals with my recent upgrade from 2018.3 SU3 to 2019.1 SU2. This version has been out for 6+ mo

@@ -2,8 +2,10 @@
 layout: post
 title:  "Windows Update After an In-Place Upgrades"
 date:   2019-10-20 20:33:36 -0600
-categories: [Windows, Windows Update]
+categories: [Windows]
+tags: [Windows Update]
 ---
+
 Windows Updates taking a crap after an in-place upgrade has to be my biggest gripe about in-place upgrades. But the boss says to do an in-place upgrade so I don’t have much choice.
 
 Looks like these two things might help with Windows Updates just spinning forever after an upgrade.

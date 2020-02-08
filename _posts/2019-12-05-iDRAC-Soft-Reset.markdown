@@ -2,8 +2,10 @@
 layout: post
 title:  "iDRAC Soft Reset"
 date:   2019-12-05 20:33:36 -0600
-categories: [Dell, iDRAC]
+categories: [Dell]
+tags: [iDRAC]
 ---
+
 Today I couldn’t browse to the iDRAC website to one of my servers, but I was able to SSH in and run:
 
 `racadm racreset soft`

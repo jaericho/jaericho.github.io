@@ -2,8 +2,10 @@
 layout: post
 title:  "Locking Down Folders in Windows"
 date:   2019-12-19 20:33:36 -0600
-categories: [Windows, File Permissions]
+categories: [Windows]
+tags: [File Permissions, ACL]
 ---
+
 I have a situation where users add files to pre-made folder structure, and smetimes they need to move the files around between the various subfolders.
 
 ![Folder Structure](/assets/2019/12/folder-structure.png "Folder Structure"){: .center-image }

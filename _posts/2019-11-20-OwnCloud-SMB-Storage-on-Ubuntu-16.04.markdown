@@ -2,8 +2,10 @@
 layout: post
 title:  "ownCloud SMB storage on Ubuntu 16.04"
 date:   2019-11-20 20:33:36 -0600
-categories: [Ubuntu, ownCloud, smb]
+categories: [linux]
+tags: [Ubuntu, ownCloud, smb]
 ---
+
 To use ownCloud’s SMB external storage on Ubuntu 16.04 without enabling SMB1, add the following lines to the global section of `/etc/samba/smb.conf`
 
 > client min protocol = SMB2
