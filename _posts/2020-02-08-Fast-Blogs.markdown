@@ -18,7 +18,7 @@ Most webbrowsers have a built in developer mode and Chrome's is especailly nice 
 
 Well, it turns out that is a little misleading. The 6MB page download was true, but it only does that when I'm logged into Wordpress and had a Gravatar account linked to it. Regular browsers won't see that much. They'll see a 2.9MB webpage. Which is still _much_ too high for a blog of 90% text.
 
-The Ivanti Issues post wil transfer 1.5MB of data, 2.9MB of resources, with over 70 requests in 500-900ms. And most of the requests are fetching ads, gravatar crap, fonts, and pictures that aren't even used in the post at all.
+The [Ivanti Issues]({% post_url 2020-01-30-Ivanti-Issues-2019-Edition %}) post wil transfer 1.5MB of data, 2.9MB of resources, with over 70 requests in 500-900ms. And most of the requests are fetching ads, gravatar crap, fonts, and pictures that aren't even used in the post at all.
 
 I only noticed this because I stumbled across another blog that loaded insanely fast: [x86.lol](https://x86.lol). I think it was running Jekyll because it used the default Jekyll theme. And that pushed me into static site generators.
 
@@ -44,7 +44,7 @@ There were some documentation generators that looked sexy, but they weren't blog
 
 It came down to Jekyll and Hugo.
 
-Hugo had an easier startup. I had it working on the first try. It has nice a few themes I really liked, but the YAML/TOML/JSON was a little confusing. ANd for some reason I couldn't figure out how to write markdown files outside of Hugo and have them work. I had to create each new post with `hugo new post` then go back and edit the file in vscode. I didn't figure out what `hugo new post\my-new-post.md` did in the background other than create a new file.
+Hugo had an easier startup. I had it working on the first try. It has nice a few themes I really liked, but the YAML/TOML/JSON was a little confusing. And I couldn't figure out how to write markdown files outside of Hugo and have them work. I had to first create each new post with `hugo new post` then go back and edit the file in vscode. I didn't figure out what `hugo new post\my-new-post.md` did in the background other than create a new file.
 
 Jekyll had a rougher start the first time I tried it. I tried it first because it was the most popular, failed, then tried Hugo. But after Hugo didn't pan out (I do like it, it's _almost_ there), I switched back to Jekyll and GitHub Pages. I figure this blog using GitHub Pages will be a good way to cut my teeth on Git and hell, it's a built-in backup.) I have to use a public repo to use the free GitHub Pages service, which I didn't like at first, but then I realized, it's a blog...the source code is the final product.
 
