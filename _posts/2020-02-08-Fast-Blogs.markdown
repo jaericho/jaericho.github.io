@@ -24,7 +24,7 @@ I only noticed this because I stumbled across another blog that loaded insanely 
 
 # GCC for Websites
 
-I know enough about webservers that they'll cache common requests in memory. They'll "compile" websites like source-code is compiled to a binary file, so when I found Static Site Generators will do the same thing with markdown and text files, I was intrigued. I like going fast and I have lots of min/max tendencies, so I want this blog to be as fast as possible while still looking good. SS64.com (one of my favorite sites, I use it almost daily) is an example of a website that strives for this.
+I know enough about webservers that they'll cache common requests in memory. They'll "compile" websites like source-code is compiled to a binary file, so when I found Static Site Generators will do the same thing with markdown and text files, I was intrigued. I like going fast and I want this blog to be as fast as possible while still looking good. SS64.com (one of my favorite sites, I use it almost daily) is an example of a website that strives for this.
 
 > The website is designed with performance as a priority; the aim is to return relevant pages as fast as a local help index.
 > 
@@ -38,7 +38,7 @@ So I have tried a lot of SSG's trying to find one that was what I wanted and eas
 
 # Jekyll vs. Hugo
 
-Grav was nice, but I wanted to just serve up static files and not run a webserver.
+[Grav](https://getgrav.org/) was nice, but I wanted to just serve up static files and not run a webserver.
 
 There were some documentation generators that looked sexy, but they weren't blog focused and not what I wanted.
 
@@ -46,7 +46,7 @@ It came down to Jekyll and Hugo.
 
 Hugo had an easier startup. I had it working on the first try. It has nice a few themes I really liked, but the YAML/TOML/JSON was a little confusing. ANd for some reason I couldn't figure out how to write markdown files outside of Hugo and have them work. I had to create each new post with `hugo new post` then go back and edit the file in vscode. I didn't figure out what `hugo new post\my-new-post.md` did in the background other than create a new file.
 
-Jekyll had a rouger start the first time. I tried it first because it the most popular, failed, then tried Hugo. But after Hugo didn't pan out (I do like it, it's _almost_ there), I switched back to Jekyll and GitHub Pages. I figure this blog using GitHub Pages will be a good way to cut my teeth on Git and hell, it's a built-in backup.) I have to use a public repo to use the free GitHub Pages service, which I didn't like at first, but then I realized, it's a blog...the source code is the final product.
+Jekyll had a rougher start the first time I tried it. I tried it first because it was the most popular, failed, then tried Hugo. But after Hugo didn't pan out (I do like it, it's _almost_ there), I switched back to Jekyll and GitHub Pages. I figure this blog using GitHub Pages will be a good way to cut my teeth on Git and hell, it's a built-in backup.) I have to use a public repo to use the free GitHub Pages service, which I didn't like at first, but then I realized, it's a blog...the source code is the final product.
 
 # Benchmarks
 
@@ -55,6 +55,6 @@ So how does the new, Jekyll/Github powered post look like in terms of benchmarks
 | | Transfer | Resources | Requests | Time
 | WordPress | 1,500 K | 2,900 K | 70+ | 500-900ms
 | Static | 8 K | 23 K | 3 | 130ms
-| down 99.5% | down 99.2% | down 95.7% | 5x to 9x faster 
+| | down 99.5% | down 99.2% | down 95.7% | 5x to 9x faster 
 
 That is _much_ more my style.
