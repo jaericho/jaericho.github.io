@@ -21,7 +21,7 @@ Using the [latest Intel drivers](https://downloadcenter.intel.com/download/26924
 1. Go to the Security tab and change the Encryption Type to AES.
 1. Set AP to use WPA2 with AES/CCMP.
 
-![wifi_status.PNG](/assets/2017/10/wifi_status.png "Forcing it to use AES for this SSID.")
+[![wifi_status.PNG](/assets/2017/10/wifi_status.png "Forcing it to use AES for this SSID.")](/assets/2017/10/wifi_status.png)
 
 Next, just make sure you’re on a A band for best performance by either using the Connection tab next to the Security tab or by using the Preferred Band setting in the Advanced tab of the driver.
 
