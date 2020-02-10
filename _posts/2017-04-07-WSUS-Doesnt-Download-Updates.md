@@ -6,7 +6,9 @@ categories: [Stupid Bugs]
 tags: [Windows, WSUS]
 ---
 
-While rebuilding WSUS (once again) I discovered another snag. When first configuring WSUS I put in “D:” for the drive to store the updates because the wizard didn’t like “D:\”. Unfortunately, **both are wrong**. From what I read in various posts, the wizard used to default to the largest drive with free space and append \WSUS for a directory. If you just specify “D:”, the updates try to download to D:WsusContent and not D:\WsusContent. (The eventlog shows this.)
+While rebuilding WSUS (once again), I discovered another snag.
+
+When first configuring WSUS I put in `D:` for the drive to store the updates because the wizard didn’t like `D:\`. Unfortunately, **both are wrong**. From what I read in various posts, the wizard used to default to the largest drive with free space and append \WSUS for a directory. If you just specify “D:”, the updates try to download to D:WsusContent and not D:\WsusContent. (The eventlog shows this.)
 
 [A comment](http://daniyar-tech.blogspot.com/2013/06/wsus-on-windows-2012.html?showComment=1488209979675#c6942681862762526728) on this blog post helped fix it without a reinstall:
 
