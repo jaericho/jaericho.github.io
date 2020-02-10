@@ -3,7 +3,7 @@ layout: post
 title:  "Jessica “don’t bother” Jones"
 date:   2015-11-24 10:00:00 -0600
 categories: [Review]
-tags: [TV Review]
+tags: [Daredevil, Jessica Jones, Netflix, TV Review]
 ---
 
 After watching the excellent Netflix show Daredevil, I was eager to watch the spin-off series, Jessica Jones, but...
