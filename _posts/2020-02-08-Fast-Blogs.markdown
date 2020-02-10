@@ -42,7 +42,7 @@ So I have tried a lot of SSG's trying to find one that was what I wanted and eas
 
 There were some documentation generators that looked sexy, but they weren't blog focused and not what I wanted.
 
-It came down to Jekyll and Hugo.
+It came down to [Jekyll](https://jekyllrb.com/) and [Hugo](https://gohugo.io/).
 
 Hugo had an easier startup. I had it working on the first try. It has nice a few themes I really liked, but the YAML/TOML/JSON was a little confusing. And I couldn't figure out how to write markdown files outside of Hugo and have them work. I had to first create each new post with `hugo new post` then go back and edit the file in vscode. I didn't figure out what `hugo new post\my-new-post.md` did in the background other than create a new file.
 
@@ -50,7 +50,7 @@ Jekyll had a rougher start the first time I tried it. I tried it first because i
 
 # Benchmarks
 
-So how does the new, Jekyll/Github powered post look like in terms of benchmarks?
+So how does the new Jekyll/Github Pages powered post look like in terms of benchmarks?
 
 | | Transfer | Resources | Requests | Time
 | WordPress | 1,500 K | 2,900 K | 70+ | 500-900ms
