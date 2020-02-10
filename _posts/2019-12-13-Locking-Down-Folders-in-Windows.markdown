@@ -22,7 +22,7 @@ Q: How do you lock down the subfolders so the users can’t drag’n drop, move,
 
 A: Add the following ACL to the root folder.
 
-![Deny Delete ACL](/assets/2019/12/deny-delete-ACL.png "Deny Delete ACL"){: .center-image }
+[![Deny Delete ACL](/assets/2019/12/deny-delete-ACL.png "Deny Delete ACL")](/assets/2019/12/deny-delete-ACL.png)
 
 This ACL will only apply to the subfolders in the root folder. No drag’n drop, no renaming, no deleting. There is one caveat that users can create folders directly under root. However, if they use Windows Explorer they will only be able to create folders called “New Folder”, and will not be able to rename them.
 
