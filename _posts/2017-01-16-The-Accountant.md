@@ -3,7 +3,7 @@ layout: post
 title:  "The Accountant"
 date:   2017-01-17 10:00:00 -0600
 categories: [Review]
-tags: [Movie Review]
+tags: [The Accountant, John Wick, Movie Review]
 ---
 
 The Accountant was an odd movie premise from the start: autistic accountant savant by day, hitman by night...but I was pleasantly surprised that it almost worked. Unfortunately, everything that The Accountant did right, John Wick did better and with more style.
