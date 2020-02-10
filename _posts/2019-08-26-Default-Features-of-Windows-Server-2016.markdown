@@ -26,3 +26,4 @@ PS C:\Users\Admin> Get-WindowsFeature | ? {$_.InstallState -eq "Installed"} | ft
      [X] Windows PowerShell ISE        PowerShell-ISE                Installed
  [X] WoW64 Support                     WoW64-Support                 Installed
  ```
+ 
