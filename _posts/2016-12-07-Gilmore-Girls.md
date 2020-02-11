@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Gilmore Girls"
+date:   2016-12-07 10:00:00 -0600
+categories: [Review]
+tags: [Gilmore Girls, Netflix, TV Review]
+---
+
+One of the most reliable metrics is the world is not Old Faithful or even an atomic clock. It’s knowing that Rory Gilmore can and will make monumentally stupid decisions without fucking up her life.
+
+![pic](/assets/2016/12/gilmore_girls_netflix.jpg)
+
+The new Netflix four-part miniseries of Gilmore Girls puts a conclusion on the series that the show didn’t. However, it’s a haphazard, mishmash of a show and it tries to relive the long gone glory days.
+
+The first episode consists entirely of cameo appearances from the TV show. It’s kinda neat that they manage to get nearly everyone from the show for a spot in the mini-series. It’s just too bad that they squeezed them all into the first episode. It’s obvious that the writer makes up situations completely unrelated to the storyline just to give someone else another cameo. You can feel the awkwardness. Well *almost* everyone gets a cameo in the first episode, they only gave Melissa McCarthy five minutes in the last episode. I guess they had to do something to keep you watching till the end.
+
+But don’t worry the second episode is where things start to get back to normal in Stars Hollow. And by normal I mean it consists mostly of Rory making incredibly shallow, self-centered, stupid choices with no consequences:
+
+* Can’t decide on which job to take though one employer is begging her to come work for them.
+  *(Ha, like she’d have multiple job offers.)*
+* Sleeping with her former lover even though he’s engaged.
+  *(Classy.)*
+* Hanging around losers that have a panic attacks over the previous decades’ college boyfriend.
+  *(Paris is a contender to be more annoying than Rory.)*
+* Having a one-night stand with a Wookie cosplayer.
+  *(Great selection, Rory.)*
+* Complaining that she is 32 and hasn’t had more one-night stands.
+  *(Apparently screwing up often is an effective way to learn now how to deal with screwing up? One night stands are good?)*
+* Bombing an interview because she doesn’t have her favorite outfit.
+  *(Such strength and independence.)*
+* Losing all job prospects because she couldn’t make up her mind.
+  *(Is this the one time she’ll faces the consequences?)*
+* Working for the local rag for no pay because nostalgia.
+  *(How do these people pay their bills?)*
+* Loosing her lover because his fiancée moved in.
+  *(She’s the side woman, couldn’t she see that one coming?)*
+* Getting pregnant.
+  *(Aaaaaand we’re set for a reboot.)*
+
+One of the funniest things about the show was the ThirtySomething group. They’re a group of jobless, drifting, shallow, basic personality millennials with helicopter parents. Rory constantly bumps into them and desperately tries to run away as they try to recruit her for their group. I think the writers were attempting to show Rory still outside of this category, but as a viewer I couldn’t help but see that this is (a) exactly the place where Rory belongs and (b) where she is already.
+
+It’s plain as day that Gilmore Girls was created and written by leftism. It worships journalism as a noble profession, it glorifies slutty behavior and single motherhood, and virtual signals by name dropping. Now, name dropping was part of the shtick of the show. The shtick being fast talking pop culture references. I get it. It was cute during the show, but name dropping Lena Dunham four times in as many episodes in the mini-series? Yikes.
+
+The only thing I can’t figure out is if Lorelai or Rory is the Mary-Sue.
