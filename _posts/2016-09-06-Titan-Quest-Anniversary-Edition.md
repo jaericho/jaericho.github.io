@@ -10,7 +10,7 @@ I put 100+ hours in to the original Titan Quest and I was quite excited when I r
 
 # Titan Quest Anniversary Edition
 
-TQAE combines TQ with the expansion Immortal Throne, and includes hundreds of bug fixes and gameplay balances.
+TQAE combines TQ with the expansion Immortal Throne, and includes [hundreds of bug fixes and gameplay balances](http://titanquestgame.com/pcchangelog/TQ_AnniversaryEdition_FullChangelog.txt).
 
 ![pic](/assets/2016/09/tqae-header.jpg)
 
@@ -22,9 +22,9 @@ Where is the loot filter?
 
 Why do I have to drag components to my inventory to combine them? Can’t I combine them while they’re in the inventory?
 
-Then I remembered there is a game where all of this was fixed: Grim Dawn.
+Then I remembered there is a game where all of this was fixed: [Grim Dawn](http://grimdawn.com/).
 
-![pic](/assets/2016/09/gd-header.jpg)
+[![pic](/assets/2016/09/gd-header.jpg)](http://grimdawn.com/)
 
 Called the spiritual successor to Titan Quest, Crate Entertainment started GD by licencing the TQ engine, then proceeded to combine the great TQ multi-classing skill-trees with a good story and topped it off by building in a decade’s worth of ARPG improvements.
 
