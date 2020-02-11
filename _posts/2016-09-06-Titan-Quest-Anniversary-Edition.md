@@ -17,8 +17,11 @@ TQAE combines TQ with the expansion Immortal Throne, and includes hundreds of bu
 So I jumped in with a lot of enthusiasm and ticked up several more hours; however, nostalgia is a hell of a drug and all my rosy memories of TQ started to fade. I started to nitpick little things:
 
 Damn, I have to pick up gold? No auto-loot?
+
 Where is the loot filter?
+
 Why do I have to drag components to my inventory to combine them? Can’t I combine them while they’re in the inventory?
+
 Then I remembered there is a game where all of this was fixed: Grim Dawn.
 
 ![pic](/assets/2016/09/gd-header.jpg)
@@ -27,4 +30,4 @@ Called the spiritual successor to Titan Quest, Crate Entertainment started GD by
 
 I hope TQAE will eventually be updated with some modern features of ARPGs. It’s still a fun game with a good storyline and fun skill-trees. It’s just that the edges are a little too rough. A little polish would extend the life of this great game.
 
-UPDATE 2017-12-01: There is a new expansion for TQ, Ragnarok. It adds a new class and many QoL improvements like starting at lvl40 to get to the new content faster, semi-auto loot for gold, potions and components, and probably more I haven’t found yet.
+UPDATE 2017-12-01: There is a new expansion for TQ, Ragnarok. It adds a new class and many QoL improvements like starting at lvl40 to get to the new content faster, semi-auto loot for gold, potions, and components, and probably more I haven’t found yet.
