@@ -6,7 +6,9 @@ categories: [Windows]
 tags: [DHCP]
 ---
 
-I had to migrate dhcp servers and the export/restore wasn’t working for me. I read that the export/restore method only works on the same server. I’m migrating from 2008 to 2012R2. However, there is a command-line method to add DHCP reservations in Windows and there is an easy way to get a list of existing reservations:
+I had to migrate dhcp servers and the export/restore wasn’t working for me.
+
+I read that the export/restore method only works on the same server. I’m migrating from 2008 to 2012R2. However, there is a command-line method to add DHCP reservations in Windows and there is an easy way to get a list of existing reservations:
 
 `netsh dhcp server dump > output.txt`
 
