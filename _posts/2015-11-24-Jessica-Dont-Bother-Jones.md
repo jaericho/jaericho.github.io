@@ -6,9 +6,9 @@ categories: [Review]
 tags: [Daredevil, Jessica Jones, Netflix, TV Review]
 ---
 
-After watching the excellent Netflix show Daredevil, I was eager to watch the spin-off series, Jessica Jones, but...
+After watching the excellent Netflix show Daredevil, I was eager to watch the spin-off series, Jessica Jones.
 
-It’s classless. It’s horribly written. The dialog is childish. It’s full of terrible modern culture tripe and feminist bullshit. If there’s good in this show, I couldn’t find it.
+However, it’s classless. It’s horribly written. The dialog is childish. It’s full of terrible modern culture tripe and feminist bullshit. If there’s good in this show, I couldn’t find it.
 
 [A comment](https://heartiste.wordpress.com/2015/11/23/if-youve-been-away-from-tv-or-the-movies-for-a-while/#comment-732199) on a very aptly timed [Chateau Heartiste](https://heartiste.wordpress.com/2015/11/23/if-youve-been-away-from-tv-or-the-movies-for-a-while/) post accurately sums up Jessica Jones:
 
