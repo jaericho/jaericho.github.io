@@ -8,14 +8,11 @@ tags: [Ivanti, Landesk]
 
 It’s time for another list of stupid bugs in Ivanti Endpoint Manager (Landesk).
 
-The 2019 Edition of this list deals with my recent upgrade from 2018.3 SU3 to 2019.1 SU2. This version has been out for 6+ mo
-nths, let’s see what bugs are still there…
+The 2019 Edition of this list deals with my recent upgrade from 2018.3 SU3 to 2019.1 SU2. This version has been out for 6+ months, let’s see what bugs are still there…
 
-* Running wscfg32.exe to upgrade the agent removes Bitdefender and won’t reinstall it because of the ldavbd.dll issue. (We’ve
- seen this bug in previous versions so it gets top billing today!)*
+* Running wscfg32.exe to upgrade the agent removes Bitdefender and won’t reinstall it because of the ldavbd.dll issue. (We’ve seen this bug in previous versions so it gets top billing today!)*
 * PXE service doesn’t stay running, even with only one machine being the PXE rep agent.*
-* Agent install will repeatedly prompt for reboot. It looks like a PendingFileRenameOperation reg issue, but deleting the key
- doesn’t fix it.* It looks like this might *be fixed by changing the reboot options for the agent install.
+* ~~Agent install will repeatedly prompt for reboot. It looks like a PendingFileRenameOperation reg issue, but deleting the key doesn’t fix it.~~ This was fixed by changing the reboot options for the agent install.
 * Removing AV with a Console task, doesn’t always remove the AV.*
 * Installing AV with “Interactive Mode” doesn’t do anything.
 
