@@ -2,8 +2,8 @@
 layout: post
 title:  "NAS (Follow Up)"
 date:   2016-08-28 10:00:00 -0600
-categories: [NAS]
-tags: [Build, FreeNAS]
+categories: [Hardware]
+tags: [Build, FreeNAS, NAS, Storage]
 ---
 
 Last Febuary I built a NAS and I learned two things:
