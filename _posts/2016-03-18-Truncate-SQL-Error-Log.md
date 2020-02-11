@@ -2,8 +2,8 @@
 layout: post
 title:  "Truncate SQL Server Error Log"
 date:   2016-03-18 10:00:00 -0600
-categories: [SQL]
-tags: [Database, SQL]
+categories: [Software]
+tags: [Database, Log, SQL]
 ---
 
 `sp_cycle_errorlog` is useful.
