@@ -2,8 +2,8 @@
 layout: post
 title:  "Samsung 850 EVO m.2 500GB"
 date:   2016-03-25 10:00:00 -0600
-categories: [Build]
-tags: [Benchmark, Samsung, SSD]
+categories: [Hardware]
+tags: [Benchmark, Build, Samsung, SSD]
 ---
 
 Wow, these m.2 drives are tiny. 
