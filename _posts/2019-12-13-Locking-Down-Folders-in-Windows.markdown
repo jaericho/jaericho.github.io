@@ -12,8 +12,7 @@ I have a situation where users add files to pre-made folder structure, and somet
 
 However, the problem begins when users accidentally click’n drag a subfolder into another. Or accidentally click’n drag a LOT of subfolders. They don’t know what they are doing, they are users after all. Problems then compound when the folder structure is replicated with DFS to branch offices.
 
-> Users + trackpad = problems
-> 
+> Users + trackpad = problems  
 > Users + pointing stick = problems^2
 > 
 > –Me
