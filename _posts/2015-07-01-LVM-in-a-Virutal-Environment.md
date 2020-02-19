@@ -9,12 +9,14 @@ tags: [Linux, LVM, Partition]
 I have been fighting against my [owncloud](https://owncloud.org) server the past couple of nights.
 
 The drive is too small and I need to grow the disk. Now, I’m used to a Windows environment and this is a pretty simple task:
+
 1. Grow the disk in esxi
 2. Open Disk Management
 3. Right click, Extend
 4. Profit.
- 
+
 Easy-peesy. Even the command line in Windows is fairly straight forward:
+
 1. `diskpart`
 2. `list partitions`
 3. `select partition #`
