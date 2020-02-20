@@ -15,7 +15,7 @@ param (
     [switch]$IncludeDisabledAccounts
 )
 
-$results = Get-ADGroupMember $GroupName | Get-ADUser -Properties Displayname, EmailAddress | `
+Get-ADGroupMember $GroupName | Get-ADUser -Properties Displayname, EmailAddress | `
 
 Where-Object {
 
@@ -27,10 +27,6 @@ Where-Object {
     }
 } `
 | Sort-Object Surname | Select-Object Displayname, SAMAccountName, EmailAddress, Enabled | Format-Table -AutoSize
-
-$results
-
-"`nTotal Users:" + ($results).Count
 ```
 
 Without the `-IncludeDisabledAccounts` switch the Where-Object is `$_.Enabled`; however, if the switch is omitted the Where-Object becomes `$_.Enabled -or !($_.Enabled)`
