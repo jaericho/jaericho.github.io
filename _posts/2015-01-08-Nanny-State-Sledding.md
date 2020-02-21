@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sledding in the Nanny State"
-date:   2015-02-06 20:33:36 -0600
+date:   2015-01-08 20:33:36 -0600
 categories: [Politics]
 tags: [Bureaucracy, Nanny State, Sledding]
 ---
