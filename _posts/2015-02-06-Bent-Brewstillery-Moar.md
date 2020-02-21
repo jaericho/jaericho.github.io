@@ -5,6 +5,7 @@ date:   2015-02-06 20:33:36 -0600
 categories: [Review]
 tags: [Beer, Bent Brewstillery, IPA]
 ---
+
 I found an IPA I like: [Bent Brewstillery’s Moar](http://www.bentbrewstillery.com/).
 
 Bent calls it a Historic IPA. I call it very good. I normally hate IPAs. They make my lips feel like they’re going to dehydrate, shrivel up, and fall off my face. Moar doesn’t do that. It’s a very clean taste; bitter, but not overwhelming.
