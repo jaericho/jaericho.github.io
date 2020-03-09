@@ -8,7 +8,7 @@ tags: [Expectations, Women]
 
 How do you tell a girl their expectations are too high? Don’t. You will never succeed.
 
-Trying to talk a woman out of expecting a man to pay for the first dinner date, out of expecting a romantic marriage proposal, and out of expecting a diamond ring five-hundredths carats bigger than her sister’s ring is something Sisyphus wouldn’t attempt. I should know. I attempted it. It’s amazing at the logical gymnastics played in her mind and amazing that I haven’t learned my lesson yet to keep my own mouth shut.
+Trying to talk a woman out of expecting a man to pay for the first dinner date, out of expecting a romantic marriage proposal, and out of expecting a diamond ring five-hundredths of a carat larger than her sister’s ring is something Sisyphus wouldn’t attempt. I should know. I attempted it. It’s amazing at the logical gymnastics played in her mind and amazing that I haven’t learned my lesson yet to keep my own mouth shut.
 
 Here’s what I was told the other day *(with my thoughts)*: The guy should pay for the first date. She will offer to pay, but he should refuse. *(So it’s not really a *genuine* offer. Just a test.)* But if he accepts her offer than she’ll gladly pay. *(Bullshit, it won’t be gladly.)* Dutch is out of the question. Because. *(Yeah, because actual equality won’t be tolerated.)*
 
