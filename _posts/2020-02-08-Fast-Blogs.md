@@ -57,4 +57,4 @@ So how does the new Jekyll/Github Pages powered post look like in terms of bench
 | Static | 8 K | 23 K | 3 | 130ms
 | | down 99.5% | down 99.2% | down 95.7% | 5x to 9x faster 
 
-That is _much_ more my style.
+I like those results.
