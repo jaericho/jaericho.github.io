@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cubs Game Ruined"
-date:   2014-08-23 08:00:00 -0600
+date:   2014-08-21 08:00:00 -0600
 categories: [Funny]
 tags: [Cubs, Obamacare]
 ---
