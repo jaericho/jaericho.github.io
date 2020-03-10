@@ -6,7 +6,7 @@ categories: [Racing]
 tags: [League, ProKart]
 ---
 
-I was on vacation and missed these last races but here are the videos. I haven’t seen them yet, but I hear there was quite a bit of trading paint. My boss substituted for me this week and he did very well for someone that doesn’t race as often as our group does. “I” finished first in all three heats which translates to +205 R.P.M. points for me.
+I was on vacation and missed these last races but here are the videos. I haven't seen them yet, but I hear there was quite a bit of trading paint. My boss substituted for me this week and he did very well for someone that doesn't race as often as our group does. “I” finished first in all three heats which translates to +205 R.P.M. points for me.
 
 That is a *helluva* night.
 

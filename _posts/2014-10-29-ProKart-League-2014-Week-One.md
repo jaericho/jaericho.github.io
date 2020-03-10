@@ -6,7 +6,7 @@ categories: [Racing]
 tags: [League, ProKart]
 ---
 
-The videos are up for week one of the George Jetson League 2014 at [ProKart Indoor Racing](http://prokartindoor.com/). There’s only six of us this time, but it’s still a lot of fun.
+The videos are up for week one of the George Jetson League 2014 at [ProKart Indoor Racing](http://prokartindoor.com/). There's only six of us this time, but it's still a lot of fun.
 
 {% include youtube.html id="lTdO8qp_uO4" %}
 

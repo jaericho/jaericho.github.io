@@ -6,9 +6,9 @@ categories: [Stupid Bugs]
 tags: [IP, vMotion, vmware, Windows]
 ---
 
-I’ve been fighting a very annoying bug with a couple of my Windows servers.
+I've been fighting a very annoying bug with a couple of my Windows servers.
 
-They would lose their static IP address after being vmotion’d and go back to DHCP. The easy workaround was to disable DRS on those specific VMs which we did, but that doesn’t fix anything.
+They would lose their static IP address after being vmotion'd and go back to DHCP. The easy workaround was to disable DRS on those specific VMs which we did, but that doesn't fix anything.
 
 I thought for sure that the issue was at the VM level, but it turns out that after upgrading from `5.1 Patch 2 (1743533)` to `5.1 Patch 7 (2583090)` the issue has cleared up.
 
