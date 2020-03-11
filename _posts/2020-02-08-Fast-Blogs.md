@@ -55,6 +55,6 @@ So how does the new Jekyll/Github Pages powered post look like in terms of bench
 | | Transfer | Resources | Requests | Time
 | WordPress | 1,500 K | 2,900 K | 70+ | 500-900ms
 | Static | 8 K | 23 K | 3 | 130ms
-| | down 99.5% | down 99.2% | down 95.7% | 5x to 9x faster 
+| | down 99.5% | down 99.2% | down 95.7% | 5x to 9x faster
 
 I like those results.
