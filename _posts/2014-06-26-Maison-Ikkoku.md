@@ -8,7 +8,7 @@ tags: [anime, Maison Ikkoku, TV Review]
 
 How much of a Maison Ikkoku fan am I?
 
-![Kyoko Otonashi](/assets/2014/06/kyoko.jpg){:align="right"}
+![Kyoko Otonashi](/assets/2014/06/kyoko.jpg){:align="right" padding="20px"}
 
 Well, let's count... I have the legit [DVDs](http://www.amazon.com/Maison-Ikkoku-Collectors-Box-eps-1-12/dp/B00009L53V) from Viz, bootleg copy DVDs from Hong Kong, two complete sets of first and second edition [graphic novels](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dus-stripbooks-tree&field-keywords=maison+ikkoku&x=0&y=0) from Viz (both read countless times over), several soundtracks, the same t-shirt in grey and white, and I watched the entire 96 episode TV series non-stop in 41 hours over a single [Memorial Day weekend](http://ikkoku.yuku.com/topic/664/t/Maison-Ikkoku-in-1-Weekend.html).
 
