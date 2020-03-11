@@ -38,14 +38,14 @@ Kudos, Gigabyte.
 
 ## Benchmarks
 
-| Cinebench 10              | Q9450 | i7-4790K
-| Rendering (Single CPU):   | 3189  | **8561**  (2.68x)
-| Rendering (Multiple CPU): | 11562 | **32857** (2.84x)
-| Multiprocessor Speedup:   | 3.63  | **3.84**
+| | **Q9450** | **i7-4790K**
+| Cinebench 10 Rendering (Single CPU):   | 3189  | 8561  (2.68x)
+| Cinebench 10 Rendering (Multiple CPU): | 11562 | 32857 (2.84x)
+| Cinebench 10 Multiprocessor Speedup:   | 3.63  | 3.84
 
 Handbrake 9.9 v6227 x64 (same quality settings)
 (fps measurements are approximate)
 
-| Q9450    x264 (4 cores):    40fps|
-| i7-4790K x264 (8 threads): 175fps|
-| i7-4790K x264 (QuickSync): 400fps|
+| Q9450    x264 (4 cores)   | 40fps
+| i7-4790K x264 (8 threads) | 175fps
+| i7-4790K x264 (QuickSync) | 400fps
