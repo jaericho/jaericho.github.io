@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Fast Blogs"
-date:   2020-02-08 10:00:00 -0600
+title:  "A Simple Name Change"
+date:   2014-07-01 10:00:00 -0600
 categories: [Culture]
 tags: [Apple, elementaryos, ISIS, linux]
 ---
