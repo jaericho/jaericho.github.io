@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Maleficent"
+date:   2014-06-24 10:00:00 -0600
+categories: [Review]
+tags: [Disney, Movie Reivew, Sleeping Beauty]
+---
+
+I've been a fan of the Disney movie [Sleeping Beauty](http://www.imdb.com/title/tt0053285/) (1959) for quite a while. The hand painted backgrounds, the character design, and the beautiful music make it a wonderful movie and probably one of my favorite animated Disney movies.
+
+Thus, Angelina Jolie's new movie [Maleficent](http://www.imdb.com/title/tt1587310/) had to overcome some very high standards with me.
+
+After watching it this past weekend, I think the movie started with a single idea: the kiss of true love to awaken the Sleeping Beauty came not from Prince Phillip, but from Maleficent. Apologizing for cursing Princess Aurora she kisses Aurora and that is the true love that breaks the curse. I like the idea. I think it's a good twist on the repetitive, romantic love interest swooping in to save the fair maiden. My issue is that the rest of the movie fell flat. The writers worked to keep Maleficent in the canon of the original Sleeping Beauty movie and created a lot of inconsistencies.
+
+The movie starts with Maleficent as a young fairy girl (albeit with evil looking horns and non-fairy like wings) falling for a human boy. However, their romantic feelings are panned over quickly, and the betrayal by this boy (the soon-to-be King Stephan) doesn't seem real or tragic. The audience is just given a flimsy, one sentence explanation as to the motivation of the betrayal: He became greedy. And the reason for Maleficent's fall isn't very sympathetic or believable.
+
+The scene of the curse of Princess Aurora is very similar to the original movie. The green fire surrounding the evil witch Maleficent, complete with crow familiar in tow, was well done with dark imagery. However, soon after the curse and the hiding of Aurora comes the next left turn in the movie. Maleficent begins watching over Aurora because the three fairy Godmothers (Pink, Blue, and Green, whatever their names may be) are completely inept. There are jests that the baby would die of neglect before the curse is complete. So Maleficent begins secretly caring for the baby behind the backs of the fairy Godmothers, and thus begins the slow warming of Maleficent's heart towards Aurora. Or that was the only explanation the writers could think up.
+
+Most of the story seems to have been built around the simple idea that Maleficent is the one to free Aurora from her curse. From one angle, I think it's a great idea. It shakes up some often used fairy tale tropes. The other angle builds upon a concern I have. Hollywood has been on a fallen hero kick for the past decade, and I find it tiresome. The constant bashing of heroes has left our society to think that all acts of good are wasted because even our heroes are bad. A friend of mine often remarks that Superman is a horrible character because he's perfect. I happen to think that all the fallen heroes and anti-heroes is just a way to worship what is broken and a way to despair against life. In Maleficent, there is another twist on the fallen hero. Instead of taking a hero and bringing them down, Disney has taken the most evil animated villain and made her a hero. Except she isn't fully redeemed at the end of the movie. She has her revenge, but at the end of the movie it is plainly stated that Maleficent is both hero and villain. Had Maleficent been fully redeemed along with King Stephan, I would like this movie much more. However, for a movie aimed at kids (pre-teens at the earliest in my opinion), where none of the characters are redeemed and the villain is stated to be hero, I find it to be on shaky ground.
+
+The final complaint could be added to nearly any Disney movie: the lack of any decent male characters. Frozen had none. Maleficent had none. I would bet the new Cinderella will have none. (There was a Cinderella teaser before Maleficent.)
+
+Even with all that complaining, Maleficent wasn't a bad movie. I really liked the initial idea, and had Maleficent and King Phillip been fully redeemed at then end, this movie would have been on my 'to buy' list. But the story felt shoehorned to fit with the original movie and doing that well was and would have been too difficult.
