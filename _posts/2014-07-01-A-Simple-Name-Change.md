@@ -22,7 +22,13 @@ Here is what annoys me:
 
 > ...elementary obviously *has no ties* to that group—and we don’t think people will get us confused—but we want to both *recognize the ongoing turmoil* and choose a *less controversial* name.
 
-This is just more wannabe social justice, politically correct, feelgood bullshit that I come to expect from people. *"...obviously has no ties...,"* No shit, Sherlock. Any outside visitor to your site employing the logical reasoning that an eight year old is capable of would conclude that the name Isis and the acronym ISIS are not the same. *"...recognize the ongoing turmoil…,"* There is some perpetual need that floats across leftoids making them believe in the nobility of drawing attention to their concerns for others. In reality, that perpetual need is narcissism cloaked in altruism. *"...less controversial...,"* There is no controversy. There is no controversy because there are no ties to the ISIS group. I doubt very much ISIS was complaining about it, and if they were, shouldn’t they been told to shove it?
+This is just more wannabe social justice, politically correct, feelgood bullshit that I come to expect from people.
+
+*"...obviously has no ties...,"* No shit, Sherlock. Any outside visitor to your site employing the logical reasoning that an eight year old is capable of would conclude that the name Isis and the acronym ISIS are not the same.
+
+*"...recognize the ongoing turmoil…,"* There is some perpetual need that floats across leftoids making them believe in the nobility of drawing attention to their concerns for others. In reality, that perpetual need is narcissism cloaked in altruism.
+
+*"...less controversial...,"* There is no controversy. There is no controversy because there are no ties to the ISIS group. I doubt very much ISIS was complaining about it, and if they were, shouldn’t they been told to shove it?
 
 What happens when some terrorist group crops up with the name Elementary. Does the whole project change its name? What if there is a child molester named Freya? Will the code name be changed a second time? Should the elementary OS project try to accommodate the world to lessen controversy?
 
