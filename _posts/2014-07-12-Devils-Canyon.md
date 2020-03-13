@@ -10,7 +10,7 @@ Time for a new build.
 
 ## The Brains
 
-![Devil's Canyon](/assets/2014/07/devilscanyon.png){:height="300px" width="162px" align="right"}
+![Devil's Canyon](/assets/2014/07/devilscanyon.png){:height="300px" align="right"}
 
 The last computer I built for myself was in April, 2008. Quad-core processors were just released and I ponied up big bucks for the Yorkfield based [Q9450](http://ark.intel.com/products/33923/Intel-Core2-Quad-Processor-Q9450-12M-Cache-2_66-GHz-1333-MHz-FSB). It was Intel’s Core 2 Quad 2.66 Ghz desktop processor with 12MB of L2 cache on a 45nm process. That processor has served me well over the years. Its led me through a lot of gaming, video encoding, and virtualization over the years, but now it will serve me as my dedicated Plex server. It’s time to upgrade.
 
