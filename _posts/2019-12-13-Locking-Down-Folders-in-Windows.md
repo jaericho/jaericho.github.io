@@ -23,9 +23,9 @@ A: Add the following ACL to the root folder.
 
 [![Deny Delete ACL](/assets/2019/12/deny-delete-ACL.png)](/assets/2019/12/deny-delete-ACL.png)
 
-This ACL will only apply to the subfolders in the root folder. No drag’n drop, no renaming, no deleting. There is one caveat that users can create folders directly under root. However, if they use Windows Explorer they will only be able to create folders called “New Folder”, and will not be able to rename them.
+This ACL will only apply to the subfolders in the root folder. No drag’n drop, no renaming, no deleting. There is one caveat that users can *create* folders directly under root. However, if they use Windows Explorer they will only be able to create folders called “New Folder”, and will not be able to rename them.
 
-The only issue is that I will never know if this is the fix other than never having to restore files in that folder……or maybe I’ll know in a week.
+The only issue is that I will never know if this is the fix other than never having to restore files in that folder...or maybe I’ll know in a week.
 
 > Do you know who uses TrackPoints and trackballs? Communists.
 > 
