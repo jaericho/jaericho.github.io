@@ -8,7 +8,7 @@ tags: [Disney, Movie Reivew, Sleeping Beauty]
 
 I've been a fan of the Disney movie [Sleeping Beauty](http://www.imdb.com/title/tt0053285/) (1959) for quite a while. The hand painted backgrounds, the character design, and the beautiful music make it a wonderful movie and probably one of my favorite animated Disney movies.
 
-Thus, Angelina Jolie's new movie [Maleficent](http://www.imdb.com/title/tt1587310/) had to overcome some very high standards with me.
+![Maleficent Poster](/assets/2014/06/maleficent.jpg){:height="300px" align="right" border="1px"} Thus, Angelina Jolie's new movie [Maleficent](http://www.imdb.com/title/tt1587310/) had to overcome some very high standards with me.
 
 After watching it this past weekend, I think the movie started with a single idea: the kiss of true love to awaken the Sleeping Beauty came not from Prince Phillip, but from Maleficent. Apologizing for cursing Princess Aurora she kisses Aurora and that is the true love that breaks the curse. I like the idea. I think it's a good twist on the repetitive, romantic love interest swooping in to save the fair maiden. My issue is that the rest of the movie fell flat. The writers worked to keep Maleficent in the canon of the original Sleeping Beauty movie and created a lot of inconsistencies.
 
