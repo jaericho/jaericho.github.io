@@ -8,7 +8,7 @@ categories: [Windows]
 Just for posterity, here are the default features of Windows Server 2016.
 
 ```
-PS C:\Users\Admin> Get-WindowsFeature | ? {$_.InstallState -eq "Installed"} | ft -autosize
+> Get-WindowsFeature | ? {$_.InstallState -eq "Installed"} | ft -autosize
  Display Name                          Name                      Install State
  ------------                          ----                      -------------
  [X] File and Storage Services         FileAndStorage-Services       Installed
