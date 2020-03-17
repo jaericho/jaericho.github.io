@@ -8,12 +8,12 @@ tags: [AnyConnect, ASA, Cisco, Firewall, NAT, Networking]
 
 `same-security-traffic permit inter-interface` and `same-security-traffic permit intra-interface` are not the same.
 
-Did you spot the difference? While working on getting VPN users connected with AnyConnect to an ASA to pass traffic between each other I found out that those commands will conflict with each other.
+Did you spot the difference? While working on getting VPN users to pass traffic between each other I found out that those commands will conflict with each other.
 
     same-security-traffic permit inter-interface
     same-security-traffic permit intra-interface
 
-I spotted a post that said these commands are required for vpn users to pass traffic:
+I spotted a post that said these commands are required for vpn users to pass traffic between each other:
 
 ```
 same-security-traffic permit intra-interface
