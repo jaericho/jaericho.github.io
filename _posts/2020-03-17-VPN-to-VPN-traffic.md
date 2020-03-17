@@ -34,4 +34,4 @@ Removing `same-security-traffic permit inter-interface` fixed the issue.
 
 `same-security-traffic permit intra-interface` is the middle checkbox.
 
-*Also, I couldn't add the nat statement with ASDM. I could only use the CLI.*
+*Also, I couldn't add the nat statement with ASDM. It would reset after a refresh. I had to use the CLI.*
