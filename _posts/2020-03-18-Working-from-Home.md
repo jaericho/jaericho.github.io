@@ -8,7 +8,7 @@ tags: [AnyConnect, ASA, ASDM, VPN]
 
 I didn't think I'd care for working from home.
 
-I don't mind going in the office. I enjoy the routine, my coworkers are nice, and my commute is 2.5 miles. (15 minutes long because of all the lights. ugh) But I must say that three days of working from home and I'm hooked.
+I don't mind going in the office. I enjoy the routine, my coworkers are nice, and my commute is less than three miles (15 minutes long because of all the lights. ugh). but I must say that three days of working from home and I'm hooked.
 
 Now, I'm one to *work* when I work from home. I know people that *work* from home often and it mostly consists of surfing the web in their pajamas. To toot my own horn, not me. I still do my morning routine, get fully dressed, and even don my security badge. I think that's the key to staying in the working mindset and not getting distracted.
 
