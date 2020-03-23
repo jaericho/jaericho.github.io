@@ -6,7 +6,7 @@ categories: [Review]
 tags: [Mark Wahlberg, Netflix, Movie Reivew]
 ---
 
-It has Mark Wahlberg, I gotta see it.
+It stars Mark Wahlberg, I gotta see it.
 
 ![Spencer Confidential (2020)](/assets/2020/03/spencer-confidential-2020.jpg){:height="300px" align="right" border="1px"}
 
