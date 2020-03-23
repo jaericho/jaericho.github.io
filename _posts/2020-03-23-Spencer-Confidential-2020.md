@@ -28,4 +28,4 @@ And the comedy part felt like it was a mashup of a bunch of ideas that didn't fi
 
 Some of the one-liners were funny, but nothing really felt like it all fit together.
 
-Overall, it wasn't bad. I'm not wishing for my time back, but I don't think there was enough character development, the jokes didn't seem to jive, and at 1:51, it felt fifteen minutes too long for what it was.
+Overall, it wasn't bad. I was entertained; however, I don't think there was enough character development, the jokes didn't seem to jive, and at 1:51, it felt fifteen minutes too long for what it was.
