@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Screensnips and Teams"
+title:  "Screen Clips and Teams"
 date:   2020-04-08 08:00:00 -0600
 categories: [Productivity]
-tags: [Microsoft Office, Screenshot, Snip, Teams]
+tags: [Clip, Microsoft Office, Screenshot, Snip and Sketch, Teams]
 ---
 
 Teams needs this feature from Jabber.
 
-[Microsoft Office](https://office.microsoft.com) and [Jabber](https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html) have a neat screen snipping tool built right in. For Office, I always add it to the top of my Outlook quick action bar so I can easily snip part of the screen, then it will automatically paste the pic into the current email. It is extremely useful.
+[Microsoft Office](https://office.microsoft.com) and [Jabber](https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html) have a neat screen clipping tool built right in. For Office, I always add it to the top of my Outlook quick action bar so I can easily clip part of the screen, then it will automatically paste the pic into the current email. It is extremely useful.
 
 ![Outlook Screen Clip](/assets/2020/04/outlook-ccreen-clipping.png){:border="1px"}
 
-Jabber has something very similar and will automatcially paste the snip into the next chat window. ![Jabber Screen Clip](/assets/2020/04/jabber-screen-clipping.png){:border="1px"}
+Jabber has something very similar and will automatcially paste the clip into the next chat window. ![Jabber Screen Clip](/assets/2020/04/jabber-screen-clipping.png){:border="1px"}
 
 Well, [Microsoft Teams](https://teams.microsoft.com) doesn't have this feature built-in that I can find, but I have found that I can replcate something close to it. (For Windows 10)
 
