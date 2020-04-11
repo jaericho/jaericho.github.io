@@ -3,7 +3,7 @@ layout: post
 title:  "Handbrake and Anamorphic DVDs"
 date:   2020-04-11 08:00:00 -0600
 categories: [Computers]
-tags: [DVD, Encoding, Handbrake, Ripping, x264]
+tags: [Anamorphic, Aspect Raio, DVD, Encoding, Handbrake, Ripping]
 ---
 
 Whomever made the early Midsomer Murders American DVDs should be punished.
@@ -24,19 +24,21 @@ This [reddit post](https://www.reddit.com/r/handbrake/comments/5mm47h/how_to_str
 
 ### Handbrake GUI
 
+From the reddit post:
+
 > The right thing to do, that you can do in the GUI, is:
 >
 > - Anamorphic loose
 > - Keep aspect ratio off
 > - Set the PAR value correctly to stretch it out horizontally
 
-### Handbrake with a little CLI
+But setting the Anamorphic to loose does allow me to set the PAR value. Something must have changed in later versions. I think it's Custom that I want.
 
-When the Handbrake GUI fix didn't work for me with these particular DVDs, (it has worked with other DVDs) I tried the CLI method.
+### Handbrake GUI (with a little CLI)
+
+When the Handbrake GUI fix didn't work for me with these particular DVDs, (it has worked with other DVDs) I tried the CLI method listed in the reddit post.
 
 I found the SAR/DAR/PAR on a good DVD and compared it to a bad DVD with `ffmpeg -i <input.mkv>`
-
-and that yield me this:
 
 Good DVD: `Stream #0:0(eng): Video: mpeg2video (Main), yuv420p(tv, top first), 720x480 [SAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 29.97 tbr, 1k tbn, 59.94 tbc`
 
