@@ -59,4 +59,4 @@ This one is actually the easier fix.
 1. On the right hand side, change `Set aspect ratio` to 16/9.
 1. Re-mux your video, and you can use handbrake with Anamorphic set to Auto.
 
-![mkvtools fix](/assets/2020/04/mkvtools-aspect-ratio-fix.png){:border="1px}
+![mkvtools fix](/assets/2020/04/mkvtools-aspect-ratio-fix.png){:border="1px"}
