@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Handbrake and Anamorphic DVDs"
+date:   2020-04-11 08:00:00 -0600
+categories: [Computers]
+tags: [DVD, Encoding, Handbrake, Ripping, x264]
+---
+
+Whomever made the early Midsomer Murders American DVDs should be punished.
+
+I've been trying to put my Midsomer Murders collection on Plex and I don't understand why some DVDs can be easy to rip and some can't. Even within the same series. First of all the DVDs are different between series. Some are anamorphic (whatever the fuck that means) and some are not.
+
+Some are in 16:9 and some are 16:9 squished into 4:3. Which makes them look like shit. And trying to fix it with Handbrake can be a pain.
+
+## Problem
+
+Here is what I'm dealing with. The picture is supposed to be 16:9 but somehow it's stored on the DVD with non-square pixels so it comes out as 4:3. From what I gather this is Anamorphic video.
+
+![Squished Video](/assets/2020/04/squished-video.png){:border="1px}
+
+## How to fix
+
+This [reddit post](https://www.reddit.com/r/handbrake/comments/5mm47h/how_to_stretch_from_43_to_169/) pointed me in the right direction and showed me that there are two ways to fix this issue.
+
+### Handbrake GUI
+
+> The right thing to do, that you can do in the GUI, is:
+>
+> - Anamorphic loose
+> - Keep aspect ratio off
+> - Set the PAR value correctly to stretch it out horizontally
+
+### Handbrake with a little CLI
+
+When the Handbrake GUI fix didn't work for me with these particular DVDs, (it has worked with other DVDs) I tried the CLI method.
+
+I found the SAR/DAR/PAR on a good DVD and compared it to a bad DVD with `ffmpeg -i <input.mkv>`
+
+and that yield me this:
+
+Good DVD: `Stream #0:0(eng): Video: mpeg2video (Main), yuv420p(tv, top first), 720x480 [SAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 29.97 tbr, 1k tbn, 59.94 tbc`
+
+Bad DVD: `Stream #0:0(eng): Video: mpeg2video (Main), yuv420p(tv, top first), 720x480 [SAR 32:27 DAR 16:9], SAR 186:157 DAR 279:157, 29.97 fps, 29.97 tbr, 1k tbn, 59.94 tbc`
+
+With a little trial and error, I was able to plug those SAR _(PAR?)_ numbers of `186:157` into the Handbrake GUI:
+
+![Handbrake Adjusted PAR](/assets/2020/04/handbrake-adjusted-PAR.png){:border="1px"}
+
+We want to keep the vertical lines (480) and just stretch out the video horozontally, so 480 lines with a 186:157 aspect ratio means 853 horozontal lines.
+
+### mkvtools
+
+This one is actually the easier fix.
+
+1. Open the file with mkvtools-gui.
+1. Select the video stream.
+1. On the right hand side, change `Set aspect ratio` to 16/9.
+1. Re-mux your video, and you can use handbrake with Anamorphic set to Auto.
+
+![mkvtools fix](/assets/2020/04/mkvtools-aspect-ratio-fix.png){:border="1px}
