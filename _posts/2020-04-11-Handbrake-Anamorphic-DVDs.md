@@ -3,10 +3,10 @@ layout: post
 title:  "Handbrake and Anamorphic DVDs"
 date:   2020-04-11 08:00:00 -0600
 categories: [Computers]
-tags: [Anamorphic, Aspect Raio, DVD, Encoding, Handbrake, Ripping]
+tags: [Anamorphic, Aspect Raio, DVD, Encoding, Handbrake, makemkv, mkvtools, Plex, Ripping]
 ---
 
-Whomever made the early [Midsomer Murders](https://www.imdb.com/title/tt0118401/) American DVDs should be punished.
+Whomever made the early American DVDs for [Midsomer Murders](https://www.imdb.com/title/tt0118401/) should be punished.
 
 I've been trying to put my Midsomer Murders collection on [Plex](https://plex.tv) and I don't understand why some DVDs can be easy to reencode and some aren't. Even within the same tv show, the DVD sets (seasons) are authored differently. The early sets have a squished picture, but thankfully after about set 11 or so, they are fixed.
 
