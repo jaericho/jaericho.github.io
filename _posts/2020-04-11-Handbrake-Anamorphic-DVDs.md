@@ -6,15 +6,15 @@ categories: [Computers]
 tags: [Anamorphic, Aspect Raio, DVD, Encoding, Handbrake, Ripping]
 ---
 
-Whomever made the early Midsomer Murders American DVDs should be punished.
+Whomever made the early [Midsomer Murders](https://www.imdb.com/title/tt0118401/) American DVDs should be punished.
 
-I've been trying to put my Midsomer Murders collection on [Plex](https://plex.tv) and I don't understand why some DVDs can be easy to rip and some can't. Even within the same series. First of all the DVDs are different between series. Some are anamorphic (whatever the fuck that means) and some are not.
+I've been trying to put my Midsomer Murders collection on [Plex](https://plex.tv) and I don't understand why some DVDs can be easy to reencode and some aren't. Even within the same tv show, the DVD sets (seasons) are authored differently. The early sets have a squished picture, but thankfully after about set 11 or so, they are fixed.
 
 Some are in 16:9 and some are 16:9 squished into 4:3. Which makes them look like shit. And trying to fix it with [Handbrake](https://www.handbrake.fr) can be a pain.
 
 ## Problem
 
-Here is what I'm dealing with: I ripped the DVD's with [MakeMKV](https://www.makemkv.com/). The picture is supposed to be 16:9, but somehow it's stored on the DVD with non-square pixels so it comes out as 4:3. From what I gather this is called Anamorphic video.
+Here is what I'm dealing with: I ripped the DVD's with [MakeMKV](https://www.makemkv.com/). That works great, and it's even better that with DVD's it's free. However, The picture is supposed to be 16:9, but somehow it's stored on the DVD with non-square pixels so it comes out as 4:3. From what I gather this is called Anamorphic video.
 
 ![Squished Video](/assets/2020/04/squished-video.png){:border="1px}
 
@@ -44,7 +44,7 @@ Good DVD: `Stream #0:0(eng): Video: mpeg2video (Main), yuv420p(tv, top first), 7
 
 Bad DVD: `Stream #0:0(eng): Video: mpeg2video (Main), yuv420p(tv, top first), 720x480 [SAR 32:27 DAR 16:9], SAR 186:157 DAR 279:157, 29.97 fps, 29.97 tbr, 1k tbn, 59.94 tbc`
 
-With a little trial and error, I was able to plug those SAR _(PAR?)_ numbers of `186:157` into the Handbrake GUI:
+With a little trial and error, I was able to plug those SAR _(PAR?)_ numbers from the Bad DVD of `186:157` into the Handbrake GUI:
 
 ![Handbrake Adjusted PAR](/assets/2020/04/handbrake-adjusted-PAR.png){:border="1px"}
 
