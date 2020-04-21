@@ -28,4 +28,4 @@ And the comedy part felt like it was a mashup of a bunch of ideas that didn't fi
 
 Some of the one-liners were funny, but nothing really felt like it all fit together.
 
-Overall, it wasn't bad. I was entertained; however, I don't think there was enough character development, the jokes didn't seem to jive, and at 1:51, it felt fifteen minutes too long for what it was. IMDB currently rates it at 6.2. That's fair.
+Overall, it wasn't bad. I was entertained; however, I don't think there was enough character development, the jokes didn't seem to jive, and at 1:51, it felt fifteen minutes too long for what it was. IMDB currently rates it at 6.2. That's more than fair.
