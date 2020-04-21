@@ -29,6 +29,8 @@ Mar 30 15:55:04 opennms.localdomain opennms[4801]: [  OK  ]
 
 Apparently, when installing Centos 8 with the Server with a GUI option it will install some flavor of java which will conflict with OpenNMS. I didn't mess around with it too much to get the exact cause. But this [post](https://opennms.discourse.group/t/opennms-is-not-starting/295/14) helped me figure it out.
 
-According to this post I could add a minimal Gnome environment and a browser without messing this install, but I'll try to live without it for now.
+The fix was to reinstall CentOS 8 with GUI-less Server option.
+
+According to the post I could add a minimal Gnome environment and a browser without messing with the OpenNMS install, but I'll try to live without it for now.
 
 I hate Java and it's conflicts.
