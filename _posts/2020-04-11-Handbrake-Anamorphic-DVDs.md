@@ -52,12 +52,12 @@ We want to keep the vertical lines (480) and just stretch out the video horozont
 
 ### Fix 2: mkvtools
 
-This one is actually the easier fix.
+MKVToolNix is the easier fix.
 
 1. Open the file with [MKVToolNix-gui](https://mkvtoolnix.download).
 1. Select the video stream.
 1. On the right hand side, change `Set aspect ratio` to `16/9`.
-1. Re-mux the video. 
+1. Re-mux the video.
 1. Use Handbrake normally (with Anamorphic set to Auto).
 
 ![mkvtools fix](/assets/2020/04/mkvtools-aspect-ratio-fix.png){:border="1px"}
