@@ -14,7 +14,7 @@ Daniel Radcliffe does a good job as our *I-Dont-Wanna-Be-The-Hero* hero. The vil
 
 However, even though the movie is billed as an action/comedy, there were never any laugh out loud moments. Maybe some chuckles and definitely some rolling eyes, but no real funny comedy. The action was over the top at times (so is the premise) but I think still suffers from the impossible hit trope. People don't keep fighting after getting hit with a hammer in the head...**three times**.
 
-As far as braindead entertainment movies go, this one is okay. Everything seemed to fit together but something was just 15 degrees off and I can't put my finger on it.
+As far as braindead entertainment movies go, this one is okay. Everything seemed to fit together, but something was just 15 degrees off. It felt like the movie was trying to moralize and make a statement. Something along the lines of "Humans suck and we exploit each other"...*So edgy.*
 
 Watch: maybe. Buy: no.
 
