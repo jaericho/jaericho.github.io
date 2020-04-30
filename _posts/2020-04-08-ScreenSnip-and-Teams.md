@@ -2,8 +2,8 @@
 layout: post
 title:  "Screen Clips and Teams"
 date:   2020-04-08 08:00:00 -0600
-categories: [Productivity]
-tags: [Clip, Microsoft Office, Screenshot, Snip and Sketch, Teams]
+categories: [Software]
+tags: [Clip, Jabber, Microsoft Teams, Microsoft Office, Screenshot, Snip and Sketch, Windows]
 ---
 
 Teams needs this feature from Jabber.
