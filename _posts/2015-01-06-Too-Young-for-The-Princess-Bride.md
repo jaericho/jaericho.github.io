@@ -2,7 +2,7 @@
 layout: post
 title:  "Too Young for The Princess Bride"
 date:   2015-01-06 08:00:00 -0600
-categories: [funny]
+categories: [Funny]
 tags: [Aaron Rogers, Movie, Princess Bride]
 ---
 
