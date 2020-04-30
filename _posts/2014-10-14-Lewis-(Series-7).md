@@ -2,8 +2,8 @@
 layout: post
 title:  "Lewis (Series 7)"
 date:   2014-10-24 08:00:00 -0600
-categories: [Reviews]
-tags: [Lewis, Review, TV]
+categories: [Review]
+tags: [Lewis, TV]
 ---
 
 I saw the premier of series 7 for Lewis. I liked it.
