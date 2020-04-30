@@ -2,8 +2,8 @@
 layout: post
 title:  "Mediawiki and Notepad++"
 date:   2020-02-21 10:00:00 -0600
-categories: [software]
-tags: [markdown, Mediawiki, Notepadpp]
+categories: [Software]
+tags: [Markdown, Mediawiki, Notepad++]
 ---
 
 [Here](https://en.wikipedia.org/wiki/User:MjolnirPants/mediawiki_lang_npp) is a nice User Defined Language for Mediawiki for Notepad++.
