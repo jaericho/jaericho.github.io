@@ -6,6 +6,6 @@ categories: [Truth]
 tags: [Good Friday, Easter]
 ---
 
-I remember this BC comic every Good Friday. It’s one of my favorites.
+I remember this BC comic every [Good Friday](https://infogalactic.com/info/Good_Friday). It’s one of my favorites.
 
 ![pic](/assets/2016/03/bc_good_friday_2.png)
