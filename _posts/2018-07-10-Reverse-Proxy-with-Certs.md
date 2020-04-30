@@ -2,8 +2,8 @@
 layout: post
 title:  "Reverse Proxy with Certs"
 date:   2018-07-10 20:33:36 -0600
-categories: [linux]
-tags: [Reverse Proxy, Certs, webserver]
+categories: [Linux]
+tags: [Certs, Reverse Proxy, webserver]
 ---
 
 [Here](https://tylermade.net/2017/09/14/the-perfect-reverse-proxy-nginx-ssl-webui-management) is a great tutorial for setting up a reverse proxy for webservers.
