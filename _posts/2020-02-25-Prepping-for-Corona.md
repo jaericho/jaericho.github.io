@@ -2,8 +2,8 @@
 layout: post
 title:  "Prepping for Corona"
 date:   2020-02-25 08:00:00 -0600
-categories: [culture]
-tags: [Corona, prepping, supplies]
+categories: [Culture]
+tags: [Coronavirus, Prepping, Supplies]
 ---
 
 I've looked at some of these suggestions and I think they are worth implementing.
