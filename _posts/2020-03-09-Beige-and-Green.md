@@ -2,7 +2,7 @@
 layout: post
 title:  "Beige and Green"
 date:   2020-03-09 08:00:00 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [Accent, Beige, Color, Paint]
 ---
 

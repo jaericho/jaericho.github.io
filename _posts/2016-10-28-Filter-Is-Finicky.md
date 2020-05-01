@@ -12,17 +12,17 @@ Basically, I can’t use properties of variables with `-Filter`
 
 This does NOT work:
 
-{% highlight posh %}
+```posh
 foreach ($user in $userlist) {
   $ADUser = Get-ADUser -Filter{(Surname -eq $user.Surname) -and (GivenName -eq $user.GivenName)}
 }
-{% endhighlight %}
+```
 
 This does work:
-{% highlight posh %}
+```posh
 foreach ($user in $userlist) {
   $ln = $user.Surname
   $fn = $user.GivenName
   $ADUser = Get-ADUser -Filter{(Surname -eq $ln) -and (GivenName -eq $fn)}
 }
-{% endhighlight %}
+```

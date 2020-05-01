@@ -2,11 +2,11 @@
 layout: post
 title:  "Elite Dangerous"
 date:   2014-12-23 08:00:00 -0600
-categories: [Review]
-tags: [Elite Dangerous, game review, video games]
+categories: [Reviews]
+tags: [Elite Dangerous, Game Review, Video Games]
 ---
 
-My D3 hours has been stagnant for a while. I've even gone back to Torchlight and PuzzleQuest for some light gaming, but I think I've found my D3 replacement for a while. (At least until Season 2 where I'll need to grind up another character to 70 to get the transmog rewards):
+My Diablo 3 hours has been stagnant for a while. I've even gone back to Torchlight and PuzzleQuest for some light gaming, but I think I've found my D3 replacement for a while. (At least until Season 2 where I'll need to grind up another character to 70 to get the transmog rewards):
 
 [Elite: Dangerous](http://elitedangerous.com/)
 

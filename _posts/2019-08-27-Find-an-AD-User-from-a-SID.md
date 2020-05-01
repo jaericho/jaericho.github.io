@@ -8,6 +8,6 @@ tags: [Active Directory]
 
 How to find an Active Directory user from a SID:
 
-{% highlight posh %}
+```posh
 get-aduser -Properties SID | where { $_.SID -eq "S-1-5-21-1111111111-222222222-3333333333-44444" }
-{% endhighlight %}
+```

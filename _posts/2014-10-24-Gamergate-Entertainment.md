@@ -2,7 +2,7 @@
 layout: post
 title:  "#Gamergate Entertainment"
 date:   2014-10-24 08:00:00 -0600
-categories: [Culture]
+categories: [Politics]
 tags: [Ethics, Gamergate, Journalism]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Bent Brewstillery's Moar"
 date:   2015-02-06 20:33:36 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [Beer, Bent Brewstillery, IPA]
 ---
 

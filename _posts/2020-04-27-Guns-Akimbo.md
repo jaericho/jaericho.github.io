@@ -2,7 +2,7 @@
 layout: post
 title:  "Guns Akimbo (2019)"
 date:   2020-04-27 08:00:00 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [Action Comedy, Daniel Radcliffe, Guns Akimbo, Movie Reivew]
 ---
 

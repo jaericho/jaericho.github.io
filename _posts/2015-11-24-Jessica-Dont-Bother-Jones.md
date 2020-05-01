@@ -2,7 +2,7 @@
 layout: post
 title:  "Jessica “don’t bother” Jones"
 date:   2015-11-24 10:00:00 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [Daredevil, Jessica Jones, Netflix, TV Review]
 ---
 

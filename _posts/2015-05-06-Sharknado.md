@@ -2,8 +2,8 @@
 layout: post
 title:  "Sharknado"
 date:   2015-05-11 20:33:36 -0600
-categories: [Funny]
-tags: [Movie, Sharknado]
+categories: [Reviews]
+tags: [Movie Review, Sharknado]
 ---
 
 I found out that Sharknado with the Rifftrax commentary can be bought from [Rifftrax store](http://www.rifftrax.com/rifftrax-live-sharknado).

@@ -16,6 +16,8 @@ It's obvious that this woman had no intention of actually experiencing the good 
 
 In light of the story I was told earlier this evening, I am re-blogging an article written a couple years ago by The Private Man. His site is dedicated to dating divorcees, but perhaps this would have helped the women my buddy went out with... Yeah, probably not.
 
+---
+
 ## [A Dating Exercise For Women (Re-post)](https://theprivateman.wordpress.com/2014/10/26/a-dating-exercise-for-women-re-post/)
 
 A fair number of women read my blog and for this, I am pleased. Normally, I write my posts with a male audience in mind. This post is an exception. I want women to read this very carefully and pass it along to their single friends. It's important.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Kindle Fire"
 date:   2017-02-01 10:00:00 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [Kingle, Kindle Fire]
 ---
 

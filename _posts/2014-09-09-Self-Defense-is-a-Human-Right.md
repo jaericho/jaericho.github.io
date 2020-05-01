@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-Defense is a Human Right"
 date:   2014-09-09 08:00:00 -0600
-categories: [Culture]
+categories: [Politics]
 tags: [Feminism, Self-Defense]
 ---
 

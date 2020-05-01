@@ -2,8 +2,8 @@
 layout: post
 title:  "Photo Tests"
 date:   2014-10-07 08:00:00 -0600
-categories: [Review]
-tags: [iPhone, Photo]
+categories: [Reviews]
+tags: [Apple, Camera, iPhone]
 ---
 
 Here is an example of a low(er) light photo with HDR on an [iPhone 6 Plus](https://www.apple.com/iphone-6/cameras/).

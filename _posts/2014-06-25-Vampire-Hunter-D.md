@@ -2,7 +2,7 @@
 layout: post
 title:  "Vampire Hunter D"
 date:   2014-06-25 10:00:00 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [anime, movies, novels, Vampire Hunter D]
 ---
 

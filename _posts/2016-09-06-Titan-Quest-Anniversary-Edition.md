@@ -2,8 +2,8 @@
 layout: post
 title:  "Titan Quest Anniversary Edition"
 date:   2016-09-06 10:00:00 -0600
-categories: [Review]
-tags: [Grim Dawn, Tital Quest, Video Game Review]
+categories: [Reviews]
+tags: [Game Review, Grim Dawn, Tital Quest, Video Game]
 ---
 
 I put 100+ hours in to the original Titan Quest and I was quite excited when I received a free upgrade to the Titan Quest: Anniversary Edition.

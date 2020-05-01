@@ -2,7 +2,7 @@
 layout: post
 title:  "Surface Ergonomic Keyboard"
 date:   2016-12-06 10:00:00 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [Keyboard, Microsoft Surface]
 ---
 
