@@ -2,7 +2,7 @@
 layout: post
 title:  "Switching Loops and errdisable recovery"
 date:   2014-09-23 08:00:00 -0600
-categories: [Stupid Bugs]
+categories: [Stupid_Bugs]
 tags: [BPDUGuard, Cisco, Spanning-tree, Switching]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Google's New Logo"
 date:   2015-09-01 10:00:00 -0600
-categories: [Stupid Bugs]
+categories: [Stupid_Bugs]
 tags: [Google, logo]
 ---
 

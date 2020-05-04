@@ -2,7 +2,7 @@
 layout: post
 title:  "WSUS Doesn’t Download Updates"
 date:   2017-04-07 10:00:00 -0600
-categories: [Stupid Bugs]
+categories: [Stupid_Bugs]
 tags: [Windows, WSUS]
 ---
 

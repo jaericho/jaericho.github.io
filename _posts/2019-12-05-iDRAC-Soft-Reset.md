@@ -2,7 +2,7 @@
 layout: post
 title:  "iDRAC Soft Reset"
 date:   2019-12-05 20:33:36 -0600
-categories: [Stupid Bugs]
+categories: [Stupid_Bugs]
 tags: [iDRAC]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Windows Loses IP After vMotion"
 date:   2015-05-11 20:33:36 -0600
-categories: [Stupid Bugs]
+categories: [Stupid_Bugs]
 tags: [IP, vMotion, vmware, Windows]
 ---
 

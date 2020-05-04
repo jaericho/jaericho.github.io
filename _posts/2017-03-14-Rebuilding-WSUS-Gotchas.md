@@ -2,7 +2,7 @@
 layout: post
 title:  "Rebuilding WSUS Gotchas"
 date:   2017-03-14 10:00:00 -0600
-categories: [Stupid Bugs]
+categories: [Stupid_Bugs]
 tags: [Windows, WSUS]
 ---
 
