@@ -19,6 +19,6 @@ I ran [Get-WindowsUpdateLog](https://docs.microsoft.com/en-us/powershell/module/
 
 It looks like an issue with BITS.
 
-Turns out the problem was that the Windows Firewall service was disabled. I re-enabled the firewall service (while still leaving the firewall turned off), restarted the Windows Update service, then rechecked for updates.
+This [blog post](http://blog.configmatt.com/2018/06/0x800706d9-there-are-no-more-endpoints.html) helped me find the fix. Turns out the problem was that the Windows Firewall service was disabled. I re-enabled the firewall service (while still leaving the firewall turned off), restarted the Windows Update service, then rechecked for updates.
 
 The updates started downloading immediately.
