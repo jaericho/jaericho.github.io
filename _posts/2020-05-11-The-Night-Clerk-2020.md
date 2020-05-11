@@ -2,7 +2,7 @@
 layout: post
 title:  "The Night Clerk (2020)"
 date:   2020-05-11 08:00:00 -0600
-categories: [Review]
+categories: [Reviews]
 tags: [Ana de Armas, The Night Clerk, Tye Sheridan, Movie Reivew]
 ---
 
