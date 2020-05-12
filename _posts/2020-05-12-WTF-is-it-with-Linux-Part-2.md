@@ -8,7 +8,7 @@ tags: [Disk, Ubuntu, vmware]
 
 Why must I remount a second hdd after every reboot?
 
-I like to check out every be Long-Term-Support release of Ubuntu. It's the distro that I know the best and I keep wondering if I could ever move my daily driver over to it. And every time I don't get farther than a few hours and I'm heading for the CLI or the forums to fix some issue, error, or majorly assinine UX problem.
+I like to check out every be Long-Term-Support release of Ubuntu. It's the distro that I know the best and I keep wondering if I could ever move my daily driver over to it. And every time I don't get farther than a few hours and I'm heading for the CLI or the forums to fix some issue, error, or dumb UI/UX problem.
 
 The lastest issue was with Ubuntu Desktop 20.04. I have an esxi host and I wanted to update my seed box from 19.10 to 20.04 and since I couldn't in-place upgrade without going to the forums to figure out why `do-release-upgrade` didn't work, I decide to blow it away and start fresh.
 
@@ -40,7 +40,7 @@ It really feels like the Disks utility, like a lot of things in linux distros, w
 * Why not include a refresh button to avoid the reboot or crazy CLI?
 * Why not add an entry to `/etc/fstab` **during** the wizard?
 
-These issues are why I think Linux distros (other than Android) will never be a mainstream OS for consumers. Users don't want to go thru this crap. When I figured out what was going on with the disk all I could think was, *This would have been another call into the Help Desk.*
+These issues are why I think Linux distros (other than Android) will never be a mainstream OS for consumers. Users don't want to go thru this crap. Normal people don't want CLI. Normal people want appliances, or at least GUIs. When I figured out what was going on with the disk all I could think was, *This would have been another call into the Help Desk.*
 
 ---
 
