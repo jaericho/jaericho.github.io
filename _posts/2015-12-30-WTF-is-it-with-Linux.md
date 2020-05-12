@@ -18,6 +18,6 @@ I don’t know if developing good UI/UX is tedious and boring. Or if projects ch
 
 I finally got OpenVPN configured and my phone connected up. I used [this tutorial](https://www.howtoforge.com/internet-and-lan-over-vpn-using-openvpn-linux-server-windows-linux-clients-works-for-gaming-and-through-firewalls), and it’s good. But for Ubuntu 14.04 I would recommending adding the following addendum:
 
-*Make your life easier while configuring OpenVPN and do everything in root (sudo su) I’m not sure why, but the scripts won’t run under regular sudo.*
+> Make your life easier while configuring OpenVPN and do everything in root (sudo su) I’m not sure why, but the scripts won’t run under regular sudo.
 
 That single tidbit of knowledge would have saved me an hour and a half of my time.
