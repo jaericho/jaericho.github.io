@@ -44,8 +44,8 @@ These issues are why I think Linux distros (other than Android) will never be a 
 
 ---
 
-The final fix was to turn off User Session Defaults in the mounting options. I never did find a satisfactory answer as to what the User Session Defaults were, but apparently when it's enabled, the "Mount at system startup" is checked but greyed out, but that does NOT mean that the User Session Defaults include "Mount at system startup".
+The final fix was to turn off User Session Defaults in the mounting options. I never did find a satisfactory answer as to what the User Session Defaults were, but apparently when it's enabled and the "Mount at system startup" option is checked but greyed out, that does NOT mean that the User Session Defaults include "Mount at system startup".
 
-IMO, the best design would be to match the greyed out options to what the User Session Defaults are, but at minimum, a better design would be to *hide* all those Mount options if they aren't applied.
+IMO, the best design would be to match the greyed out options to what the User Session Defaults are, but at the minimum, a better design would be to *hide* all those Mount options if they aren't applied.
 
 ![Default options](/assets/2020/05/mount-options-user-session-defaults.png){:border="1px"} 
