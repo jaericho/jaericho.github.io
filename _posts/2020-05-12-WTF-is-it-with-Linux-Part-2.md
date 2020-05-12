@@ -12,7 +12,7 @@ I like to check out every be Long-Term-Support release of Ubuntu. It's the distr
 
 The lastest issue was with Ubuntu Desktop 20.04. I have an esxi host and I wanted to update my seed box from 19.10 to 20.04 and since I couldn't in-place upgrade without going to the forums to figure out why `do-release-upgrade` didn't work, I decide to blow it away and start fresh.
 
-The install is fine and everything worked out of the box, but he issue was after adding second virtual hard drive I had to keep remounting the drive after every reboot.
+The install is fine and everything worked out of the box, but the issue was I had to keep remounting the drive after every reboot.
 
 How does this work in Windows:
 1. Add a virtual hdd in esx.
