@@ -6,11 +6,11 @@ categories: [Reviews]
 tags: [Mark Wahlberg, Netflix, Movie Reivew]
 ---
 
-It stars Mark Wahlberg, I gotta see it.
+*When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate, Hawk, to take down criminals.*
 
 # [Spencer Confidential](https://www.imdb.com/title/tt8629748/)
 
-![Spencer Confidential (2020)](/assets/2020/03/spencer-confidential-2020.jpg){:height="300px" align="right" border="1px"} Well, not really. Some of his action/comedies, like [The Other Guys](https://www.imdb.com/title/tt1386588/), I found hysterical, but Spencer Confidential didn't quite hit the mark for me. For what was billed as an action/comedy, it wasn't serious enough to be an action movie, and it wasn't funny enough to be laugh-out-loud.
+![Spencer Confidential (2020)](/assets/2020/03/spencer-confidential-2020.jpg){:height="300px" align="right" border="1px"} If it stars Mark Wahlberg, I **gotta** see it... Well, not really. Some of his action/comedies, like [The Other Guys](https://www.imdb.com/title/tt1386588/), I found hysterical, but Spencer Confidential didn't quite hit the mark for me. For what was billed as an action/comedy, it wasn't serious enough to be an action movie, and it wasn't funny enough to be laugh-out-loud.
 
 The chacter development wasn't enough either. I didn't have enough backstory on any of the other characters to really figure out how this group fit together. Even Wahlberg's character never really lets on to why he's playing do-gooder all the time.
 
