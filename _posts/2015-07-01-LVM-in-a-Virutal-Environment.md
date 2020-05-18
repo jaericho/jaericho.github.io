@@ -3,7 +3,7 @@ layout: post
 title:  "LVM in a Virtual Environment"
 date:   2015-07-01 08:00:00 -0600
 categories: [Software]
-tags: [Linux, LVM, Partition]
+tags: [Linux, LVM, OwnCloud, Partition, Swap]
 ---
 
 I have been fighting against my [owncloud](https://owncloud.org) server the past couple of nights.
