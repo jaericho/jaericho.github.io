@@ -12,7 +12,7 @@ My Diablo 3 hours has been stagnant for a while. I've even gone back to Torchlig
 
 Part sandbox, part simulation, part MMO. Elite, is an open ended game with lots to do and explore without the massive learning curve of EVE Online.
 
-I broke out my ol' [Microsoft Sidewinder Precision 2](http://en.wikipedia.org/wiki/Microsoft_SideWinder#Precision_2) and quickly found out that it doesn't like the front USB ports on my new rig. Luckily, the rear usb ports worked and Windows 8.1 x64 had no issues with my favorite, decade old joystick.
+I broke out my ol' [Microsoft Sidewinder Precision 2](https://infogalactic.com/info/Microsoft_SideWinder#Precision_2) and quickly found out that it doesn't like the front USB ports on my new rig. Luckily, the rear usb ports worked and Windows 8.1 x64 had no issues with my favorite, decade old joystick.
 
 I pre-ordered the game and received a ship upgrade immediately. after a few trade runs and finally dumped the new ship for some cash and bought a hauler. Trading still seems like the best way for me to make money until I figure out how to blow npc's up willy-nilly.
 
