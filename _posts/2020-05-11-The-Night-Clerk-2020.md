@@ -12,9 +12,9 @@ tags: [Ana de Armas, The Night Clerk, Tye Sheridan, Movie Reivew]
 
 The acting is quite good. [Tye Sheridan](https://www.imdb.com/name/nm4446467/) does a good job with the asbergers afflicted protagonist, Bart. The lovely [Ana de Armas](https://www.imdb.com/name/nm1869101/) is the femme-fatale love interest, Andrea. [John Leguizamo](https://www.imdb.com/name/nm0000491/) doesn't have much to work with but does a good job. [Helen Hunt](https://www.imdb.com/name/nm0000166) does a great job at playing Bart's caring and devoted mother.
 
-The Night Clerk felt more like a failed film noir movie than anything. I couldn't quite root for Bart. He was a creepy voyeur. I couldn't really root for Andrea, as it seemed like she was taking advantage of him. And the murder mystery portion of the movie didn't give have enough punch.
+The Night Clerk felt more like a failed film noir movie than anything. Bart was a creepy voyeur. Andrea was taking advantage of him. But the murder mystery portion of the movie didn't have enough punch for me to get interested in it.
 
-The ending was satisfying enough for me. The cops are seen closing in on the killer while Bart walks an indoor mall while saying hello to people. (His voyeurism was (sort of) a way to practice normal converstaions with people.) I always like to see the bad guy get caught but Bart walking the mall felt like it was to much of a 'happy' ending for this movie. I guess that's why it felt like a failed film noir movie to me.
+The ending was mostly satisfying to me. The cops are seen closing in on the killer while Bart walks an indoor mall while saying hello to people. (His voyeurism was a way to practice normal converstaions with people.) I always like to see the bad guy get caught, but Bart walking the mall felt like it was to much of a 'happy' ending for this movie. I guess that's why it felt like a failed film noir movie to me.
 
 IMDB has it at 5.1, I'd go with 4.5. I don't want my time back, but once was enough.
 
