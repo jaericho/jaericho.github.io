@@ -6,6 +6,8 @@ categories: [Reviews]
 tags: [Movie Review, November Man, Pierce Brosnan]
 ---
 
+*An ex-C.I.A. operative is brought back in on a very personal mission and finds himself pitted against his former pupil in a deadly game involving high level C.I.A. officials and the Russian President-elect.*
+
 It's nice to see Pierce Brosnan working as a spy again.
 
 ![pic](/assets/2014/09/the_november_man_poster.jpg){:align="right" width="300px" border="1px"} The November Man was an enjoyable spy/action movie based on the book There Are No Spies by Bill Granger. Unfortunately, that was it. It was enjoyable, but nothing stood out to make it memorable. Brosnan does a great job. He brings back the suave Bond he used to do with the right amount of kickassery required for this movie.
