@@ -3,7 +3,7 @@ layout: post
 title:  "The November Man (2014)"
 date:   2014-09-02 08:00:00 -0600
 categories: [Reviews]
-tags: [Pierce Brosnan, November Man, Movie Review]
+tags: [Movie Review, November Man, Pierce Brosnan]
 ---
 
 It's nice to see Pierce Brosnan working as a spy again.
