@@ -6,6 +6,8 @@ categories: [Reviews]
 tags: [Banderas, Expendables, Feminism, Gibson, Stallone, Movie Review]
 ---
 
+*Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.*
+
 I enjoyed the first two movies, but [The Expendables 3](http://www.imdb.com/title/tt2333784/) is the weakest of series.
 
 Joining the Expendables crew are Antonio Banderas (who stole the movie), Wesley Snipes, Kelsey Grammer, Harrison Ford, and Mel Gibson plays the villain very well.
