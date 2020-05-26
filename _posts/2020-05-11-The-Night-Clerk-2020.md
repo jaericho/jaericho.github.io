@@ -8,7 +8,7 @@ tags: [Ana de Armas, The Night Clerk, Tye Sheridan, Movie Reivew]
 
 *A voyeuristic hotel clerk becomes the subject of a murder investigation.*
 
-![The Night Clerk poster](/assets/2020/05/the-night-clerk.jpg){:align="right" width="300px" border="1px"} I didn't really know what I was getting into with [The Night Clerk](https://www.imdb.com/title/tt7979142/). I thought it was going to be more of a thriller or murder mystery, but in the end it was just a mismash that didn't really work for me.
+![The Night Clerk poster](/assets/2020/05/the-night-clerk.jpg){:.poster} I didn't really know what I was getting into with [The Night Clerk](https://www.imdb.com/title/tt7979142/). I thought it was going to be more of a thriller or murder mystery, but in the end it was just a mismash that didn't really work for me.
 
 The acting is quite good. [Tye Sheridan](https://www.imdb.com/name/nm4446467/) does a good job with the asbergers afflicted protagonist, Bart. The lovely [Ana de Armas](https://www.imdb.com/name/nm1869101/) is the femme-fatale love interest, Andrea. [John Leguizamo](https://www.imdb.com/name/nm0000491/) doesn't have much to work with but does a good job. [Helen Hunt](https://www.imdb.com/name/nm0000166) does a great job at playing Bart's caring and devoted mother.
 

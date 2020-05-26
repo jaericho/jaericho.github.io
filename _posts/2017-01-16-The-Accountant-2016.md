@@ -10,7 +10,7 @@ tags: [The Accountant, John Wick, Movie Review]
 
 # [The Accountant](https://www.imdb.com/title/tt2140479/)
 
-![pic](/assets/2016/12/theaccountant.jpg){:align="right" width="300px" border="1px"]} The Accountant was an odd movie premise from the start: autistic accountant savant by day, hitman by night...but I was pleasantly surprised that it almost worked. Unfortunately, everything that The Accountant did right, John Wick did better and with more style.
+![pic](/assets/2016/12/theaccountant.jpg){:.poster} The Accountant was an odd movie premise from the start: autistic accountant savant by day, hitman by night...but I was pleasantly surprised that it almost worked. Unfortunately, everything that The Accountant did right, John Wick did better and with more style.
 
 While John Wick setup an interesting underworld with it’s own rules and codes, The Accountant is what? A revenge movie? A hitman with a heart of gold movie? I can’t tell.
 

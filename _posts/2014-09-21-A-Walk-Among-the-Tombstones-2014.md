@@ -10,7 +10,7 @@ tags: [Liam Neeson, Movie Review, Walk Among the Tombstones]
 
 # [A Walk Among the Tombstones](https://www.imdb.com/title/tt0365907/)
 
-![pic](/assets/2014/09/a-walk-among-the-tombstones.jpg){:align="right" width="300px" border="1px"} I enjoyed [Liam Neeson's](https://www.imdb.com/name/nm0000553/) new thriller. It felt like a Jason Patterson bookmovie: The bad guys were psychotic and evil, and the good guy wasn't perfect, but he wasn't some woe-is-me, super-flawed, I'm-not-good-I'm-just-less-evil character.
+![pic](/assets/2014/09/a-walk-among-the-tombstones.jpg){:.poster} I enjoyed [Liam Neeson's](https://www.imdb.com/name/nm0000553/) new thriller. It felt like a Jason Patterson bookmovie: The bad guys were psychotic and evil, and the good guy wasn't perfect, but he wasn't some woe-is-me, super-flawed, I'm-not-good-I'm-just-less-evil character.
 
 Liam Neeson does a great job. He has just the right amount of grizzled, seen-it-all cop without overdoing it. The token black kid was kind of annoying, but he wasn't a deal breaker.
 
