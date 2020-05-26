@@ -2,7 +2,7 @@
 layout: post
 title:  "CentOS 8, VMware Workstation, and Fit Guest Now"
 date:   2020-03-28 08:00:00 -0600
-categories: [Computers]
+categories: [Linux]
 tags: [CentOS, Display Drivers, VMware]
 ---
 
