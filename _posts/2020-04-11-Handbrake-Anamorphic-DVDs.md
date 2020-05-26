@@ -2,7 +2,7 @@
 layout: post
 title:  "Handbrake and Anamorphic DVDs"
 date:   2020-04-11 08:00:00 -0600
-categories: [Computers]
+categories: [Software]
 tags: [Anamorphic, Aspect Raio, DVD, Encoding, Handbrake, makemkv, mkvtools, Plex, Ripping]
 ---
 
