@@ -2,7 +2,7 @@
 layout: post
 title:  "Devil's Canyon"
 date:   2014-07-12 08:00:00 -0600
-categories: [Computers]
+categories: [Hardware]
 tags: [Build, Devil's Canyon, Intel, Gigabyte]
 ---
 
