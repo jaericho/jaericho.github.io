@@ -30,7 +30,7 @@ I know enough about webservers that they'll cache common requests in memory. The
 > 
 > --[About SS64.com](https://ss64.com/docs/)
 
-Well, I want the same thing and downloading unoptimized 100K jpg avatars of followers that aren't on the page I'm looking at is definitely not the same thing and not my style.
+I want the same thing and downloading unoptimized 100KB jpg avatars of followers that aren't on the page I'm looking at is definitely not the same thing and not my style.
 
 And maybe it has something to do with the fact that I use vscode everyday and now that I have a hammer, everything is a nail. But using github, vscode, and markdown as my workflow really appeals to me.
 
