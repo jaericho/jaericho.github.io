@@ -12,17 +12,17 @@ I've been trying to put my Midsomer Murders collection on [Plex](https://plex.tv
 
 Some are in 16:9 and some are 16:9 squished into 4:3. Which makes them look like shit. And trying to fix it with [Handbrake](https://www.handbrake.fr) can be a pain.
 
-## Problem
+# Problem
 
 Here is what I'm dealing with: I ripped the DVD's with [MakeMKV](https://www.makemkv.com/). That works great, and it's even better that with DVD's it's free. However, The picture is supposed to be 16:9, but somehow it's stored on the DVD with non-square pixels so it comes out as 4:3. From what I gather this is called Anamorphic video.
 
 ![Squished Video](/assets/2020/04/squished-video.png){:border="1px}
 
-## How to fix
+# How to fix
 
 This [reddit post](https://www.reddit.com/r/handbrake/comments/5mm47h/how_to_stretch_from_43_to_169/) pointed me in the right direction and showed me that there are two methods to fix this issue.
 
-### Fix 1: Handbrake GUI
+## Fix 1: Handbrake GUI
 
 From the reddit post:
 
@@ -32,9 +32,9 @@ From the reddit post:
 > - Keep aspect ratio off
 > - Set the PAR value correctly to stretch it out horizontally
 
-But setting the Anamorphic to loose does allow me to set the PAR value. Something must have changed in later versions. I think it's Custom that I want.
+But setting the Anamorphic to loose doesn't allow me to set the PAR value. Something must have changed in later versions; I think it's Custom that I want.
 
-### Fix 1a: Handbrake GUI (with a little CLI)
+## Fix 1a: Handbrake GUI (with a little CLI)
 
 When the Handbrake GUI fix didn't work for me with these particular DVDs, (it has worked with other DVDs) I tried the CLI method listed in the reddit post.
 
@@ -48,9 +48,9 @@ With a little trial and error, I was able to plug those SAR _(PAR?)_ numbers fro
 
 ![Handbrake Adjusted PAR](/assets/2020/04/handbrake-adjusted-PAR.png){:border="1px"}
 
-We want to keep the vertical lines (480) and just stretch out the video horozontally, so 480 lines with a 186:157 aspect ratio means 853 horozontal lines.
+This kind of makes sense. We want to keep the vertical lines (480) and just stretch out the video horozontally, so 480 lines with a 186:157 aspect ratio means 853 horozontal lines.
 
-### Fix 2: mkvtools
+## Fix 2: mkvtools
 
 MKVToolNix is the easier fix.
 
