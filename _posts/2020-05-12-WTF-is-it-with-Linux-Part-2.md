@@ -8,6 +8,8 @@ tags: [Disk, Ubuntu, vmware]
 
 Why must I remount a second hdd after every reboot?
 
+[WTF is it with Linux (Part 1)]({% post_url 2015-12-30-WTF-is-it-with-Linux %})
+
 I like to check out every be Long-Term-Support release of Ubuntu. It's the distro that I know the best and I keep wondering if I could ever move my daily driver over to it. And every time I don't get farther than a few hours and I'm heading for the CLI or the forums to fix some issue, error, or dumb UI/UX problem.
 
 The lastest issue was with Ubuntu Desktop 20.04. I have an esxi host and I wanted to update my seed box from 19.10 to 20.04 and since I couldn't in-place upgrade without going to the forums to figure out why `do-release-upgrade` didn't work, I decide to blow it away and start fresh.
