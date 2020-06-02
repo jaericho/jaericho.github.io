@@ -14,7 +14,7 @@ When trying to use `Invoke-Command` against some workstations, I was getting thi
 
 [This blog post](https://sysadminplus.blogspot.com/2016/11/the-ws-management-service-cannot.html) helped me fix it.
 
-Basically, the Powershell endpoint was not registered.  `Get-PSSessionConfiguration | select name` showed that my workstations only had `microsoft.powershell.workflow` registered.
+Basically, the Powershell endpoint was not registered. `Get-PSSessionConfiguration | select name` showed that my workstations only had `microsoft.powershell.workflow` registered.
 
 Running `Register-PSSessionConfiguration -Name Microsoft.powershell` fixed the issue and allowed my `Invoke-Command` to work.
 
