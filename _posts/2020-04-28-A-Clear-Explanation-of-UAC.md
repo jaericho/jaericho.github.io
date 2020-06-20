@@ -6,11 +6,11 @@ categories: [Windows]
 tags: [Administrator, Security, UAC, Windows]
 ---
 
-[This](https://serverfault.com/a/749271) is clearest and simplest explination of what UAC does to admin accounts that I have read.
+[This](https://serverfault.com/a/749271) is clearest and simplest explanation of what UAC does to admin accounts that I have read.
 
 Kudos to the [author](https://serverfault.com/users/6352/massimo).
 
-> This could be caused by [User Account Control](https://en.wikipedia.org/wiki/User_Account_Control), a feature (hated by many) which makes so that, even if you have administrative rights, you don't actually have them unless you explicitly request them. There are two distinct policies governing UAC behaviour (both found in `Computer settings\Windows settings\Security settings\Local policies\Security` options), one for the built-in `Administrator` account, and another one for all other administrative users:
+> This could be caused by [User Account Control](https://en.wikipedia.org/wiki/User_Account_Control), a feature (hated by many) which makes so that, even if you have administrative rights, you don't actually have them unless you explicitly request them. There are two distinct policies governing UAC behavior (both found in `Computer settings\Windows settings\Security settings\Local policies\Security` options), one for the built-in `Administrator` account, and another one for all other administrative users:
 > 
 > * User Account Control: Admin Approval Mode for the built-in Administrator account (disabled by default)
 > * User Account Control: Run all administrators in Admin Approval Mode (enabled by default)

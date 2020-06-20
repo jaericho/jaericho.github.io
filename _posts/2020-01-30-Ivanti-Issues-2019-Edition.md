@@ -20,13 +20,11 @@ I’ve decided to be nice and not include the list of annoyances with the list o
 ke you wonder if anyone really thought out these features before rolling them out.
 
 * View Services in Diagnostics doesn’t highlight Ivanti services unlike View Processes that will highlight Ivanti processes.
-* View Services in Diagnostics doesn’t default sort by DisplayName like services.msc, so Ivanti services aren’t grouped toget
-her.
-* View Processes doesn’t highlight Bitdefender procs. More half-assery. If you’re going to adopt someone else’s software, go 
-all the way.
+* View Services in Diagnostics doesn’t default sort by DisplayName like services.msc, so Ivanti services aren’t grouped together.
+* View Processes doesn’t highlight Bitdefender procs. More half-assery. If you’re going to adopt someone else’s software, go all the way.
 * Can’t click on buttons in Diagnostics unless a task is highlighted. Even if buttons aren’t task related. (View Procs)
 * The Console doesn’t let Jabber take focus with handset buttons.*
-* The Console still get’s stuck on one window when trying to maximize it.*
+* The Console still gets stuck on one window when trying to maximize it.*
 
 (*These are recurring bugs from earlier versions.)
 

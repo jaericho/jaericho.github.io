@@ -12,7 +12,7 @@ Why must I remount a second hdd after every reboot?
 
 I like to check out every be Long-Term-Support release of Ubuntu. It's the distro that I know the best and I keep wondering if I could ever move my daily driver over to it. And every time I don't get farther than a few hours and I'm heading for the CLI or the forums to fix some issue, error, or dumb UI/UX problem.
 
-The lastest issue was with Ubuntu Desktop 20.04. I have an esxi host and I wanted to update my seed box from 19.10 to 20.04 and since I couldn't in-place upgrade without going to the forums to figure out why `do-release-upgrade` didn't work, I decide to blow it away and start fresh.
+The latest issue was with Ubuntu Desktop 20.04. I have an esxi host and I wanted to update my seed box from 19.10 to 20.04 and since I couldn't in-place upgrade without going to the forums to figure out why `do-release-upgrade` didn't work, I decide to blow it away and start fresh.
 
 The install is fine and everything worked out of the box, but the issue was I had to keep remounting the drive after every reboot.
 
@@ -50,4 +50,4 @@ The final fix was to turn off User Session Defaults in the mounting options. I n
 
 IMO, the best design would be to match the greyed out options to what the User Session Defaults are, but at the minimum, a better design would be to *hide* all those Mount options if they aren't applied.
 
-![Default options](/assets/2020/05/mount-options-user-session-defaults.png){:border="1px"} 
+![Default options](/assets/2020/05/mount-options-user-session-defaults.png){:border="1px"}

@@ -48,7 +48,7 @@ With a little trial and error, I was able to plug those SAR _(PAR?)_ numbers fro
 
 ![Handbrake Adjusted PAR](/assets/2020/04/handbrake-adjusted-PAR.png){:border="1px"}
 
-This kind of makes sense. We want to keep the vertical lines (480) and just stretch out the video horozontally, so 480 lines with a 186:157 aspect ratio means 853 horozontal lines.
+This kind of makes sense. We want to keep the vertical lines (480) and just stretch out the video horizontally, so 480 lines with a 186:157 aspect ratio means 853 horizontal lines.
 
 ## Fix 2: mkvtools
 

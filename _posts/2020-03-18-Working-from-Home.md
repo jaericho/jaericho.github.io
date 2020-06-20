@@ -16,6 +16,6 @@ It also helps that I have one set of monitors so when I hook them to my work lap
 
 Of course, it also helps keep me on track that I've been working on one thing these past couple of days: expanding vpn capacity, so more people can work from home.
 
-Which leads me to: I fucking hate setting up AnyConnect on ASA's. They must be one of the most convoluted, needlessly complex, assinely designed, appliance anywhere. And ASDM is the most horrible, piece of crap, I've ever had the pleasure of working with.
+Which leads me to: I fucking hate setting up AnyConnect on ASA's. They must be one of the most convoluted, needlessly complex, asininely designed, appliance anywhere. And ASDM is the most horrible, piece of crap, I've ever had the pleasure of working with.
 
 *ASDM: Because UI's should lie to you.*

@@ -14,7 +14,7 @@ I noticed one day that my blog was a little sluggish. It was running on Wordpres
 
 But the sluggishness was bugging me. In the age of gigabit speed internet connections why is there so much stuttering during load? Especially when this blog is mostly text and _maybe_ a picture every other post.
 
-Most webbrowsers have a built in developer mode and Chrome's is especailly nice since it can benchmark every element in the webpage and tell you what it took to download each one. I fired it up on my latest blog post and found that a full reload (skipping the cache) of one of my blogposts would download 6MB! That is *beyond* insane.
+Most web browsers have a built in developer mode and Chrome's is especially nice since it can benchmark every element in the webpage and tell you what it took to download each one. I fired it up on my latest blog post and found that a full reload (skipping the cache) of one of my blogposts would download 6MB! That is *beyond* insane.
 
 Well, it turns out that is a little misleading. The 6MB page download was true, but it only does that when I'm logged into Wordpress and had a Gravatar account linked to it. Regular visitors won't see that much. They'll see a 2.9MB webpage. Which is still _much_ too high for a blog consisting of 95% text.
 
@@ -24,13 +24,13 @@ I only noticed this because I stumbled across another blog that loaded insanely 
 
 # Pre-compiled Websites
 
-I know enough about webservers that they'll cache common requests in memory. They'll "compile" websites like source-code is compiled into a binary file, so when I found Static Site Generators will do the same thing with markdown and text files, I was intrigued. I like going fast and I want this blog to be as fast as possible while still looking good. SS64.com (one of my favorite sites, I use it almost daily) is an example of a website that strives for this.
+I know enough about web servers that they'll cache common requests in memory. They'll "compile" websites like source-code is compiled into a binary file, so when I found Static Site Generators will do the same thing with markdown and text files, I was intrigued. I like going fast and I want this blog to be as fast as possible while still looking good. SS64.com (one of my favorite sites, I use it almost daily) is an example of a website that strives for this.
 
 > The website is designed with performance as a priority; the aim is to return relevant pages as fast as a local help index.
 > 
 > --[About SS64.com](https://ss64.com/docs/)
 
-I want the same thing and downloading unoptimized 100KB jpg avatars of followers that aren't on the page I'm looking at is definitely not the same thing and not my style.
+I want the same thing and downloading un-optimized 100KB jpg avatars of followers that aren't on the page I'm looking at is definitely not the same thing and not my style.
 
 And maybe it has something to do with the fact that I use vscode everyday and now that I have a hammer, everything is a nail. But using github, vscode, and markdown as my workflow really appeals to me.
 
