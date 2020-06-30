@@ -106,11 +106,23 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep08 **The 43 Peculiarity** - Penny admits she loves Leonard.
 * *Ep10 The Fish Guts Displacement - maybe, Amy deveives Sheldon and he punishes her.*
 * Ep15 *The Spoiler Alert Segmentation - maybe, Roommate try to move in.*
-* Ep16 **The Tangible Affection Proof** - Valentine's Day goes wrong. Raj meets a girl.
+* Ep16 **The Tangible Affection Proof** - Valentine's Day goes wrong. Raj meets Lucy.
+* *E18 The Contractual Obligation Implementation - maybe, Raj plans a date with Lucy.*
+* E19 **The Closet Reconfiguration** - A letter from Howard's Dad.
+* E21 **The Closure Alternative** - Raj/Lucy. Penny tried to be passionate about Leonard's interests.
+* E22 **The Proton Resurgence** - Introduction of Professor Proton.
+* E23 **The Love Spell Potential** - D&D game. Raj/Lucy's date.
+* E24 **The Bon Voyage Reaction** - Leonard goes to the North Pole. Raj can talk to girls.
 
 ## Season 7
 
 ![Season 7 poster](/assets/2020/06/The_Big_Bang_Theory_Season_7.jpg){:border="1px"}
+
+* Ep01 **The Hofstadter Insufficiency** - Leonard sneaks back home.
+* Ep02 **The Deception Verification** - Sheldon feels betrayed by Leonard.
+* *Ep05 The Workplace Proximity - maybe, Amy and Sheldon fight.*
+* Ep06 **The Romance Resonance** - Penny tries to romance Leonard. Howard sings to Bernadette.
+* Ep09 **The Thanksgiving Decoupling** - Penny and Zach are married.
 
 ## Season 8
 
