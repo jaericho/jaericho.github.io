@@ -104,7 +104,7 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * *Ep03 The Higgs Boson Observation - maybe, Howard goes crazy in space.*
 * Ep04 **The Re-Entry Minimization** - Howard comes back from space.
 * Ep08 **The 43 Peculiarity** - Penny admits she loves Leonard.
-* *Ep10 The Fish Guts Displacement - maybe, Amy deveives Sheldon and he punishes her.*
+* *Ep10 The Fish Guts Displacement - maybe, Amy deceives Sheldon and he punishes her.*
 * Ep15 *The Spoiler Alert Segmentation - maybe, Roommate try to move in.*
 * Ep16 **The Tangible Affection Proof** - Valentine's Day goes wrong. Raj meets Lucy.
 * *E18 The Contractual Obligation Implementation - maybe, Raj plans a date with Lucy.*
@@ -123,6 +123,11 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * *Ep05 The Workplace Proximity - maybe, Amy and Sheldon fight.*
 * Ep06 **The Romance Resonance** - Penny tries to romance Leonard. Howard sings to Bernadette.
 * Ep09 **The Thanksgiving Decoupling** - Penny and Zach are married.
+* Ep10 **The Discovery Dissipation** - continuation of Ep06.
+* *Ep11 The Cooper Extraction - maybe, it's kinda funny.*
+* Ep12 **The Hesitation Ramification** - Penny quits her job.
+* *Ep13 The Occupation Recalibration - Leonard tries to be supportive of Penny's quitting.*
+* 
 
 ## Season 8
 
