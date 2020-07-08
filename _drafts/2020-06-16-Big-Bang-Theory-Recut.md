@@ -111,7 +111,7 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * E19 **The Closet Reconfiguration** - A letter from Howard's Dad.
 * E21 **The Closure Alternative** - Raj/Lucy. Penny tried to be passionate about Leonard's interests.
 * E22 **The Proton Resurgence** - Introduction of Professor Proton.
-* E23 **The Love Spell Potential** - D&D game. Raj/Lucy's date.
+* E23 **The Love Spell Potential** - Raj/Lucy's date. Howard does impersonations during a D&D game.
 * E24 **The Bon Voyage Reaction** - Leonard goes to the North Pole. Raj can talk to girls.
 
 ## Season 7
@@ -127,11 +127,20 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * *Ep11 The Cooper Extraction - maybe, it's kinda funny.*
 * Ep12 **The Hesitation Ramification** - Penny quits her job.
 * *Ep13 The Occupation Recalibration - Leonard tries to be supportive of Penny's quitting.*
-* 
+* Ep17 **The Friendship Turbulence** - Penny has second thoughts about quitting the Cheesecake Factory.
+* EP19 **The Indecision Amalgamation** - Penny gets a job in a cheesy movie.
+* Ep20 **The Relationship Diremption**
+* Ep22 **The Proton Transmogrification** - Professor Proton dies.
+* Ep23 **The Gorilla Dissolution** - Penny gets fired from her movie.
+* Ep24 **The Status Quo Combustion** - Sheldon is upset about Leo and Penny future move out.
 
 ## Season 8
 
 ![Season 8 poster](/assets/2020/06/The_Big_Bang_Theory_Season_8.jpg){:border="1px"}
+
+* Ep01 **The Locomotion Interruption** - Penny interviews for a new job.
+* Ep04 **The Hook-up Reverberation**
+* 
 
 ## Season 9
 
