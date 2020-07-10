@@ -140,7 +140,9 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 
 * Ep01 **The Locomotion Interruption** - Penny interviews for a new job.
 * Ep04 **The Hook-up Reverberation**
-* 
+* *Ep06 The Expedition Approximation - maybe, Howard and Bernadette fight over money.*
+* *Ep08 The Prom Equivalency - maybe, prom for Sheldon and Amy.*
+* *Ep09 The Septum Deviation - maybe, Leonard gets surgery, Raj's parents are divorced.*
 
 ## Season 9
 
