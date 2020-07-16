@@ -142,7 +142,14 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep04 **The Hook-up Reverberation**
 * *Ep06 The Expedition Approximation - maybe, Howard and Bernadette fight over money.*
 * *Ep08 The Prom Equivalency - maybe, prom for Sheldon and Amy.*
-* *Ep09 The Septum Deviation - maybe, Leonard gets surgery, Raj's parents are divorced.*
+* Ep09 **The Septum Deviation** - Leonard gets surgery, Raj's parents are divorced.
+* *Ep11 The Clean Room Infiltration - maybe, Sheldon and Amy exchange presents.*
+* *Ep13 The Anxiety Optimization - maybe, Emily vs Cinnamon game. Very funny.*
+* *Ep14 The Troll Manifestation - maybe, Leonard and Sheldon write a paper.*
+* Ep15 **The Comic Book Store Regeneration** - Mrs. Wolowitz dies.
+* Ep16 **The Intimacy Acceleration** - Penny and Sheldon do a relationship experiment.
+* *Ep18 The Leftover Thermalization - strong maybe. Continuation of Leonard and Sheldon's paper. Requires Ep14.*
+* 
 
 ## Season 9
 
