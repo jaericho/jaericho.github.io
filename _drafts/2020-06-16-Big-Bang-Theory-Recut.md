@@ -145,15 +145,23 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep09 **The Septum Deviation** - Leonard gets surgery, Raj's parents are divorced.
 * *Ep11 The Clean Room Infiltration - maybe, Sheldon and Amy exchange presents.*
 * *Ep13 The Anxiety Optimization - maybe, Emily vs Cinnamon game. Very funny.*
-* *Ep14 The Troll Manifestation - maybe, Leonard and Sheldon write a paper.*
+* Ep14 **The Troll Manifestation** - maybe, Leonard and Sheldon write a paper.
 * Ep15 **The Comic Book Store Regeneration** - Mrs. Wolowitz dies.
 * Ep16 **The Intimacy Acceleration** - Penny and Sheldon do a relationship experiment.
-* *Ep18 The Leftover Thermalization - strong maybe. Continuation of Leonard and Sheldon's paper. Requires Ep14.*
-* 
+* Ep18 **The Leftover Thermalization** - strong maybe. Continuation of Leonard and Sheldon's paper.
+* Ep20 **The Fortification Implementation** - Howard finds out he has a brother. Leonard and Penny fight over money.
+* Ep21 **The Communication Deterioration** - Penny contemplates going back to acting.
+* Ep23 **The Maternal Combustion** - Leonard and Sheldon get an award for their paper. Their monthers meet.
+* Ep24 **The Commitment Determination** - Everyone breaks up. Sort of.
 
 ## Season 9
 
 ![Season 9 poster](/assets/2020/06/The_Big_Bang_Theory_Season_9.jpg){:border="1px"}
+
+* Ep01 - **The Matrimonial Momentum** - Penny struggles with Leonard's confession.
+* Ep02 - **The Separation Oscillation** - more with Sheldon and Amy's break up.
+* Ep03 - **The Bachelor Party Corrosion** - maybe, Penny tells her family she's married.
+* Ep05 - **The Perspiration Implementation** - more with Sheldon and Amy's break up.
 
 ## Season 10
 
