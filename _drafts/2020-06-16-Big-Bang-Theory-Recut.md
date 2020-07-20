@@ -162,6 +162,10 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep02 - **The Separation Oscillation** - more with Sheldon and Amy's break up.
 * Ep03 - **The Bachelor Party Corrosion** - maybe, Penny tells her family she's married.
 * Ep05 - **The Perspiration Implementation** - more with Sheldon and Amy's break up.
+* Ep07 - **The Spock Resonance** - Sheldon tries to propose.
+* Ep08 - **The Mystery Date Observation** - Amy has a date.
+* Ep09 - **The Platonic Permutation** - Sheldon and Amy spend Thanksgiving together as friends.
+* Ep10 - **The Earworm Reverberation** - Sheldon and Amy are back together.
 
 ## Season 10
 
