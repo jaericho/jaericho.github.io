@@ -166,6 +166,15 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep08 - **The Mystery Date Observation** - Amy has a date.
 * Ep09 - **The Platonic Permutation** - Sheldon and Amy spend Thanksgiving together as friends.
 * Ep10 - **The Earworm Reverberation** - Sheldon and Amy are back together.
+* Ep11 - **The Opening Night Excitation** - Sheldon and Amy hook up.
+* Ep14 - **The Meemaw Materialization** - Sheldon's Meemaw visits.
+* Ep15 - *The Valentino Submergence - maybe, Bernadette reveal is only at end.*
+* Ep16 - **The Postive Negative Reaction** - Bernadette reveals she's pregnant.
+* Ep17 - *The Celebration Experimentation - maybe, Adam West.*
+* Ep18 - **The Application Deterioration** - Patent application.
+* Ep19 - *The Solder Excursion Diversion - maybe*
+* Ep20 - **The Big Bear Precipitation** - Secrets reveiled on a camping trip. (Watch Leonard cuck again.)
+* 
 
 ## Season 10
 
