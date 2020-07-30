@@ -170,15 +170,25 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep14 - **The Meemaw Materialization** - Sheldon's Meemaw visits.
 * Ep15 - *The Valentino Submergence - maybe, Bernadette reveal is only at end.*
 * Ep16 - **The Postive Negative Reaction** - Bernadette reveals she's pregnant.
-* Ep17 - *The Celebration Experimentation - maybe, Adam West.*
+* Ep17 - *The Celebration Experimentation - maybe, Adam West guest stars.*
 * Ep18 - **The Application Deterioration** - Patent application.
 * Ep19 - *The Solder Excursion Diversion - maybe*
 * Ep20 - **The Big Bear Precipitation** - Secrets reveiled on a camping trip. (Watch Leonard cuck again.)
-* 
+* Ep22 - **The Fermentation Bifurcation** - More Zach.
+* Ep23 - **The Line Substitution Solution** - Penny has trouble connecting with Beverly.
+* Ep24 - **The Convergence Convergence** - The parents all meet.
 
 ## Season 10
 
 ![Season 10 poster](/assets/2020/06/The_Big_Bang_Theory_Season_10.jpg){:border="1px"}
+
+* Ep01 - **The Conjugal Conjecture** - Leonard and Penny's re-wedding.
+* Ep02 - **The Military Miniaturization** - The military wants to fund the project.
+* *Ep03 - The Dependence Transcendence - maybe, More Airforce project.*
+* Ep04 - **The Cohabitation Experimentation** - Sheldon and Amy start their living together experiment.
+* *Ep05 - The Hot Tub Contamination - maybe, Sheldon and Amy fight over living together.*
+* Ep07 - **The Veracity Elasticity** - Amy's lies to Sheldon about her apt.
+* *Ep08 - The Brain Bowl Incubation - maybe, Sheldon wants a baby with Amy.*
 
 ## Season 11
 
