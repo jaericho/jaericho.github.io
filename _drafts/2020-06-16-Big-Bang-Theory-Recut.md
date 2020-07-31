@@ -189,6 +189,9 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * *Ep05 - The Hot Tub Contamination - maybe, Sheldon and Amy fight over living together.*
 * Ep07 - **The Veracity Elasticity** - Amy's lies to Sheldon about her apt.
 * *Ep08 - The Brain Bowl Incubation - maybe, Sheldon wants a baby with Amy.*
+* Ep10 - **The Property Division Collision** - Stuart moves in with Howard and Bernadette again.
+* Ep11 - **The Birthday Synchronicity** - Bernadette's baby.
+* Ep12 - *The Holiday Summation - maybe, Sheldon and Amy recount a bad holiday trip.*
 
 ## Season 11
 
