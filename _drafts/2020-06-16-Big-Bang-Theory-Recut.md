@@ -67,7 +67,7 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep01 **The Robotic Manipulation** - Penny tags along on Sheldon and Amy's first date.
 * Ep06 **The Irish Pub Formulation** - Introduction of Priya, Raj's sister.
 * Ep09 **The Boyfriend Complexity** - Penny’s Father sides with Leonard.
-* *Ep10 The Alien Parasite Hypothesis - maybe, includes Zach*
+* Ep10 **The Alien Parasite Hypothesis** - Includes Zach
 * Ep11 **The Justice League Recombination** - Halloween party. Plus it includes Zach.
 * Ep13 **The Love Car Displacement** - Penny and Leonard discuss relationship
 * Ep16 **The Cohabitation Formulation** - Penny is replaced by Priya
@@ -192,21 +192,21 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep10 - **The Property Division Collision** - Stuart moves in with Howard and Bernadette again.
 * Ep11 - **The Birthday Synchronicity** - Bernadette's baby.
 * *Ep12 - The Holiday Summation - maybe, Sheldon and Amy recount a bad holiday trip. Sheldon's Mom*
-* *Ep13 - maybe, Leonard and Penny's relationship agreement.*
-* *Ep16 - maybe, Raj stops his Dad's money.*
-* Ep17 - Sheldon handles Raj's spending.
-* Ep18 - Raj tries to move into Howards or leonard's place.
-* *Ep20 - maybe, Bernadette worries about going back to work.*
-* Ep21 - 
-* Ep22 - Zach offers Penny a job.
-* Ep23 - Raj moves out.
-* Ep24 - Nowitski convinces Sheldon to propose to Amy.
+* *Ep13 - The Romance Recalibration - maybe, Leonard and Penny's relationship agreement.*
+* *Ep16 - The Allowance Evaporation - maybe, Raj stops his Dad's money.*
+* Ep17 - **The Comic-Con Conundrum** - Sheldon handles Raj's spending.
+* Ep18 - **The Escape Hatch Identification** - Raj moves in with Howard or Leonard.
+* *Ep20 - The Recollection Dissipation - maybe, Bernadette worries about going back to work.*
+* Ep21 - **The Separation Agitation** - Howard and Bernadette have to leave Halley at daycare.
+* Ep22 - **The Cognition Regeneration** - Zach offers Penny a job.
+* Ep23 - **The Gyroscopic Collapse** - Raj moves out. The Airforce takes over the gyroscope project.
+* Ep24 - **The Long Distance Dissonance** - Ramona convinces Sheldon to propose to Amy.
 
 ## Season 11
 
 ![Season 11 poster](/assets/2020/06/The_Big_Bang_Theory_Season_11.jpg){:border="1px"}
 
-* Ep01 - Aftermath of Sheldon's proposal.
+* Ep01 - **The Proposal Proposal** - Aftermath of Sheldon's proposal. Bernadette is pregnant again.
 
 ## Season 12
 
