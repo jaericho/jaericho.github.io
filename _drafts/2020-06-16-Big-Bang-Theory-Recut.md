@@ -191,11 +191,22 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * *Ep08 - The Brain Bowl Incubation - maybe, Sheldon wants a baby with Amy.*
 * Ep10 - **The Property Division Collision** - Stuart moves in with Howard and Bernadette again.
 * Ep11 - **The Birthday Synchronicity** - Bernadette's baby.
-* Ep12 - *The Holiday Summation - maybe, Sheldon and Amy recount a bad holiday trip.*
+* *Ep12 - The Holiday Summation - maybe, Sheldon and Amy recount a bad holiday trip. Sheldon's Mom*
+* *Ep13 - maybe, Leonard and Penny's relationship agreement.*
+* *Ep16 - maybe, Raj stops his Dad's money.*
+* Ep17 - Sheldon handles Raj's spending.
+* Ep18 - Raj tries to move into Howards or leonard's place.
+* *Ep20 - maybe, Bernadette worries about going back to work.*
+* Ep21 - 
+* Ep22 - Zach offers Penny a job.
+* Ep23 - Raj moves out.
+* Ep24 - Nowitski convinces Sheldon to propose to Amy.
 
 ## Season 11
 
 ![Season 11 poster](/assets/2020/06/The_Big_Bang_Theory_Season_11.jpg){:border="1px"}
+
+* Ep01 - Aftermath of Sheldon's proposal.
 
 ## Season 12
 
