@@ -207,6 +207,9 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 ![Season 11 poster](/assets/2020/06/The_Big_Bang_Theory_Season_11.jpg){:border="1px"}
 
 * Ep01 - **The Proposal Proposal** - Aftermath of Sheldon's proposal. Bernadette is pregnant again.
+* Ep04 - 
+* Ep06
+* 
 
 ## Season 12
 
