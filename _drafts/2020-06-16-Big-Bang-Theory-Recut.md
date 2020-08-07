@@ -207,9 +207,16 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 ![Season 11 poster](/assets/2020/06/The_Big_Bang_Theory_Season_11.jpg){:border="1px"}
 
 * Ep01 - **The Proposal Proposal** - Aftermath of Sheldon's proposal. Bernadette is pregnant again.
-* Ep04 - 
-* Ep06
-* 
+* Ep04 - **The Explosion Implosion** - Leonard's mom bond with Penny.
+* *Ep05 - The Collaboration Contamination - maybe, Penny deals with Sheldon with the help of a parenting book.*
+* *Ep06 - The Proton Regeneration - maybe, Bernadette ends up on bed rest.*
+* Ep09 - **The Bitcoin Entanglement** - Zach has a video of a confession that Penny made.
+* Ep10 - **The Confidence Erosion** - Raj gets a job at the planetarium.
+* Ep11 - **The Celebration Reverberation** - Raj and Howard make up.
+* Ep12 - **The Matrimonial Metric** - Amy finally picks a maid of honor.
+* Ep15 - **The Novelization Correlation** - maybe, Leonards book.
+* Ep16 - **The Neonatal Nomenclature** - Howard and Bernadette have their second child.
+* Ep17 - **The Athenaeum Allocation** - Sheldon and Amy finally get their wedding venue. 
 
 ## Season 12
 
