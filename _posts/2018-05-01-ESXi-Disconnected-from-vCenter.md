@@ -2,7 +2,7 @@
 layout: post
 title:  "ESXi Disconnected from vCenter"
 date:   2018-05-01 20:33:36 -0600
-categories: [vmware]
+categories: [VMware]
 ---
 
 One of my esxi 5.5 U3 hosts was disconnected from vCenter. The VMs were still running, but reconnecting it to vCenter would result in an `vmodl.fault.HostCommunication error.`

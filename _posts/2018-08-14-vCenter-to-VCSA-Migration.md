@@ -2,7 +2,7 @@
 layout: post
 title:  "vCenter to VCSA Migration"
 date:   2018-08-14 20:33:36 -0600
-categories: [vmware]
+categories: [VMware]
 tags: [VCSA, vCenter]
 ---
 

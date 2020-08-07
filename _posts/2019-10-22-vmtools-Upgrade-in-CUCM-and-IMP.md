@@ -2,7 +2,7 @@
 layout: post
 title:  "vmtools Upgrade in CUCM and IMP"
 date:   2019-10-22 20:33:36 -0600
-categories: [Cisco, vmware]
+categories: [Cisco, VMware]
 tags: [vmware tools]
 ---
 vmtools has a simple upgrade in Cisco’s CUCM and IM & Presence.
