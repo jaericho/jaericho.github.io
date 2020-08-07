@@ -222,4 +222,4 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 
 ![Season 12 poster](/assets/2020/06/The_Big_Bang_Theory_Season_12.jpg){:border="1px"}
 
-[^1]: Sheldon's distain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivitive, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture and threw references  into the show.
+[^1]: Sheldon's distain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivitive, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture and threw references into the show.
