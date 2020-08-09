@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Connection Failed: IMPI, JAVA, GA-7PESH2"
+title:  "Connection Failed: IMPI, Java, and a GA-7PESH2"
 date:   2020-08-09 08:00:00 -0600
 categories: [Software]
-tags: [GA-7PESH2, Gigabyte, IMPI, JAVA]
+tags: [GA-7PESH2, Gigabyte, IMPI, Java]
 ---
 
 *Default Java security is too high for the Gigabyte GA-7PESH2 IMPI.*
