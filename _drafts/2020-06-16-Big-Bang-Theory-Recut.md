@@ -232,4 +232,6 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep03 - **The Procreation Calculation** - Penny doesn't want kids.
 * Ep04 - **The Tam Turbulence** - maybe, The girls meet Anu.
 
+---
+
 [^1]: Sheldon's distain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivitive, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture and threw references into the show.
