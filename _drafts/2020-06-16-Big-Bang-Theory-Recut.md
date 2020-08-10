@@ -216,10 +216,20 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep12 - **The Matrimonial Metric** - Amy finally picks a maid of honor.
 * Ep15 - **The Novelization Correlation** - maybe, Leonards book.
 * Ep16 - **The Neonatal Nomenclature** - Howard and Bernadette have their second child.
-* Ep17 - **The Athenaeum Allocation** - Sheldon and Amy finally get their wedding venue. 
+* Ep17 - **The Athenaeum Allocation** - Sheldon and Amy finally get their wedding venue.
+* Ep20 - **The Reclusive Potential** - Amy's bachelorette party.
+* Ep21 - **The Comet Polarization** - Denise's intro.
+* Ep22 - **The Monetary Insufficiency** - Amy pick out her wedding dress.
+* Ep23 - **The Sibling Realignment** - Sheldon convinces his brother to attend the wedding.
+* Ep24 - **The Bow Tie Asymmetry** - Sheldon and Amy's wedding.
 
 ## Season 12
 
 ![Season 12 poster](/assets/2020/06/The_Big_Bang_Theory_Season_12.jpg){:border="1px"}
+
+* Ep01 - **The Conjugal Configuration** - Sheldon and Amy's honeymoon.
+* Ep02 - **The Wedding Gift Wormhole** - Stuart goes on a date.
+* Ep03 - **The Procreation Calculation** - Penny doesn't want kids.
+* Ep04 - **The Tam Turbulence** - maybe, The girls meet Anu.
 
 [^1]: Sheldon's distain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivitive, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture and threw references into the show.
