@@ -6,7 +6,7 @@ categories: [Stupid_Bugs]
 tags: [CentOS 8, Java, Linux, OpenNMS]
 ---
 
-Install OpenNMS on a minimal install on Centos 8. Do not choose Server with a GUI.
+*Install OpenNMS on a minimal install on Centos 8. Do not choose Server with a GUI.*
 
 Aren't we all supposed to install our servers without GUIs? I love the CLI as much as the next neckbeard, but sometimes it's easier for me to troubleshoot something with a GUI on it. Especially since I'm a Windows admin and I'm not as fluent in Linux as I want to be.
 
@@ -27,7 +27,7 @@ Mar 30 15:55:04 opennms.localdomain opennms[4801]: Stopping OpenNMS: Trying to s
 Mar 30 15:55:04 opennms.localdomain opennms[4801]: [  OK  ]
 ```
 
-Apparently, when installing Centos 8 with the Server with a GUI option it will install some flavor of java which will conflict with OpenNMS. I didn't mess around with it too much to get the exact cause. But this [post](https://opennms.discourse.group/t/opennms-is-not-starting/295/14) helped me figure it out.
+Apparently, when installing CentOS 8 with the Server with a GUI option it will install some flavor of java which will conflict with OpenNMS. I didn't mess around with it too much to get the exact cause. But this [post](https://opennms.discourse.group/t/opennms-is-not-starting/295/14) helped me figure it out.
 
 The fix was to reinstall CentOS 8 with GUI-less Server option.
 

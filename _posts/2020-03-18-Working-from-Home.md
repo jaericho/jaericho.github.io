@@ -6,7 +6,7 @@ categories: [Culture]
 tags: [AnyConnect, ASA, ASDM, VPN]
 ---
 
-I didn't think I'd care for working from home.
+*I didn't think I'd care for working from home.*
 
 I don't mind going in the office. I enjoy the routine, my coworkers are nice, and my commute is less than three miles (15 minutes long because of all the lights. ugh). but I must say that three days of working from home and I'm hooked.
 

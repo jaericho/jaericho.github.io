@@ -6,7 +6,7 @@ categories: [Linux]
 tags: [Disk, Ubuntu, vmware]
 ---
 
-Why must I remount a second hdd after every reboot?
+*Why must I remount a second hdd after every reboot?*
 
 [WTF is it with Linux (Part 1)]({% post_url 2015-12-30-WTF-is-it-with-Linux %})
 

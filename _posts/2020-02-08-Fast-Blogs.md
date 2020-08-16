@@ -6,7 +6,7 @@ categories: [Meta]
 tags: [Jekyll, Static Site Generator, Wordpress]
 ---
 
-I use this blog to jot down things I want to remember or snippets I hope will help someone else.
+*I use this blog to jot down things I want to remember or snippets I hope will help someone else.*
 
 # Too Slow
 
