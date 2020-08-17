@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Clip, Jabber, Microsoft Teams, Microsoft Office, Screenshot, Snip and Sketch, Windows]
 ---
 
-Teams needs this feature from Jabber.
+*Teams needs this feature from Jabber.*
 
 [Microsoft Office](https://office.microsoft.com) and [Jabber](https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html) have a neat screen clipping tool built right in. For Office, I always add it to the top of my Outlook quick action bar so I can easily clip part of the screen, then it will automatically paste the pic into the current email. It is extremely useful.
 

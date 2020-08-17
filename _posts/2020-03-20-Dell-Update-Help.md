@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Dell, Dell Command Update]
 ---
 
-For posterity, because I had a helluva of a time trying to find this online.
+*For posterity, because I had a helluva of a time trying to find this online.*
 
 Dell Command | Update v3.1
 Usage:

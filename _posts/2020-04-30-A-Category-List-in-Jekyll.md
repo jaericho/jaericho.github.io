@@ -6,7 +6,7 @@ categories: [Meta]
 tags: [Blog, Jekyll]
 ---
 
-Jekyll is much more powerful than I realize.
+*Jekyll is much more powerful than I realize.*
 
 I really just want a static blog that's fast and has nice easy-to-read [typography](http://kyleamathews.github.io/typography.js/), but I didn't realize how powerful this Jekyll platform could be. Hopefully, I can learn more about it and not get overwhelmed. It looks like it could be quite daunting.
 

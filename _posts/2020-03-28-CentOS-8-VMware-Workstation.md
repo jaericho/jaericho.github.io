@@ -6,6 +6,8 @@ categories: [Linux]
 tags: [CentOS, Display Drivers, VMware]
 ---
 
+*No one uses VMware Workstation, right? /sarc*
+
 A vanilla install of CentOS 8 will not fit the display to the screen in VMware Workstation 15.5.2.
 
 [This StackOverflow answer](https://unix.stackexchange.com/a/551240) was helpful.

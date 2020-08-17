@@ -6,7 +6,7 @@ categories: [Stupid_Bugs]
 tags: [0x800706D9, BITS, Error, Firewall, Windows, Windows Update]
 ---
 
-Updates weren't downloading because the Firewall service was disabled.
+*Updates weren't downloading because the Firewall service was disabled.*
 
 I had a Windows 2016 server that would not download updates from the local WSUS server. I restarted wuauserv, restarted BITS, deleted the SoftwareDistribution folder. Everything I could find.
 

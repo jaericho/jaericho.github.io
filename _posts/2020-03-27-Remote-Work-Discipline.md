@@ -6,7 +6,7 @@ categories: [Culture]
 tags: [Discipline, WFH]
 ---
 
-I'm new to working from home, but I quickly realized there are required habits to make this work.
+*I'm new to working from home, but I quickly realized there are required habits to make this work.*
 
 [This article](https://www.redhat.com/sysadmin/remote-work-discipline) outlines some very good tips for working from home and not being a slacker.
 
