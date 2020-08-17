@@ -6,7 +6,7 @@ categories: [Reviews]
 tags: [Big Bang Theory]
 ---
 
-The essential list of Big Bang Theory episodes.
+*The essential list of Big Bang Theory episodes.*
 
 # Big Bang Theory
 
@@ -15,6 +15,8 @@ The essential list of Big Bang Theory episodes.
 At first, I just wanted to deal with Leonard and Penny's relationship, but I can't cut out all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. And the episodes that include Zach.
 
 Of course, I'll have to rewatch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
+
+**Bolds** are required. *Italics* are a maybe.
 
 ## Season 1
 
@@ -234,4 +236,4 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 
 ---
 
-[^1]: Sheldon's distain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivitive, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture and threw references into the show.
+[^1]: Penny's season 8 hair cut was almost enough to make me stop watching, but Sheldon's distain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivitive, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture references and threw them into the show.
