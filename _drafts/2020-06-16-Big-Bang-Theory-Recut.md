@@ -18,6 +18,8 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 
 **Bolds** are required. *Italics* are a maybe.
 
+**SPOILER WARNING**
+
 ## Season 1
 
 * Ep01 **Pilot** - Introduction of Leonard, Sheldon, Penny.
@@ -232,7 +234,15 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep01 - **The Conjugal Configuration** - Sheldon and Amy's honeymoon.
 * Ep02 - **The Wedding Gift Wormhole** - Stuart goes on a date.
 * Ep03 - **The Procreation Calculation** - Penny doesn't want kids.
-* Ep04 - **The Tam Turbulence** - maybe, The girls meet Anu.
+* Ep04 - *The Tam Turbulence - maybe, The girls meet Anu.*
+* Ep08 - **The Consummation Deviation** - Raj and Anu try to get physicial.
+* Ep09 - **The Citation Negation** - A Russian paper disproves super asymmetry.
+* Ep10 - **The VCR Illumination** - VCR pep talk.
+* Ep11 - **The Paintball Scattering** - Raj and Anu break up.
+* Ep12 - **The Propagation Proposition** - Zack wants Leonard's baby.
+* Ep13 - **The Confirmation Polarization** - Two other scientists prove super asymmetry. Penny's a new team leader.
+* Ep15 - **The Donation Oscillation** - Penny tries to derail Leonards baby plans.
+* Ep17 - *The Conference Valuation - maybe, more of Penny's sales leadership.*
 
 ---
 
