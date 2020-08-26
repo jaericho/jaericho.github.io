@@ -243,6 +243,8 @@ Of course, I'll have to rewatch the series for a third time after I complete thi
 * Ep13 - **The Confirmation Polarization** - Two other scientists prove super asymmetry. Penny's a new team leader.
 * Ep15 - **The Donation Oscillation** - Penny tries to derail Leonards baby plans.
 * Ep17 - *The Conference Valuation - maybe, more of Penny's sales leadership.*
+* Ep18 - **The Laureate Accumulation** - Sheldon and Amy confront the other scientists.
+* *Ep19 - The Inspiration Deprivation - maybe, Sheldon and Amy get called into HR.*
 
 ---
 
