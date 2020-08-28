@@ -14,6 +14,6 @@ tags: [Liam Neeson, Movie Review, Walk Among the Tombstones]
 
 Liam Neeson does a great job. He has just the right amount of grizzled, seen-it-all cop without overdoing it. The token black kid was kind of annoying, but he wasn't a deal breaker.
 
-Like the last movie I saw, The November Man, this is a good movie, but nothing stood out about it to make it great. If you're a fan of Liam Neeson, see it.
+Like the last movie I saw, [The November Man]({% post_url 2014-09-02-The-November-Man-2014 %}), this is a good movie, but nothing stood out about it to make it great. If you're a fan of Liam Neeson, see it.
 
-P.S.: Just make sure you don't see it in a theater *(Carmike)* where they will come around to and empty theater and tell you to take your leg off the back of the seat in front of you during *the* climax of the movie, thus jarring you out of your engrossment and completely destroying the feel of the movie. I won't name any names *(Carmike)*, but there appear to be some movie theaters that do that. *(Carmike)*
+P.S.: Just make sure you don't see it in a theater *(Carmike)* where they will come around to and empty theater and tell you to take your leg off the back of the seat in front of you during *\*the\** climax of the movie, thus jarring you out of your engrossment and completely destroying the feel of the movie. I won't name any names *(Carmike)*, but there appear to be some movie theaters that do that. *(Carmike)*
