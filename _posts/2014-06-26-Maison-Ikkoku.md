@@ -6,16 +6,16 @@ categories: [Reviews]
 tags: [anime, Maison Ikkoku, TV Review]
 ---
 
-How much of a Maison Ikkoku fan am I?
+*How much of a Maison Ikkoku fan am I?*
 
 ![Kyoko Otonashi](/assets/2014/06/kyoko.jpg){:align="right"}
 
-* I have the legit [DVDs](http://www.amazon.com/Maison-Ikkoku-Collectors-Box-eps-1-12/dp/B00009L53V) from Viz
-* Bootleg copy DVDs from Hong Kong
-* Two complete sets of first and second edition [graphic novels](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dus-stripbooks-tree&field-keywords=maison+ikkoku&x=0&y=0) from Viz (both read countless times over)
-* Several soundtracks
-* The same t-shirt in grey and white
-* and I watched the entire 96 episode TV series non-stop in 41 hours over a single [Memorial Day weekend](https://web.archive.org/web/20200319033522/https://www.tapatalk.com/groups/ikkoku/maison-ikkoku-in-1-weekend-t664.html).
+* I have the legit [DVDs](http://www.amazon.com/Maison-Ikkoku-Collectors-Box-eps-1-12/dp/B00009L53V) from Viz.
+* Bootleg copy DVDs from Hong Kong.
+* Two complete sets of first and second edition [graphic novels](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dus-stripbooks-tree&field-keywords=maison+ikkoku&x=0&y=0) from Viz. (both read countless times over)
+* Several soundtracks.
+* The same t-shirt in grey and white.
+* I watched the entire 96 episode TV series non-stop in 41 hours over a single [Memorial Day weekend](https://web.archive.org/web/20200319033522/https://www.tapatalk.com/groups/ikkoku/maison-ikkoku-in-1-weekend-t664.html).
 
 ...I'm a bit of a fan. Maison Ikkoku occupies the top spot in my favorite anime list and will never be usurped.
 
