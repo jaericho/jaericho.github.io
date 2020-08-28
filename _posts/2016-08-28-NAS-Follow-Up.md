@@ -6,7 +6,7 @@ categories: [Hardware]
 tags: [Build, FreeNAS, NAS, Storage]
 ---
 
-Last Febuary I built a NAS and I learned two things:
+Last Febuary I built a [NAS]({% post_url 2016-02-02-NAS %}) and I learned two things:
 
 1. Overbuild.
 1. Get a good case.
