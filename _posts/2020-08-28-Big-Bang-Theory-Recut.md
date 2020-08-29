@@ -229,7 +229,7 @@ After watching the series all the way though here are my conclusions:
 * Ep16 **The Neonatal Nomenclature** - Howard and Bernadette have their second child.
 * Ep17 **The Athenaeum Allocation** - Sheldon and Amy finally get their wedding venue.
 * Ep20 **The Reclusive Potential** - Amy's bachelorette party.
-* Ep21 **The Comet Polarization** - Denise's intro.
+* Ep21 **The Comet Polarization** - Introduction of Denise's.
 * Ep22 **The Monetary Insufficiency** - Amy pick out her wedding dress.
 * Ep23 **The Sibling Realignment** - Sheldon convinces his brother to attend the wedding.
 * Ep24 **The Bow Tie Asymmetry** - Sheldon and Amy's wedding.
