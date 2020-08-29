@@ -3,7 +3,7 @@ layout: post
 title:  "Big Bang Theory Re-cut"
 date:   2020-08-28 08:00:00 -0600
 categories: [Reviews]
-tags: [Big Bang Theory, TV Reviews]
+tags: [Big Bang Theory, TV Review]
 ---
 
 *The essential list of Big Bang Theory episodes.*
