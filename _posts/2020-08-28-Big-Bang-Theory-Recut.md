@@ -260,4 +260,4 @@ After watching the series all the way though here are my conclusions:
 
 ---
 
-[^1]: Penny's season 8 hair cut was enough to make me stop watching for 5 years, but Sheldon's destain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivative, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture references and threw them into the show. More BBT failings include: Sheldon doesn't like pulp in his orange juice. (OJ is best with lots of pulp.) And Leonard and Sheldon's horrible Klingon pronunciation.
+[^1]: Penny's season 8 hair cut was enough to make me stop watching for 5 years, but Sheldon's destain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivative, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture references and threw them into the show. More BBT failings include: Sheldon doesn't like pulp in his orange juice. (OJ is best with lots of pulp. Everyone knows that.) And Leonard and Sheldon's horrible Klingon pronunciation.
