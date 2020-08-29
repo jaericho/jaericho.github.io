@@ -13,7 +13,7 @@ Usage:
 
     dcu-cli.exe /<command> [-<option1>=<value1>] [-<option2>=<value2>]...
 
-Commands: 
+Commands:
     /help - Displays usage information.
 
     /scan - Performs a system scan to determine the updates for the current system configuration.
@@ -42,7 +42,6 @@ Commands:
     This command supports the following options: -encryptionKey, -password, -outputPath
 
     /version - Displays the version.
-
 
 The following options are available to use with the commands:
 
