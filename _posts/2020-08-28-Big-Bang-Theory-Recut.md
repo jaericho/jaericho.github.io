@@ -12,9 +12,9 @@ tags: [Big Bang Theory, TV Review]
 
 ![Season 1 poster](/assets/2020/06/big_bang_theory_poster.jpg){:.poster}It's a guilty pleasure but I still enjoy [The Big Bang Theory](https://www.imdb.com/title/tt0898266/), and while it's far from perfect[^1], I believe cutting out the fluff would make it better, so here is my list of essential episodes.
 
-At first, I wanted to deal with only Leonard and Penny's relationship, but I can't cut out all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. (And the episodes that include Zach. He was one of my favorites.)
+Initially, I wanted to deal only with Leonard and Penny's relationship, but the show wouldn't make any sense if I cut all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. (And the episodes with Zach. He was hilarious.)
 
-Of course, I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
+I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
 
 **Bold** are required. *Italics* are a maybe.
 
