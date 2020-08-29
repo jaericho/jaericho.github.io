@@ -10,15 +10,15 @@ tags: [Big Bang Theory, TV Reviews]
 
 # Big Bang Theory
 
-It's a guilty pleasure, but I still enjoy [The Big Bang Theory](https://www.imdb.com/title/tt0898266/), and while it's far from perfect[^1], I believe cutting out the fluff would make it better, so here is my list of essential episodes.
+It's a guilty pleasure but I still enjoy [The Big Bang Theory](https://www.imdb.com/title/tt0898266/), and while it's far from perfect[^1], I believe cutting out the fluff would make it better, so here is my list of essential episodes.
 
-At first, I just wanted to deal with Leonard and Penny's relationship, but I can't cut out all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. (And the episodes that include Zach. He was one of my favorites.)
+At first, I wanted to deal with only Leonard and Penny's relationship, but I can't cut out all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. (And the episodes that include Zach. He was one of my favorites.)
 
 Of course, I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
 
 **Bold** are required. *Italics* are a maybe.
 
-After watching the series all the way though here are my thoughts:
+After watching the series all the way though here are my conclusions:
 
 * 137 of 281 episodes are required. (49%)
 * 39 episodes are *maybe's* that could be added for more depth or are very funny.
