@@ -14,10 +14,6 @@ tags: [Big Bang Theory, TV Review]
 
 Initially, I wanted to deal only with Leonard and Penny's relationship, but the show wouldn't make any sense if I cut all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. (And the episodes with Zach. He was hilarious.)
 
-I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
-
-**Bold** are required. *Italics* are a maybe.
-
 After watching the series all the way though here are my conclusions:
 
 * 137 of 281 episodes are required. (49%)
@@ -25,9 +21,13 @@ After watching the series all the way though here are my conclusions:
 * Season 9 and 12 tied for the most required episodes. (16 episodes, 67%)
 * Season 3 has the fewest required episodes. (7 episodes, 30%)
 
+I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
+
+**Bold** are required. *Italics* are a maybe.
+
 **SPOILER WARNING**
 
-## Season 1
+## [Season 1](https://www.imdb.com/title/tt0898266/episodes?season=1)
 
 * Ep01 **Pilot** - Introduction of Leonard, Sheldon, Penny.
 * Ep04 **The Luminous Fish Effect** - Introduction of Mary, Sheldon's mother.
@@ -38,7 +38,7 @@ After watching the series all the way though here are my conclusions:
 * Ep15 **The Pork Chop Indeterminancy** - Introduction of Sheldon’s sister.
 * Ep17 **The Tangerine Factor** - Leonard and Penny's first date.
 
-## Season 2
+## [Season 2](https://www.imdb.com/title/tt0898266/episodes?season=2)
 
 ![Season 2 poster](/assets/2020/06/The_Big_Bang_Theory_Season_2.jpg){:border="1px"}
 
@@ -59,7 +59,7 @@ After watching the series all the way though here are my conclusions:
 * *Ep22 The Classified Materials Turbulence - maybe, Penny slips Leonard’s name.*
 * Ep23 **The Monopolar Expedition** - North Pole trip.
 
-## Season 3
+## [Season 3](https://www.imdb.com/title/tt0898266/episodes?season=3)
 
 ![Season 3 poster](/assets/2020/06/The_Big_Bang_Theory_Season_3.jpg){:border="1px"}
 
@@ -71,7 +71,7 @@ After watching the series all the way though here are my conclusions:
 * Ep20 **The Spaghetti Catalyst** - Leonard is friendzoned.
 * Ep23 **The Lunar Excitation** - Introduction of Amy Farrah Fowler.
 
-## Season 4
+## [Season 4](https://www.imdb.com/title/tt0898266/episodes?season=4)
 
 ![Season 4 poster](/assets/2020/06/The_Big_Bang_Theory_Season_4.jpg){:border="1px"}
 
@@ -88,7 +88,7 @@ After watching the series all the way though here are my conclusions:
 * *Ep23 The Engagement Reaction - maybe, Howard, Howard's mother, and Bernadette talk engagement*
 * Ep24 **The Roommate Transmogrification** - Penny says she shouldn't have let Leonard go, but then sleeps with Raj.
 
-## Season 5
+## [Season 5](https://www.imdb.com/title/tt0898266/episodes?season=5)
 
 ![Season 5 poster](/assets/2020/06/The_Big_Bang_Theory_Season_5.jpg){:border="1px"}
 
@@ -106,7 +106,7 @@ After watching the series all the way though here are my conclusions:
 * Ep23 **The Launch Acceleration** - Leonard and Penny move faster.
 * Ep24 **The Countdown Reflection** - Howard and Bernadette's wedding.
 
-## Season 6
+## [Season 6](https://www.imdb.com/title/tt0898266/episodes?season=6)
 
 ![Season 6 poster](/assets/2020/06/The_Big_Bang_Theory_Season_6.jpg){:border="1px"}
 
@@ -125,7 +125,7 @@ After watching the series all the way though here are my conclusions:
 * E23 **The Love Spell Potential** - Raj/Lucy's date. Howard does impersonations during a D&D game.
 * E24 **The Bon Voyage Reaction** - Leonard goes to the North Pole. Raj can talk to girls.
 
-## Season 7
+## [Season 7](https://www.imdb.com/title/tt0898266/episodes?season=7)
 
 ![Season 7 poster](/assets/2020/06/The_Big_Bang_Theory_Season_7.jpg){:border="1px"}
 
@@ -145,7 +145,7 @@ After watching the series all the way though here are my conclusions:
 * Ep23 **The Gorilla Dissolution** - Penny gets fired from her movie.
 * Ep24 **The Status Quo Combustion** - Sheldon is upset about Leo and Penny future move out.
 
-## Season 8
+## [Season 8](https://www.imdb.com/title/tt0898266/episodes?season=8)
 
 ![Season 8 poster](/assets/2020/06/The_Big_Bang_Theory_Season_8.jpg){:border="1px"}
 
@@ -165,7 +165,7 @@ After watching the series all the way though here are my conclusions:
 * Ep23 **The Maternal Combustion** - Leonard and Sheldon get an award for their paper. Their mothers meet.
 * Ep24 **The Commitment Determination** - Everyone breaks up. Sort of.
 
-## Season 9
+## [Season 9](https://www.imdb.com/title/tt0898266/episodes?season=9)
 
 ![Season 9 poster](/assets/2020/06/The_Big_Bang_Theory_Season_9.jpg){:border="1px"}
 
@@ -189,7 +189,7 @@ After watching the series all the way though here are my conclusions:
 * Ep23 **The Line Substitution Solution** - Penny has trouble connecting with Beverly.
 * Ep24 **The Convergence Convergence** - The parents all meet.
 
-## Season 10
+## [Season 10](https://www.imdb.com/title/tt0898266/episodes?season=10)
 
 ![Season 10 poster](/assets/2020/06/The_Big_Bang_Theory_Season_10.jpg){:border="1px"}
 
@@ -213,7 +213,7 @@ After watching the series all the way though here are my conclusions:
 * Ep23 **The Gyroscopic Collapse** - Raj moves out. The Air Force takes over the gyroscope project.
 * Ep24 **The Long Distance Dissonance** - Ramona makes moves on Sheldon.
 
-## Season 11
+## [Season 11](https://www.imdb.com/title/tt0898266/episodes?season=11)
 
 ![Season 11 poster](/assets/2020/06/The_Big_Bang_Theory_Season_11.jpg){:border="1px"}
 
@@ -234,7 +234,7 @@ After watching the series all the way though here are my conclusions:
 * Ep23 **The Sibling Realignment** - Sheldon convinces his brother to attend the wedding.
 * Ep24 **The Bow Tie Asymmetry** - Sheldon and Amy's wedding.
 
-## Season 12
+## [Season 12](https://www.imdb.com/title/tt0898266/episodes?season=12)
 
 ![Season 12 poster](/assets/2020/06/The_Big_Bang_Theory_Season_12.jpg){:border="1px"}
 
@@ -260,4 +260,4 @@ After watching the series all the way though here are my conclusions:
 
 ---
 
-[^1]: Penny's season 8 hair cut was enough to make me stop watching for 5 years, but Sheldon's destain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivative, is reason enough to never watch BBT, and proof that the writers didn't know what they were talking about. They just looked up geek pop-culture references and threw them into the show. More BBT failings include: Sheldon doesn't like pulp in his orange juice. (OJ is best with lots of pulp. Everyone knows that.) And Leonard and Sheldon's horrible Klingon pronunciation.
+[^1]: Penny's season 8 hair cut was enough to make me stop watching for 5 years, but Sheldon's destain of [Babylon 5](https://www.imdb.com/title/tt0105946/), calling it's writing derivative, is reason enough to never watch it to begin with. It's proof that the writers didn't know what they were talking about; they just looked up geek pop-culture references and threw them into the show. More BBT failings include: Sheldon doesn't like pulp in his orange juice. (OJ is best with lots of pulp. Everyone knows that.) And Leonard and Sheldon's horrible Klingon pronunciation.
