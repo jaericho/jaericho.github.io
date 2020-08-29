@@ -44,7 +44,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 
 * Ep01 **The Bad Fish Paradigm** - Leonard and Penny's first date pt 2
 * Ep02 **The Codpiece Topology** - Leonard and Penny break up.
-* *Ep04 The Griffin Equivalency - maybe, there are some funny jokes.*
+* *Ep04 The Griffin Equivalency - maybe, a funny episode.*
 * *Ep05 The Euclid Alternative - maybe, Sheldon’s driving lessons.*
 * Ep06 **The Cooper-Nowitski Theorem** - funny episode, Second Barenaked Ladies song.
 * Ep07 **The Panty Pinata Polarization** - Sheldon and Penny fight.
@@ -55,7 +55,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep15 **The Maternal Capacitance** - Introduction of Leonard’s mom.
 * Ep19 **The Dead Hooker Juxtaposition** - Growth in Penny's character.
 * Ep20 **The Hofstadter Isotope** - Introduction of Stewart.
-* *Ep21 The Vegas Renormalization - maybe, funny Jewish-hooker joke.*
+* *Ep21 The Vegas Renormalization - maybe, funny. The Jewish-girlfriend experience joke.*
 * *Ep22 The Classified Materials Turbulence - maybe, Penny slips Leonard’s name.*
 * Ep23 **The Monopolar Expedition** - North Pole trip.
 
