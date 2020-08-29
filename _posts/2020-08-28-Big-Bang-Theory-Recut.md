@@ -17,7 +17,7 @@ Initially, I wanted to deal only with Leonard and Penny's relationship, but the 
 After watching the series all the way though here are my conclusions:
 
 * 137 of 281 episodes are required. (49%)
-* 39 episodes are *maybe's* that could be added for more depth or are very funny.
+* 40 episodes are *maybe's* that could be added for more depth or are very funny.
 * Season 9 and 12 tied for the most required episodes. (16 episodes, 67%)
 * Season 3 has the fewest required episodes. (7 episodes, 30%)
 
