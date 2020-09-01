@@ -6,7 +6,7 @@ categories: [Reviews]
 tags: [Big Bang Theory, TV Review]
 ---
 
-*The essential list of Big Bang Theory episodes.*
+*My essential list of Big Bang Theory episodes.*
 
 # Big Bang Theory
 
@@ -18,7 +18,7 @@ After watching the series all the way though here are my conclusions:
 
 * 137 of 281 episodes are required. (49%)
 * 40 episodes are *maybe's* that could be added for more depth or are very funny.
-* Season 9 and 12 tied for the most required episodes. (16 episodes, 67%)
+* Season 9 and 12 tied for the most required episodes. (16 episodes, 67% of each season.)
 * Season 3 has the fewest required episodes. (7 episodes, 30%)
 
 I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
@@ -123,8 +123,8 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * E19 **The Closet Reconfiguration** - A letter from Howard's Dad.
 * E21 **The Closure Alternative** - Raj and Lucy. Penny tried to be passionate about Leonard's interests.
 * E22 **The Proton Resurgence** - Introduction of Professor Proton.
-* E23 **The Love Spell Potential** - Raj and Lucy's date. Howard does impersonations during a D&D game.
-* E24 **The Bon Voyage Reaction** - Leonard goes to the North Pole. Raj can talk to girls now.
+* E23 **The Love Spell Potential** - Raj and Lucy's date. Howard does impersonations during a D&D game. *(The impersonations are hilarious.)*
+* E24 **The Bon Voyage Reaction** - Leonard goes to the North Pole. Raj can talk to women now.
 
 ## [Season 7](https://www.imdb.com/title/tt0898266/episodes?season=7)
 
@@ -163,7 +163,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep18 **The Leftover Thermalization** - strong maybe. Continuation of Leonard and Sheldon's paper.
 * Ep20 **The Fortification Implementation** - Howard finds out he has a brother. Leonard and Penny fight over money.
 * Ep21 **The Communication Deterioration** - Penny contemplates going back to acting.
-* Ep23 **The Maternal Combustion** - Leonard and Sheldon get an award for their paper. Their mothers meet.
+* Ep23 **The Maternal Combustion** - Leonard and Sheldon get an award for their paper and their mothers meet.
 * Ep24 **The Commitment Determination** - Everyone breaks up. (Sort of.)
 
 ## [Season 9](https://www.imdb.com/title/tt0898266/episodes?season=9)
@@ -175,7 +175,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep03 **The Bachelor Party Corrosion** - maybe, Penny tells her family she's married.
 * Ep05 **The Perspiration Implementation** - more with Sheldon and Amy's break up.
 * Ep07 **The Spock Resonance** - Sheldon tries to propose.
-* Ep08 **The Mystery Date Observation** - Amy has a date.
+* Ep08 **The Mystery Date Observation** - Amy has a date with another man.
 * Ep09 **The Platonic Permutation** - Sheldon and Amy spend Thanksgiving together as friends.
 * Ep10 **The Earworm Reverberation** - Sheldon and Amy are back together.
 * Ep11 **The Opening Night Excitation** - Sheldon and Amy hook up.
