@@ -112,7 +112,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 ![Season 6 poster](/assets/2020/06/The_Big_Bang_Theory_Season_6.jpg){:border="1px"}
 
 * Ep01 **The Date Night Variable** - Howard in space.
-* Ep02 **The Decoupling Fluctuation** - Howard in space.
+* Ep02 **The Decoupling Fluctuation** - More Howard in space.
 * *Ep03 The Higgs Boson Observation - maybe, Howard goes crazy in space.*
 * Ep04 **The Re-Entry Minimization** - Howard comes back from space.
 * Ep08 **The 43 Peculiarity** - Penny admits she loves Leonard.
