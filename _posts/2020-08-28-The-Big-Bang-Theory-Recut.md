@@ -63,11 +63,11 @@ I'll have to re-watch the series for a third time after I complete this list, so
 
 ![Season 3 poster](/assets/2020/06/The_Big_Bang_Theory_Season_3.jpg){:border="1px"}
 
-* Ep01 **The Electric Can Opener Fluctuation**
-* Ep02 **The Jiminy Conjecture** - “just friends”
-* Ep05 **The Creepy Candy Coating Corollary** - Introduction of Bernadette
-* *Ep08 The Adhesive Duck Deficiency - maybe, hilarious episode.*
-* Ep11 **The Maternal Congruence** - Penny and Leonard’s mom
+* Ep01 **The Electric Can Opener Fluctuation** - Leonard's reunion with Penny is botched.
+* Ep02 **The Jiminy Conjecture** - “just friends.”
+* Ep05 **The Creepy Candy Coating Corollary** - Introduction of Bernadette.
+* *Ep08 The Adhesive Duck Deficiency - maybe, a hilarious episode.*
+* Ep11 **The Maternal Congruence** - Penny and Leonard’s mom meet.
 * Ep19 **The Wheaton Recurrence** - Leonard and Penny break up.
 * Ep20 **The Spaghetti Catalyst** - Leonard is friendzoned.
 * Ep23 **The Lunar Excitation** - Introduction of Amy Farrah Fowler.
@@ -76,17 +76,17 @@ I'll have to re-watch the series for a third time after I complete this list, so
 
 ![Season 4 poster](/assets/2020/06/The_Big_Bang_Theory_Season_4.jpg){:border="1px"}
 
-* Ep01 **The Robotic Manipulation** - Penny tags along on Sheldon and Amy's first date.
+* Ep01 **The Robotic Manipulation** - Penny is dragged along on Sheldon and Amy's first date.
 * Ep06 **The Irish Pub Formulation** - Introduction of Priya, Raj's sister.
 * Ep09 **The Boyfriend Complexity** - Penny’s Father sides with Leonard.
-* Ep10 **The Alien Parasite Hypothesis** - Includes Zach
+* Ep10 **The Alien Parasite Hypothesis** - Includes Zach.
 * Ep11 **The Justice League Recombination** - Halloween party. Plus it includes Zach.
-* Ep13 **The Love Car Displacement** - Penny and Leonard discuss relationship
-* Ep16 **The Cohabitation Formulation** - Penny is replaced by Priya
+* Ep13 **The Love Car Displacement** - Penny and Leonard discuss their relationship.
+* Ep16 **The Cohabitation Formulation** - Penny is replaced by Priya.
 * Ep17 **The Toast Derivation** - More Penny v Priya.
 * Ep20 **The Herb Garden Germination** - Howard Proposes to Bernadette.
-* *Ep21 The Agreement Dissection - maybe, roommate agreement fight, Leonard and Priya fight*
-* *Ep23 The Engagement Reaction - maybe, Howard, Howard's mother, and Bernadette talk engagement*
+* *Ep21 The Agreement Dissection - maybe, roommate agreement fight, Leonard and Priya fight.*
+* *Ep23 The Engagement Reaction - maybe, Howard, Howard's mother, and Bernadette talk engagement.*
 * Ep24 **The Roommate Transmogrification** - Penny says she shouldn't have let Leonard go, but then sleeps with Raj.
 
 ## [Season 5](https://www.imdb.com/title/tt0898266/episodes?season=5)
@@ -96,7 +96,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep01 **The Skank Reflex Analysis** - The aftermath of Penny sleeping with Raj.
 * Ep03 *The Pulled Groin Extrapolation - maybe, Howard and Bernadette test a weekend out together. Leonard accompanies Amy to a wedding.*
 * Ep07 **The Good Guy Fluctuation** - Leonard tries to cheat on Priya. Leonard and Priya break up. *(Good, I couldn't stand Priya.)*
-* Ep08 *The Isolation Permutation - maybe, Amy's feelings are hurt by Penny and Bernadette*
+* Ep08 *The Isolation Permutation - maybe, Amy's feelings are hurt by Penny and Bernadette.*
 * Ep09 **The Ornithophobia Diffusion** - Leonard and Penny go on *not* a date.
 * Ep12 **The Shiny Trinket Maneuver** - Howard and Bernadette talk kids. Amy gets a tiara.
 * Ep13 **The Recombination Hypothesis** - Leonard and Penny go on a date.
