@@ -19,7 +19,7 @@ After watching the series all the way though here are my conclusions:
 * 137 of 281 episodes are required. (49%)
 * 40 episodes are *maybe's* that could be added for more depth or are very funny.
 * Season 9 and 12 tied for the most required episodes. (16 episodes, 67% of each season.)
-* Season 3 has the fewest required episodes. (7 episodes, 30%)
+* Season 3 has the fewest required and no *maybe* episodes. (7 episodes, 30%)
 
 I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
 
