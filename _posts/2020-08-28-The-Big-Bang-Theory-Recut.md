@@ -17,9 +17,9 @@ Initially, I wanted to deal only with Leonard and Penny's relationship, but the 
 After watching the series all the way though here are my conclusions:
 
 * 137 of 281 episodes are required. (49%)
-* 40 episodes are *maybe's* that could be added for more depth or are very funny.
+* 39 episodes are *maybe's* that could be added for more depth or are very funny.
 * Season 9 and 12 tied for the most required episodes. (16 episodes, 67% of each season.)
-* Season 3 has the fewest required and zero *maybe* episodes. (7 episodes, 30%)
+* Season 3 has the fewest required and one *maybe* episode. (7 episodes, 30%)
 
 I'll have to re-watch the series for a third time after I complete this list, so I may be completely sick of the show by the third time through.
 
@@ -138,7 +138,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep10 **The Discovery Dissipation** - continuation of Ep06.
 * *Ep11 The Cooper Extraction - maybe, it's kinda funny.*
 * Ep12 **The Hesitation Ramification** - Penny quits her job.
-* *Ep13 The Occupation Recalibration - Leonard tries to be supportive of Penny's quitting.*
+* *Ep13 The Occupation Recalibration - maybe, Leonard tries to be supportive of Penny's quitting.*
 * Ep17 **The Friendship Turbulence** - Penny has second thoughts about quitting the Cheesecake Factory.
 * EP19 **The Indecision Amalgamation** - Penny gets a job in a cheesy movie.
 * Ep20 **The Relationship Diremption** - Penny helps Sheldon with his string theory career.
@@ -157,10 +157,10 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep09 **The Septum Deviation** - Leonard gets surgery, Raj's parents are divorced.
 * *Ep11 The Clean Room Infiltration - maybe, Sheldon and Amy exchange presents.*
 * *Ep13 The Anxiety Optimization - maybe, Emily vs Cinnamon game. Very funny.*
-* Ep14 **The Troll Manifestation** - maybe, Leonard and Sheldon write a paper.
+* Ep14 **The Troll Manifestation** - Leonard and Sheldon write a paper.
 * Ep15 **The Comic Book Store Regeneration** - Mrs. Wolowitz dies.
 * Ep16 **The Intimacy Acceleration** - Penny and Sheldon do a relationship experiment.
-* Ep18 **The Leftover Thermalization** - strong maybe. Continuation of Leonard and Sheldon's paper.
+* Ep18 **The Leftover Thermalization** - Continuation of Leonard and Sheldon's paper.
 * Ep20 **The Fortification Implementation** - Howard finds out he has a brother. Leonard and Penny fight over money.
 * Ep21 **The Communication Deterioration** - Penny contemplates going back to acting.
 * Ep23 **The Maternal Combustion** - Leonard and Sheldon get an award for their paper and their mothers meet.
@@ -172,7 +172,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 
 * Ep01 **The Matrimonial Momentum** - Penny struggles with Leonard's confession.
 * Ep02 **The Separation Oscillation** - more with Sheldon and Amy's break up.
-* Ep03 **The Bachelor Party Corrosion** - maybe, Penny tells her family she's married.
+* *Ep03 The Bachelor Party Corrosion - maybe, Penny tells her family she's married.*
 * Ep05 **The Perspiration Implementation** - more with Sheldon and Amy's break up.
 * Ep07 **The Spock Resonance** - Sheldon tries to propose.
 * Ep08 **The Mystery Date Observation** - Amy has a date with another man.
@@ -184,9 +184,9 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep16 **The Positive Negative Reaction** - Bernadette reveals she's pregnant.
 * Ep17 *The Celebration Experimentation - maybe, funny and Adam West guest stars.*
 * Ep18 **The Application Deterioration** - Patent application.
-* Ep19 *The Solder Excursion Diversion - maybe*
-* Ep20 **The Big Bear Precipitation** - Secrets are revealed on a camping trip. (Watch Leonard cuck again.)
-* Ep22 **The Fermentation Bifurcation** - More Zach.
+* Ep19 *The Solder Excursion Diversion - maybe, Amy learns about Sheldon's secret failures.*
+* Ep20 **The Big Bear Precipitation** - Secrets are revealed on a camping trip. *(Watch Leonard cuck again.)*
+* Ep22 **The Fermentation Bifurcation** - Zach takes an interest in Raj's not-girlfriend.
 * Ep23 **The Line Substitution Solution** - Penny has trouble connecting with Beverly.
 * Ep24 **The Convergence Convergence** - All the parents meet. Introduction of Leonard's Dad.
 
@@ -202,7 +202,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep07 **The Veracity Elasticity** - Amy's lies to Sheldon about her apt.
 * *Ep08 The Brain Bowl Incubation - maybe, Sheldon wants a baby with Amy.*
 * Ep10 **The Property Division Collision** - Stuart moves in with Howard and Bernadette again.
-* Ep11 **The Birthday Synchronicity** - Bernadette's baby.
+* Ep11 **The Birthday Synchronicity** - Bernadette's baby is born.
 * *Ep12 The Holiday Summation - maybe, Sheldon and Amy recount a bad holiday trip. Sheldon's Mom*
 * *Ep13 The Romance Recalibration - maybe, Leonard and Penny's relationship agreement.*
 * *Ep16 The Allowance Evaporation - maybe, Raj stops his Dad's money.*
@@ -226,12 +226,12 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep10 **The Confidence Erosion** - Raj gets a job at the planetarium.
 * Ep11 **The Celebration Reverberation** - Raj and Howard make up.
 * Ep12 **The Matrimonial Metric** - Amy finally picks a maid of honor.
-* Ep15 **The Novelization Correlation** - maybe, Leonard's book.
+* *Ep15 The Novelization Correlation - maybe, Leonard's book.*
 * Ep16 **The Neonatal Nomenclature** - Howard and Bernadette have their second child.
 * Ep17 **The Athenaeum Allocation** - Sheldon and Amy finally get their wedding venue.
 * Ep20 **The Reclusive Potential** - Amy's bachelorette party.
 * Ep21 **The Comet Polarization** - Introduction of Denise.
-* Ep22 **The Monetary Insufficiency** - Amy pick out her wedding dress.
+* Ep22 **The Monetary Insufficiency** - Amy picks out her wedding dress.
 * Ep23 **The Sibling Realignment** - Sheldon convinces his brother to attend the wedding.
 * Ep24 **The Bow Tie Asymmetry** - Sheldon and Amy's wedding.
 
