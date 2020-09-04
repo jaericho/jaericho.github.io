@@ -39,4 +39,4 @@ None of these are deal breakers.
 
 I’m still testing out the ergonomic version. I’m tempted to go back and get the regular version, since I use a regular mechanical keyboard at work.
 
-I heartily recommend this keyboard. What little time I’ve spent with it I can say it’s a great keyboard. It’s a little spendy, but if you like the Apple keyboard style with perfect Windows (Win8, 8.1, 10. No Win7) integration, this keyboard is great.
+I heartily recommend this keyboard. What little time I’ve spent with it I can say it’s a great keyboard. It’s a little spendy for a non-mechanical keyboard, but if you like the Apple keyboard style with perfect Windows (Win8.1, 10) integration, this keyboard is great.
