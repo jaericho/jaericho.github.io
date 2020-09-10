@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Connection Failed: IMPI, Java, and a GA-7PESH2"
+title:  "Connection Failed: IPMI, Java, and a GA-7PESH2"
 date:   2020-08-09 08:00:00 -0600
 categories: [Software]
-tags: [GA-7PESH2, Gigabyte, IMPI, Java]
+tags: [GA-7PESH2, Gigabyte, IPMI, Java]
 ---
 
-*Default Java security is too high for the Gigabyte GA-7PESH2 IMPI.*
+*Default Java security is too high for the Gigabyte GA-7PESH2 IPMI.*
 
 From this helpful [reddit post](https://www.reddit.com/r/JDM_WAAAT/comments/9dlx2b/ga7pesh2_ipmikvm_wont_connect/):
 
