@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Web Redirects"
-date:   2020-09-10 08:00:00 -0600
+title: "Web Redirects"
+date: 2020-09-10 08:00:00 -0600
 categories: [Software]
 tags: [Alpine Linux, darkhttpd, nginx, Redirects, WWW]
 ---

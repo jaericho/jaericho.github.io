@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Bringing a Dell Latitude E7440 Back to Life"
-date:       2020-07-23 08:00:00 -0600
+layout: post
+title: "Bringing a Dell Latitude E7440 Back to Life"
+date: 2020-07-23 08:00:00 -0600
 categories: [Hardware]
-tags:       [BIOS, Dell, laptop, Latitude, power]
+tags: [BIOS, Dell, laptop, Latitude, power]
 ---
 
 *Hold the power button and plug in the laptop without the battery.*

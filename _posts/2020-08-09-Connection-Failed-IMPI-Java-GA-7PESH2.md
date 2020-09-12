@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Connection Failed: IPMI, Java, and a GA-7PESH2"
-date:   2020-08-09 08:00:00 -0600
+title: "Connection Failed: IPMI, Java, and a GA-7PESH2"
+date: 2020-08-09 08:00:00 -0600
 categories: [Software]
 tags: [GA-7PESH2, Gigabyte, IPMI, Java]
 ---

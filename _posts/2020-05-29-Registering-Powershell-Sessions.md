@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Registering Powershell Sessions"
-date:   2020-05-29 08:00:00 -0600
+title: "Registering Powershell Sessions"
+date: 2020-05-29 08:00:00 -0600
 categories: [Powershell]
 tags: [Microsoft, Powershell, Windows]
 ---

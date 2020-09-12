@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Big Bang Theory (Re-cut)"
-date:   2020-08-28 08:00:00 -0600
+title: "The Big Bang Theory (Re-cut)"
+date: 2020-08-28 08:00:00 -0600
 categories: [Reviews]
 tags: [Big Bang Theory, TV Review]
 ---
