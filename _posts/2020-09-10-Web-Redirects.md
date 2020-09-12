@@ -39,7 +39,7 @@ The boss wants it in the cloud for outside users just in case HQ goes down. *(I 
 
 Also is there isn't a nice Ubuntu package for darkhttpd, so it's back to [Apache2](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview) or nginx. Either would have been fine for my use case. The two reasons I chose nginx over apache was that I found an example for doing redirects with nginx first, and I like the configuration syntax better.
 
-I created separate configs for each redirect and this is my example:
+I created separate configs for each redirect *(cloud/cloud-test)* and this is my example:
 
 ```
 server {
@@ -49,6 +49,6 @@ server {
 }
 ```
 
-*I could have combined them all into a single config file but I like the separation. I think it's easier to conceptualize the entire process.*
+*I could have combined them all into a single config file but I like the separation. I think it's easier to conceptualize adding and removing redirects.*
 
 I'm still not sure if I should use `redirect;` or `permanent;`
