@@ -8,6 +8,8 @@ tags: [Alpine Linux, darkhttpd, nginx, Redirects, WWW]
 
 *[Alpine](https://www.alpinelinux.org) and [darkhttpd](https://unix4lyfe.org/darkhttpd/) work great, but [nginx](https://www.nginx.com/) might be a better fit.*
 
+## Redirect Basics
+
 I had to learn about redirecting webpages. The boss wanted the users to be able to type a simple word in the browser and be redirect to our new fancy cloud environment. For example, `http://cloud` would redirect users to the production environment, and `http://cloud-test/` would take them to the test environment. Simple enough. However, DNS alias might have added cert errors and I definitely wanted to avoid all that. And I had to make sure I did it right the first time. Since everything I make in QA is automatically published to production. Oy vey.
 
 My first attempt was just serving up a simple webpage with a `meta` tag redirect.
@@ -34,7 +36,7 @@ The command line args were a little long in the end, but it worked, and the webs
 
 But there is always a catch.
 
-*"Put it in the cloud."*
+## *"Put it in the cloud."*
 
 The boss wants it in the cloud for outside users just in case HQ goes down. *(I would think we'd have bigger issues if that happens.)* Well, there goes my alpine/darkhttpd setup. Goodbye my VM with 1 vcpu, 256MB of memory, and 512MB disk. Hello [Ubuntu](http://ubuntu.com) with 1 vcpu and at at least 1GB of memory and gobs of disk. I know it's not really a lot but Alpine felt so svelte compared to Ubuntu.
 
