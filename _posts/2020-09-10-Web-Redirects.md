@@ -30,7 +30,7 @@ I learned that darkhttpd doesn't have config files. It's config is set with the 
 Of course, I had to add the test environment: `--forward cloud-test https://cloud-test.mycompany.cloudprovider.com` and then I had to add the FQDN's too to make it all bulletproof for my users: `--forward cloud.mycompany.com https://cloud.mycompany.cloudprovider.com --forward cloud-test.mycompany.com https://cloud-test.mycompany.cloudprovider.com`
 
 > *You have to cover all the bases for users.*
->   --Me
+> --Me
 
 The command line args were a little long in the end, but it worked, and the webserver redirect feels faster than the webpage meta tag method. *(It must be faster as there is nothing for the browser to download and parse.)*
 
@@ -38,7 +38,7 @@ But there is always a catch.
 
 ## *"Put it in the cloud."*
 
-The boss wants it in the cloud for outside users just in case HQ goes down. *(I would think we'd have bigger issues if that happens.)* Well, there goes my alpine/darkhttpd setup. Goodbye my VM with 1 vcpu, 256MB of memory, and 512MB disk. Hello [Ubuntu](http://ubuntu.com) with 1 vcpu and at at least 1GB of memory and gobs of disk. I know it's not really a lot but Alpine felt so svelte compared to Ubuntu.
+The boss wants it in the cloud for outside users just in case HQ goes down. *(I would think we'd have bigger issues if that happens.)* Well, there goes my alpine/darkhttpd setup. Goodbye my VM with 1 vcpu, 256MB of memory, and 512MB disk. Hello [Ubuntu](http://ubuntu.com) with 1 vcpu and at at least 1GB of memory and gobs of disk. I know it's not really a lot, but Alpine feels so svelte compared to Ubuntu.
 
 Also is there isn't a nice Ubuntu package for darkhttpd, so it's back to [Apache2](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview) or nginx. Either would have been fine for my use case. The two reasons I chose nginx over apache was that I found an example for doing redirects with nginx first, and I like the configuration syntax better.
 
