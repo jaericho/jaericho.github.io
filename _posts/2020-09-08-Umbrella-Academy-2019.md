@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Umbrella Academy (2019)"
-date:   2020-08-26 08:00:00 -0600
+date:   2020-09-08 08:00:00 -0600
 categories: [Reviews]
 tags: [TV Review, Umbrella Academy, X-Men]
 ---
