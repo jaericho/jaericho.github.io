@@ -66,7 +66,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep01 **The Electric Can Opener Fluctuation** - Leonard's reunion with Penny is botched.
 * Ep02 **The Jiminy Conjecture** - “just friends.”
 * Ep05 **The Creepy Candy Coating Corollary** - Introduction of Bernadette.
-* *Ep08 The Adhesive Duck Deficiency - maybe, a hilarious episode.*
+* *Ep08 The Adhesive Duck Deficiency - maybe, it's a hilarious episode.*
 * Ep11 **The Maternal Congruence** - Penny and Leonard’s mom meet.
 * Ep19 **The Wheaton Recurrence** - Leonard and Penny break up.
 * Ep20 **The Spaghetti Catalyst** - Leonard is friendzoned.
