@@ -70,7 +70,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep11 **The Maternal Congruence** - Penny and Leonard’s mom meet.
 * Ep19 **The Wheaton Recurrence** - Leonard and Penny break up.
 * Ep20 **The Spaghetti Catalyst** - Leonard is friendzoned.
-* Ep23 **The Lunar Excitation** - Introduction of Amy Farrah Fowler.
+* Ep23 **The Lunar Excitation** - Introduction of Amy Farrah Fowler and Zach.
 
 ## [Season 4](https://www.imdb.com/title/tt0898266/episodes?season=4)
 
