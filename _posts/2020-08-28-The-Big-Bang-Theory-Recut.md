@@ -83,7 +83,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep11 **The Justice League Recombination** - Halloween party. Plus it includes Zach.
 * Ep13 **The Love Car Displacement** - Penny and Leonard discuss their relationship.
 * Ep16 **The Cohabitation Formulation** - Penny is replaced by Priya.
-* Ep17 **The Toast Derivation** - More Penny v Priya.
+* Ep17 **The Toast Derivation** - More Penny vs. Priya.
 * Ep20 **The Herb Garden Germination** - Howard Proposes to Bernadette.
 * *Ep21 The Agreement Dissection - maybe, roommate agreement fight, Leonard and Priya fight.*
 * *Ep23 The Engagement Reaction - maybe, Howard, Howard's mother, and Bernadette talk engagement.*
@@ -121,7 +121,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep16 **The Tangible Affection Proof** - Valentine's Day goes wrong. Raj meets Lucy.
 * *E18 The Contractual Obligation Implementation - maybe, Raj plans a date with Lucy.*
 * E19 **The Closet Reconfiguration** - A letter from Howard's Dad.
-* E21 **The Closure Alternative** - Raj and Lucy. Penny tried to be passionate about Leonard's interests.
+* E21 **The Closure Alternative** - Raj and Lucy. Penny tries to be passionate about Leonard's interests.
 * E22 **The Proton Resurgence** - Introduction of Professor Proton.
 * E23 **The Love Spell Potential** - Raj and Lucy's date. Howard does impersonations during a D&D game. *(The impersonations are hilarious.)*
 * E24 **The Bon Voyage Reaction** - Leonard goes to the North Pole. Raj can talk to women now.
@@ -180,7 +180,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep10 **The Earworm Reverberation** - Sheldon and Amy are back together.
 * Ep11 **The Opening Night Excitation** - Sheldon and Amy hook up.
 * Ep14 **The Meemaw Materialization** - Sheldon's Meemaw visits.
-* Ep15 *The Valentino Submergence - maybe, Bernadette's reveal is only at end of the ep.*
+* Ep15 *The Valentino Submergence - maybe, Bernadette's reveal is only at very end of the episode.*
 * Ep16 **The Positive Negative Reaction** - Bernadette reveals she's pregnant.
 * Ep17 *The Celebration Experimentation - maybe, funny and Adam West guest stars.*
 * Ep18 **The Application Deterioration** - Patent application.
@@ -227,7 +227,7 @@ I'll have to re-watch the series for a third time after I complete this list, so
 * Ep11 **The Celebration Reverberation** - Raj and Howard make up.
 * Ep12 **The Matrimonial Metric** - Amy finally picks a maid of honor.
 * *Ep15 The Novelization Correlation - maybe, Leonard's book.*
-* Ep16 **The Neonatal Nomenclature** - Howard and Bernadette have their second child.
+* Ep16 **The Neonatal Nomenclature** - Howard and Bernadette's second child is born.
 * Ep17 **The Athenaeum Allocation** - Sheldon and Amy finally get their wedding venue.
 * Ep20 **The Reclusive Potential** - Amy's bachelorette party.
 * Ep21 **The Comet Polarization** - Introduction of Denise.
