@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows 10: WWAN + Ethernet"
-date:   2020-05-27 08:00:00 -0600
+title: "Windows 10: WWAN + Ethernet"
+date: 2020-05-27 08:00:00 -0600
 categories: [Windows]
 tags: [Cellular, Ethernet, registry, Windows 10, WWAN]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Powershell, Inline Images, and Outlook"
-date:   2020-08-05 08:00:00 -0600
+title: "Powershell, Inline Images, and Outlook"
+date: 2020-08-05 08:00:00 -0600
 categories: [Powershell]
 tags: [email, Outlook, scripting]
 ---

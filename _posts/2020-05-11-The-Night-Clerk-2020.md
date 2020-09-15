@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Night Clerk (2020)"
-date:   2020-05-11 08:00:00 -0600
+title: "The Night Clerk (2020)"
+date: 2020-05-11 08:00:00 -0600
 categories: [Reviews]
 tags: [Ana de Armas, The Night Clerk, Tye Sheridan, Movie Review]
 ---
@@ -14,7 +14,7 @@ The acting is quite good. [Tye Sheridan](https://www.imdb.com/name/nm4446467/) d
 
 The Night Clerk felt more like a failed film noir movie than anything. Bart was a creepy voyeur. Andrea was taking advantage of him. But the murder mystery portion of the movie didn't have enough punch for me to get interested in it.
 
-The ending was mostly satisfying to me. The cops are seen closing in on the killer while Bart walks an indoor mall while saying hello to people. (His voyeurism was a way to practice normal conversations with people.) I always like to see the bad guy get caught, but Bart walking the mall felt like it was to much of a 'happy' ending for this movie. I guess that's why it felt like a failed film noir movie to me.
+The ending was mostly satisfying to me. The cops are seen closing in on the killer while Bart walks an indoor mall while saying hello to people. (His voyeurism was a way to practice normal conversations with people.) I always like to see the bad guy get caught, but Bart walking the mall was too much of a 'happy' ending for this movie. I guess that's why it felt like a failed film noir movie to me.
 
 IMDB has it at 5.1, I'd go with 4.5. I don't want my time back, but once was enough.
 
