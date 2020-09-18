@@ -18,7 +18,7 @@ My drive is an LG WH16NS60 with firmware 1.03. It was made in 2020-06, so the fi
 
 {% include youtube.html id="jyQV1aPlbow" %}
 
-And here is an example and final command I used:
+And here is an example and the final command I used:
 
 ```
 makemkvcon64.exe f --all-yes -d <DRIVELETTER>: rawflash enc -i \path\to\firmware.bin
