@@ -12,7 +12,9 @@ Yet another Quality of Life improvement that Microsoft refuses to make.
 
 ![File Too large error](/assets/2020/10/file-too-large.png)
 
-* Could Microsoft have a nicer error message? *Yes.*
+Did you catch that? *Too large for the **filesystem***.
+
+* Could Microsoft have a human readable error message? *Yes.*
 
 * Could Microsoft suggest using [NTFS](https://infogalactic.com/info/NTFS) or [exFAT](https://infogalactic.com/info/ExFAT) which don't have a 4GB filesize limitation? *Yes.*
 
