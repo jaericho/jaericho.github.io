@@ -11,7 +11,7 @@ vmtools has a simple upgrade in Cisco’s CUCM and IM & Presence.
 1. `utils os secure permissive`
 1. `utils vmtools refresh`
 1. (automatic reboot)
-1. `utils os secure enforced`
+1. `utils os secure enforce`
 
 However, if you forget the `utils os secure permissive` command you will receive the following error during bootup and vmtools will not be upgraded: `init: vmware-tools post-stop process terminated with status 1`
 
