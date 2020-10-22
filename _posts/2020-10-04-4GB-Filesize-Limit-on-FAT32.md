@@ -6,7 +6,7 @@ categories: [Stupid_Bugs]
 tags: [FAT32, Filesystem]
 ---
 
-Yet another Quality of Life improvement that Microsoft refuses to make.
+Yet another Quality of Life improvement that Microsoft doesn't add.
 
 [FAT32](https://infogalactic.com/info/File_Allocation_Table#FAT32) cannot support files over 4GB. If you have a 32GB flash drive, formatted with FAT32, and you try to copy a 14GB .iso to it, you will get the following error.
 
