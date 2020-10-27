@@ -20,4 +20,4 @@ Did you catch that? *Too large for the **filesystem***.
 
 * Could Microsoft do a thousand other little quaility of life improvements that make using Windows easier? *Yes.*
 
-But they don't, because they are <strike>assholes</strike> trying to make money.
+But they don't.
