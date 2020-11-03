@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Apply ESXi 5.5 Update via CLI"
+title:  "Apply ESXi Updates via CLI"
 date:   2014-12-23 08:00:00 -0600
 categories: [VMware]
 tags: [CLI, ESXi, Update]
 ---
+
+Update 2020-11-03: [This site](https://esxi-patches.v-front.de/ESXi-6.7.0.html) has a lot of great info and links.
 
 Update 2018-08-26: Just run this command from SSH and reboot if you want to upgrade to the latest version. This will also upgrade between major versions, i.e. 6.5 to 6.7.
 
