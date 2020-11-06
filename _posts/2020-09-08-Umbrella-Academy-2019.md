@@ -16,7 +16,7 @@ The woman without powers is picked on by everyone her whole life so she's very b
 
 The woman without powers finally meets a really nice guy. He's so accommodating and normal. *(I bet he's evil and just using her for her hidden powers.)*
 
-All while there is a countdown to the apocalypse. *(I bet the woman without powers is involved.)*
+All the while there is a countdown to the apocalypse. *(I bet the woman without powers is involved.)*
 
 I'm not trying to crap on the whole thing. It was entertaining, well acted, had high production value, and there were a few twists I didn't see coming. However, I did guess all the major plot points correctly. *(and if I guessed them, they were obvious.)*
 
