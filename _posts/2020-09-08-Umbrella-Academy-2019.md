@@ -16,7 +16,7 @@ Vanya is picked on by everyone her whole life, so she's very bitter. *(I bet Van
 
 Vanya finally meets a nice guy. He's so accommodating and normal. He's perfect. *(I bet he's evil and is using Vanya for her hidden powers.)*
 
-All the while there is a countdown to the apocalypse. *(I bet the Vanya is involved.)*
+All the while there is a countdown to the apocalypse. *(I bet Vanya is involved.)*
 
 I'm not trying to crap on the whole thing. It was entertaining, well acted, had high production value, and there were a few twists I didn't see coming. However, I did guess all the major plot points correctly. *(and if I guessed them, they were obvious.)*
 
