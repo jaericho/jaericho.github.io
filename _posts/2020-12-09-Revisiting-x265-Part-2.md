@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revisiting x265 Part 2"
-date: 2020-12-10 08:00:00 -0600
+date: 2020-12-09 08:00:00 -0600
 categories: [Software]
 tags: [Encoding, Handbrake, x265]
 ---
