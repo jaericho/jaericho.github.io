@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Doorman and Honest Thief (2020)"
-date:   2020-12-11 08:00:00 -0600
+date:   2020-12-10 08:00:00 -0600
 categories: [Reviews]
 tags: [Honest Thief, Liam Neeson, The Doorman, Movie Review]
 draft: true
@@ -25,9 +25,9 @@ Verdict: Skip
 
 *Wanting to lead an honest life, a notorious bank robber turns himself in, only to be double-crossed by two ruthless FBI agents.*
 
-![Honest Thief poster](/assets/2020/12/honest-thief-2020.jpg){:.poster} [Liam Neeson](https://www.imdb.com/name/nm0000553/) is back! The authorities are chasing him and...wait, I think I've seen this one. Yeah, I  have seen this movie, but I like watchin Neeson kicking ass so I'll watch it.
+![Honest Thief poster](/assets/2020/12/honest-thief-2020.jpg){:.poster} [Liam Neeson](https://www.imdb.com/name/nm0000553/) is back! The authorities are chasing him and...wait, I think I've seen this one. Yeah, I  have seen this movie, but I like watching Neeson kick ass so I'll watch it.
 
-The premise is kinda out there, but ok I'll go with it: Neeson wants to return the money he stole in back robberies in exchange for a reduced sentence because he met a woman *(that's where it lost me)*, but the FBI agents don't take him seriously when he tries to turn himself in. The FBI agents send a couple of junior agents that turn out to be bad and the standard mayhem and commotion commence.
+The premise is kinda out there, but I'll go with it: Neeson wants to return the money he stole in back robberies in exchange for a reduced sentence because he met a woman *(that's where it lost me)*, but the FBI agents don't take him seriously when he tries to turn himself in. The FBI agents send a couple of junior agents that turn out to be bad and the standard mayhem and commotion commence.
 
 Neeson does a good job, but there isn't much to work with for any one. Even the FBI villain is kind of plain. It's your standard shoot'em up, but it's not terrible. Neeson is still kicking ass. Bad guys are getting their comeuppance. It's all good in the end. IMDB gives it 6.0. That's fair.
 
