@@ -20,4 +20,6 @@ As it turns out the Azumanga Daioh DVDs are telecine'd. And the trick to know is
 
 Azumanga being a newer anime and that it's a slice-of-life show, the DVD source is still quite clean and using x265 with the animation tune, crf 21, and 64k OPUS stereo audio, I was able to squeeze the average episode to less than 100MB.
 
+![Azumanga Daioh screenshot](/assets/2020/12/AzumangaDaioh-S01E01.png)
+
 I'm still having trouble getting some DVDs to deinterlace nicely. The [Bubblegum Crisis Tokyo 2040](https://www.imdb.com/title/tt0175385/) DVDs are a set of them. Detelecine + 23.97 fps seems to get me most of the way there. Deinterlace after that and it cleans up some more, but I can still spot some tough scenes where it's not quite right. Luckily, those are few in number.
