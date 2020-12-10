@@ -6,7 +6,7 @@ categories: [Reviews]
 tags: [Honest Thief, Jean Reno, Liam Neeson, The Doorman, Movie Review]
 ---
 
-*One meh and one not so good.*
+*Watch one, skip the other.*
 
 ## [Honest Thief](https://www.imdb.com/title/tt1838556/)
 
