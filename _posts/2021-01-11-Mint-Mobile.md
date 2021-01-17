@@ -15,3 +15,5 @@ I first used a trial SIM kit from Mint to get a new number and test out their se
 Once I knew it was going to work, the switch was painless. I had one hiccup during the process: When my number was being ported the process was halted because AT&T wanted a txt confirmation to port my number. I don't mind that interruption. After that, things went very smoothly and quickly. The whole process took less than 10 minutes.
 
 We'll see how Mint's service and coverage works. I've been on AT&T for many years and I've never had a problem with their service. But I am looking to save some money. It will break my iPhone Upgrade Program, as you have to activate the new phone on one of the Big Three, but even if I hop back to AT&T before upgrading, I'll be saving hundreds of dollars this year, so this hassle might be worth it.
+
+UPDATE: Mint's app to manage their service blow's AT&T's app out of the water. It's clean, uncluttered, fast, and easy to use.
