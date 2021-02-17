@@ -14,7 +14,7 @@ I had a similar experience at my job. We had an application that was cpu intensi
 
 I captured some sql traces, and with a lot of luck, I narrowed down the culprits. The biggest offender was a stored procedure using a query that was doing a wildcard search with the wildcard in the first character in the search string. (e.g. it was doing something equivalent to  `*bar`). I found out that putting the wildcard as the first character means the database does an index scan instead of a seek, so every time this query ran the database went through the entire index which was 2GB in size. Sounds like the index wasn't acting like an index was it?
 
-It took a while for the developers to fix it with all the necessary testing and QA, but they ended up removing the wildcard entirely and just searched on the filename. At first, they didn't add an index to that column either, so the database was still doing a table scan. After the second index was added, the time to run the entire stored procedure dropped from 10 seconds to 2.5 seconds. And the offending query became instantaneous.
+It took a while for the developers to fix it with all the necessary testing and QA, but they ended up removing the wildcard entirely and just searched on the filename. At first, they didn't add an index to that column either, so the database was still doing a table scan. After the second index was added, the time to run the entire stored procedure dropped from 10 seconds to 2.5 seconds, and the offending query became instantaneous.
 
 Here were some simple timers of each stage:
 
