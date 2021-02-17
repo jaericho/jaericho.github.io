@@ -12,7 +12,7 @@ tags: [TV Review, Umbrella Academy, X-Men]
 
 Seven adopted kids. Six kids have superpowers, one kid, Vanya, does not. *(I bet Vanya is the most powerful, but her powers are hidden.)*
 
-Vanya is picked on by everyone her whole life, so she's very bitter. *(I bet Vanya is the [Dark Phoenix](https://en.wikipedia.org/wiki/The_Dark_Phoenix_Saga).)*
+Vanya is picked on by everyone her whole life, so she's very bitter. *(I bet Vanya is the [Dark Phoenix](https://infogalactic.com/info/The_Dark_Phoenix_Saga).)*
 
 Vanya finally meets a nice guy. He's so accommodating and normal. He's perfect. *(I bet he's evil and is using Vanya for her hidden powers.)*
 
