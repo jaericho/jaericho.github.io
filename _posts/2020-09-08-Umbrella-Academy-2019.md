@@ -8,7 +8,7 @@ tags: [TV Review, Umbrella Academy, X-Men]
 
 *A family of former child heroes, now grown apart, must reunite to continue to protect the world.*
 
-![Umbrella Academy Poster](/assets/2020/09/umbrella-academy-2019.jpg){:.poster}The Umbrella Academy is a graphic novel adaptation based on *let's-make-the-X-Men-a-dysfunctional-family.* Then [Netflix (pox be upon them)](https://www.imdb.com/title/tt9196192/) latched on to it and made the angsty, bitter, millennial X-Men.
+![Umbrella Academy Poster](/assets/2020/09/umbrella-academy-2019.jpg){:.poster}The Umbrella Academy is a graphic novel adaptation based on *let's-make-the-X-Men-a-dysfunctional-family.* Then [Netflix](https://www.imdb.com/title/tt9196192/) (pox be upon them) latched on and made them the angst-y, bitter, millennial X-Men.
 
 Seven adopted kids. Six kids have superpowers, one kid, Vanya, does not. *(I bet Vanya is the most powerful, but her powers are hidden.)*
 
@@ -18,9 +18,9 @@ Vanya finally meets a nice guy. He's so accommodating and normal. He's perfect. 
 
 All the while there is a countdown to the apocalypse. *(I bet Vanya is involved.)*
 
-I'm not trying to crap on the whole thing. It was entertaining, well acted, had high production value, and there were a few twists I didn't see coming. However, I did guess all the major plot points correctly. *(and if I guessed them, they were obvious.)*
+I'm not trying to crap on the whole thing. It was entertaining, well acted, had high production value, and there were a few twists I didn't see coming. However, I did guess all the major plot points correctly. *(and if *I* guessed them, then they were too obvious.)*
 
-I didn't guess the ending 100%, but I was correct that it was going to be a cop out. *But I knew there was going to be a season two so, that was a big hint.*
+I didn't guess the ending 100%, but I was correct that it was going to be a cop out. *But I knew there was going to be a season two so...that was a big hint.*
 
 Watch: Season 1, yes. Season 2, eh maybe.
 
