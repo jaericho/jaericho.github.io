@@ -19,3 +19,5 @@ We'll see how Mint's service and coverage works. I've been on AT&T for many year
 UPDATE: Mint's app to manage their service blow's AT&T's app out of the water. It's clean, uncluttered, fast, and easy to use.
 
 UPDATE 2: I've completed my first month and nothing has changed, and that's exactly what I wanted. I use far less data than I thought, and since my first month, Mint has increased their data plans. The lowest plan went from 3GB to 4GB and that will more than cover my usage. That means I'm dropping down to the lowest plan when my first block of time is up. Thus far, I'm very pleased with Mint Mobile.
+
+![Mint Mobile logo](/assets/2021/01/mint-mobile-logo.png)
