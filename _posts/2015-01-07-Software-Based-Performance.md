@@ -14,7 +14,7 @@ I had a similar experience at my job. We had an application that was cpu intensi
 
 I captured some sql traces, and with a lot of luck, I narrowed down the culprits. The biggest offender was a stored procedure using a query that was doing a wildcard search with the wildcard in the first character in the search string. (e.g. it was doing something equivalent to  `*bar`). I found out that putting the wildcard as the first character means the database does an index scan instead of a seek, so every time this query ran the database went through the entire index which was 2GB in size. Sounds like the index wasn't acting like an index was it?
 
-It took a while for the developers to fix it with all the necessary testing and QA, but they ended up removing the wildcard entirely and just searched on the filename. At first, they didn't add an index to that column either, so the database was still doing a table scan. After the second index was added, the time to run the entire stored procedure dropped from 10 seconds to 2.5 seconds, and the offending query became instantaneous.
+It took a while for the developers to fix it with all the necessary testing and QA, but they ended up removing the wildcard entirely and just searched on the filename. At first, they didn't add an index to that new column, so the query was still doing a table scan. After the second index was added, the time to run the entire stored procedure dropped from 10 seconds to 2.5 seconds, and the offending query became instantaneous. Proving that single query was taking up most of the time of that stored procedure. We didn't need to resize the server, we needed to fix our queries.
 
 Here were some simple timers of each stage:
 
@@ -24,7 +24,7 @@ Here were some simple timers of each stage:
 
 ![sql_optimization](/assets/2015/01/sql_optimization.png)
 
-For this application, this was a case of outgrowing the initial design. The application worked great in the beginning when there were only 100,000 records in the table, but with 7 million the logic needed a bit of reworking.
+For this application, this was a case of outgrowing the initial design. The application worked great in the beginning when there were only 100,000 rows in the table, but with 7 million rows the logic needed a bit of reworking.
 
 That's why I love reading stories like the one above. I can write simple programs, but I'm certainly no programmer, and I'm always impressed with the skills and talent that people use to find a way to do more, sometimes much more, with the same or even less.
 
