@@ -49,9 +49,7 @@ function Select-RoboSummary {
         {
             $rowType  = $rowTypes[$x]
             $rowCells = $rows.Matches[$x].Groups[2].Captures | foreach{ $_.ToString().Trim() }
-
             if ($cellHeaders.Length -ne $rowCells.Count) { throw "Unexpected amount of cells in a row. Expected {0} cells (the amount of headers) but found {1}" -f $cellHeaders.Length,$rowCells.Count }
-
             $row = New-Object -TypeName PSObject
             $row | Add-Member -Type NoteProperty Type($rowType)
 
@@ -59,12 +57,9 @@ function Select-RoboSummary {
             {
                 $header = $cellHeaders[$i]
                 $cell   = $rowCells[$i]
-
                 if ($separateUnits -and ($cell -match " ")) { $cell = $cell -split " " }
-
                 $row | Add-Member -Type NoteProperty -Name $header -Value $cell
             }
-
             $row
         }
     }
@@ -94,6 +89,7 @@ Get-NiceFilesize $bytecount
 The robocopy command is as follows:
 ```
 robocopy <folder> c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
+
     <folder> - the directory you want to count.
     c:\dummy - a place holder for a non-existent destination directory.
     /L - Don't copy anything. Just List what it would do.
@@ -103,10 +99,10 @@ robocopy <folder> c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
     /NDL - no directory list.
     /NJH - no job header
     /R:0 - no retries
-    /MT:64 - use 64 threads for performance. The default /MT (8 threads) would probably have been enough.
+    /MT:64 - use 64 threads for performance. The default /MT (8 threads) would probably have been enough. I don't know if this will help on hdds.
 ```
 Get the output of that command which will just be the job summary and store it as a string. Send it to the Select-RoboSummary function and pull out just the bytes total.
 
 This method is faster than `Get-ChildItem` and can handle filepaths longer than 260 characters.
 
-*(I already ran across a situation where I needed to upgrade to `[uint64]` instead of `[int64]` because of an 8TB hard drive.)*
+*(I already ran across a situation where I needed to upgrade from `[int64]` to `[uint64]` because of an 8TB hard drive.)*
