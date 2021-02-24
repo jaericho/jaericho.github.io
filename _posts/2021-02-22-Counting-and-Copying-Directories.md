@@ -80,17 +80,22 @@ function Get-NiceFilesize {
     }
 }
 
+# Use Robocopy to calculate the directory size.
+[string]$output = robocopy [dir] c:\dummy /l /bytes /xj /e /nfl /ndl /njh /r:0 /mt:64
 
-[string]$output = robocopy <folder> c:\dummy /l /bytes /xj /e /nfl /ndl /njh /r:0 /mt:64
+# Extract just the byte count from the robocopy summary.
 [uint64]$bytecount = ($output | Select-RoboSummary)[2].Total
+
+# Make the Byte count human readable.
 Get-NiceFilesize $bytecount
 {% endhighlight %}
 
-The robocopy command is as follows:
+Use the following robocopy command as a template:
+
 ```
 robocopy <folder> c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
 
-    <folder> - the directory you want to count.
+    [dir] - the directory you want to count.
     c:\dummy - a place holder for a non-existent destination directory.
     /L - Don't copy anything. Just List what it would do.
     /BYTES - change the output to bytes instead of human-readable form.
@@ -99,10 +104,11 @@ robocopy <folder> c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
     /NDL - no directory list.
     /NJH - no job header
     /R:0 - no retries
-    /MT:64 - use 64 threads for performance. The default /MT (8 threads) would probably have been enough. I don't know if this will help on hdds.
+    /MT:64 - use 64 threads for performance.
 ```
-Get the output of that command which will just be the job summary and store it as a string. Send it to the Select-RoboSummary function and pull out just the bytes total.
 
-This method is faster than `Get-ChildItem` and can handle filepaths longer than 260 characters.
+The default of /MT (8 threads) would probably have been enough. Also, I don't know if this will help on hdds.
+
+Using robocopy is faster than `Get-ChildItem` and can handle filepaths longer than 260 characters.
 
 *(I already ran across a situation where I needed to upgrade from `[int64]` to `[uint64]` because of an 8TB hard drive.)*
