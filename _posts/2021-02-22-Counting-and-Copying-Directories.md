@@ -81,7 +81,7 @@ function Get-NiceFilesize {
 }
 
 # Use Robocopy to calculate the directory size.
-[string]$output = robocopy [dir] c:\dummy /l /bytes /xj /e /nfl /ndl /njh /r:0 /mt:64
+[string]$output = robocopy dir c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
 
 # Extract just the byte count from the robocopy summary.
 [uint64]$bytecount = ($output | Select-RoboSummary)[2].Total
@@ -102,8 +102,8 @@ robocopy [dir] c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
     /XJ - don't follow ntfs junctions.
     /NFL - no file list.
     /NDL - no directory list.
-    /NJH - no job header
-    /R:0 - no retries
+    /NJH - no job header.
+    /R:0 - no retries.
     /MT:64 - use 64 threads for performance.
 ```
 
