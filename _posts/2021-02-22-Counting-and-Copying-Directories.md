@@ -93,7 +93,7 @@ Get-NiceFilesize $bytecount
 Use the following robocopy command as a template:
 
 ```
-robocopy <folder> c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
+robocopy [dir] c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
 
     [dir] - the directory you want to count.
     c:\dummy - a place holder for a non-existent destination directory.
