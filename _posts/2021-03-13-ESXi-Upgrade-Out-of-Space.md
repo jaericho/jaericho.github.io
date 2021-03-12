@@ -23,3 +23,5 @@ If you keep getting the Out of Space bug everytime you try to patch 6.7 even tho
 1. Using your preferred method (Web ui, SCP etc) upload your newly downloaded Zip file to the host you wish to patch.
 1. Run the update, but instead of referencing an online depot, reference the Zip file, and use the Profile name you previously discovered in step 4, e.g. `esxcli software profile update -p ESXi-6.7.0-20190604001-standard -d /vmfs/volumes/datastore1/ESXi670-201906002.zip`
 1. The update will run as normal, and you'll probably need to reboot the host to complete.
+
+I'm not sure if updates past the lastest can be applied online or need to be done this way.
