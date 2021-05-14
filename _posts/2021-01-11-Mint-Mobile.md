@@ -16,7 +16,7 @@ Once I knew it was going to work, the switch was painless. I had one hiccup duri
 
 We'll see how Mint's service and coverage works. I've been on AT&T for many years and I've never had a problem with their service. But I am looking to save some money. It will break my iPhone Upgrade Program, as you have to activate the new phone on one of the Big Three, but even if I hop back to AT&T before upgrading, I'll be saving hundreds of dollars this year, so this hassle might be worth it.
 
-UPDATE: Mint's app to manage their service blow's AT&T's app out of the water. It's clean, uncluttered, fast, and easy to use.
+UPDATE: Mint's app blows AT&T's app out of the water. It's clean, uncluttered, fast, and easy to use.
 
 UPDATE 2: I've completed my first month and nothing has changed, and that's exactly what I wanted. I use far less data than I thought, and since my first month, Mint has increased their data plans. The lowest plan went from 3GB to 4GB and that will more than cover my usage. That means I'm dropping down to the lowest plan when my first block of time is up. Thus far, I'm very pleased with Mint Mobile.
 
