@@ -8,7 +8,7 @@ tags: [BPDUGuard, Cisco, Spanning-tree, Switching]
 
 I had a switching loop the other day. Nasty and annoying business.
 
-It didn't bring the network down, but it was quite disruptive. Our switches had bpduguard enabled and this did prevent the switching loop, but the switches also had some errdisable recovery options enabled as well. So, after the switching loop was detected and the ports disabled to save the network (yay!), the ports were reenabled 60 seconds later, thus causing another loop and causing the ports to be disabled.
+It didn't bring the network down, but it was quite disruptive. Our switches had bpduguard enabled and this did prevent the switching loop, but the switches also had some errdisable recovery options enabled as well. So, after the switching loop was detected and the ports disabled to save the network (yay!), the ports were re-enabled 60 seconds later, thus causing another loop and causing the ports to be disabled.
 
 The loops existed just long enough to cause an issue then disappear. Like I said...quite annoying.
 
