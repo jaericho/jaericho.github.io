@@ -26,10 +26,10 @@ This is just more wannabe social justice, politically correct, feelgood bullshit
 
 *"...obviously has no ties...,"* No shit, Sherlock. Any outside visitor to your site employing the logical reasoning that an eight year old is capable of would conclude that the codename Isis for an Operating System and the acronym ISIS for Islamic terrorists are not the same.
 
-*"...recognize the ongoing turmoil…,"* There is some perpetual need that floats across leftoids making them believe in the nobility of drawing attention to their concerns for others. In reality, that perpetual need is narcissism cloaked in altruism.
+*"...recognize the ongoing turmoil…,"* There is some perpetual need that floats across leftists making them believe in the nobility of drawing attention to their concerns for others. In reality, that perpetual need is narcissism cloaked in altruism.
 
 *"...less controversial...,"* There is no controversy. There is no controversy because there are no ties to the ISIS group. I doubt very much ISIS was complaining about it, and if they were, shouldn't they been told to shove it?
 
 What happens when some terrorist group crops up with the name Elementary. Does the whole project change its name? What if there is a child molester named Freya? Will the code name be changed a second time? Should the elementary OS project try to accommodate the world to lessen controversy?
 
-In the end, it really doesn't matter. ISIS will continue to fight the Iraqi government and Isis Freya will eventually be released. I will install Freya, I will tinker with it, I will enjoy it, and I will wonder how much time and effort will be wasted because someone wanted to stare at themselves in a mirror and avoid some imaginary controversy just to think they are better people for it.
+In the end, it really doesn't matter. ISIS will continue to fight the Iraqi government and ~~Isis~~ Freya will eventually be released. I will install Freya, I will tinker with it, I will enjoy it, and I will wonder how much time and effort will be wasted because someone wanted to stare at themselves in a mirror and avoid some imaginary controversy just to think they are better people for it.
