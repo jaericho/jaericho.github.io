@@ -6,7 +6,7 @@ categories: [Hardware]
 tags: [BIOS, ESXi, Power Management, VMWare]
 ---
 
-Just selecting High Performance in the BIOS is not enough.
+Simply selecting *High Performance* in the BIOS isn't enough.
 
 {% include youtube.html id="e9GWK8Pn8ec" %}
 
