@@ -12,6 +12,8 @@ Simply selecting *High Performance* in the BIOS isn't enough.
 
 This is a [great video](https://www.youtube.com/watch?v=e9GWK8Pn8ec) about power management within ESXi and here's some things I learned:
 
+---
+
 Most people think power management is just disabling the cpu from sleeping or going idle, but doing that can prevent any turbo boost from occurring.
 
 From a pure performance standpoint:
@@ -27,9 +29,11 @@ Doing the above steps will let ESX the cpu power management, and with some cores
 
 The argument goes something like this: *For most applications (non-latency sensitive apps), using turbo boost with a little latency getting out of idle c-states is more bang for your buck than preventing the latency, with no turbo boost at all.*
 
-I'd love to benchmark this and get numbers (maybe I'll try it at home), but instead I just enabled it in the dev environment. I figure it can only help, even if it's only a little.
-
 Also:
 
 * Certain Virtual Hardware versions can enable/disable cpu instructions, so run that the latest reasonable version.
 * EVC can mask some performance too.
+
+---
+
+I'd love to benchmark this and get numbers (maybe I'll try it at home), but instead I just enabled it in the dev environment. I figure it can only help, even if it's only a little.
