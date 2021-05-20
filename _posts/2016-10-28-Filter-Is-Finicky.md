@@ -26,3 +26,13 @@ foreach ($user in $userlist) {
   $ADUser = Get-ADUser -Filter{(Surname -eq $ln) -and (GivenName -eq $fn)}
 }
 ```
+
+---
+
+Update: After learning a bit more I found that this works:
+
+```posh
+foreach ($user in $userlist) {
+  $ADUser = Get-ADUser -Filter{(Surname -eq $($user.Surname)) -and (GivenName -eq $($user.GivenName))}
+}
+```
