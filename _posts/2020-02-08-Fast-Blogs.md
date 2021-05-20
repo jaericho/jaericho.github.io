@@ -46,7 +46,7 @@ It came down to [Jekyll](https://jekyllrb.com/) and [Hugo](https://gohugo.io/).
 
 Hugo had an easier startup. I had it working on the first try. It has nice a few themes I really liked, but the YAML/TOML/JSON was a little confusing. And I couldn't figure out how to write markdown files outside of Hugo and have them work. I had to first create each new post with `hugo new post` then go back and edit the file in vscode. I didn't figure out what `hugo new post\my-new-post.md` did in the background other than create a new file.
 
-Jekyll had a rougher start the first time I tried it. I tried it first because it was the most popular, failed, then tried Hugo. But after Hugo didn't pan out (I do like it, it's *almost* there), I switched back to Jekyll and GitHub Pages. I figure this blog using GitHub Pages will be a good way to cut my teeth on Git and hell, it's a built-in backup.) I have to use a public repo to use the free GitHub Pages service, which I didn't like at first, but then I realized, it's a blog...the source code is the final product.
+Jekyll had a rougher start the first time I tried it. I tried it first because it was the most popular, failed, then tried Hugo. But after Hugo didn't pan out (I do like it, it's *almost* there), I switched back to Jekyll and GitHub Pages. I figure this blog using GitHub Pages will be a good way to cut my teeth on Git and it's a built-in backup.) I have to use a public repo to use the free GitHub Pages service, which I didn't like at first, but then I realized, it's a blog...the source code is the final product.
 
 ## Benchmarks
 
