@@ -6,8 +6,6 @@ categories: [Reviews]
 tags: [Blurays, DVDs, Eureka, Reviews, The Closer, TV]
 ---
 
-# The Closer (DVD), Eureka (Blu-ray)
-
 Whoever authored the DVD Box Set for The Closer should be punished.
 
 ## [The Closer](https://www.imdb.com/title/tt0458253/)
