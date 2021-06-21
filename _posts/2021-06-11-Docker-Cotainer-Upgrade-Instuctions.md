@@ -27,3 +27,5 @@ sudo docker-compose up -d
 ```
 
 Looks like just doing `docker-compose pull` will stop the containers, so even the `docker-compose stop` might not be necessary.
+
+Update: I found the [page](https://nginxproxymanager.com/upgrading/) that gives the same instructions.
