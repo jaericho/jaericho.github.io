@@ -19,4 +19,17 @@ Do not buy. They're a waste of money, just get them from *\*cough\**.
 
 ## [Eureka](https://www.imdb.com/title/tt0796264/)
 
-Finding the Eureka Complete Series blu-ray box set for less than $30 was quite the find. It's an excellent series that even held up well under it's soft-reboot in the later seasons. The episodes look good in HD, they're in order after ripping them with MakeMKV (unlike other shows *\*cough\** Big Bang Theory *\*cough\**), and there are a slew of commentaries and podcasts as audio tracks.
+Finding the Eureka Complete Series blu-ray box set for less than $30 was quite the find. It's an excellent series that has held up well over the years even after it's soft-reboot in the later seasons.
+
+### Pro:
+
+* Great show.
+* Inexpensive.
+* Looks good in HD.
+* Episodes are in order after ripping with MakeMKV, unlike some shows. (*\*cough\** Big Bang Theory *\*cough\**)
+* A slew of Commentary tracks.
+
+### Con:
+
+* Eps look good but are a little grainy under scrutiny.
+* Some Commentary tracks have a horrible audio buzz.
