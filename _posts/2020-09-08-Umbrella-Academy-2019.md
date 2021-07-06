@@ -18,7 +18,7 @@ Vanya finally meets a nice guy. He's so accommodating and normal. He's perfect. 
 
 All the while there is a countdown to the apocalypse. *(I bet Vanya is involved.)*
 
-I'm not trying to crap on the whole thing. It was entertaining, well acted, had high production value, and there were a few twists I didn't see coming. However, I did guess all the major plot points correctly. *(and if *I* guessed them, then they were too obvious.)*
+I'm not trying to crap on the whole thing. It was entertaining, well acted, had high production value, and there were a few twists I didn't see coming. However, I did guess all the major plot points correctly. *(and if \*I\* guessed them, they were too obvious.)*
 
 I didn't guess the ending 100%, but I was correct that it was going to be a cop out. *But I knew there was going to be a season two so...that was a big hint.*
 
