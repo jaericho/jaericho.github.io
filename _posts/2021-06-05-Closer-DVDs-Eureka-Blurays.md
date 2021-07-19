@@ -27,7 +27,7 @@ Finding the Eureka Complete Series blu-ray box set for less than $30 was quite t
 * Inexpensive.
 * Looks good in HD.
 * Episodes are in order after ripping with MakeMKV, unlike some shows. (*\*cough\** Big Bang Theory *\*cough\**)
-* A slew of Commentary tracks.
+* Many commentary tracks.
 
 ### Con:
 
