@@ -27,7 +27,7 @@ From a pure performance standpoint:
 
 Doing the above steps will let ESX the cpu power management, and with some cores going to idle other cores will be able to turbo boost.
 
-The argument goes something like this: *For most applications (non-latency sensitive apps), using turbo boost with a little latency getting out of idle c-states is more bang for your buck than preventing the latency, with no turbo boost at all.*
+The argument goes something like this: *For most applications (non-latency sensitive apps), using turbo boost with a little added latency getting out of idle c-states is more bang for your buck than preventing the latency, with no turbo boost at all.*
 
 Also:
 
