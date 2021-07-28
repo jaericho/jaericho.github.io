@@ -10,7 +10,7 @@ You enabled the datastore swap but still getting an out of space error.
 
 The [VMware ESXi Patch Tracker](https://esxi-patches.v-front.de/ESXi-6.7.0.html) is an amazing website. It makes patching non-vcenter connected esxi hosts very simple...except when it comes to vmware bugs.
 
-If you keep getting the Out of Space bug everytime you try to patch 6.7 even though you set the datastore swap and checked your inodes, then you'll probably need to apply the patch manually.
+If you keep getting the Out of Space bug every time you try to patch 6.7 even though you set the datastore swap and checked your inodes, then you'll probably need to apply the patch manually.
 
 ![Datastore Swap dialog](/assets/2021/03/datastore-swap.png "I've already done this!")
 
