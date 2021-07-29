@@ -22,7 +22,7 @@ Here are some quick and dirty benchmarks of my own workflows for the Apple M1.
 
 || **Apple M1** | **i7-4790K** | **(2x) E5-2680 v2**
 | x265 (480p) | 28.54 fps (+7.5%) | **30.84 fps** | 15.67 fps (+49%)
-| x265 (1080p) | **4.69 fps** | 4.59 fps (+2.2%) | TBD
+| x265 (1080p) | 4.69 fps (+37.2%) | 4.59 fps (+38.5%) | **7.47 fps**
 
 (x265, 8-bit, slow, crf18, limit-sao:bframes=8:psy-rd=1:aq-mode=3)
 
