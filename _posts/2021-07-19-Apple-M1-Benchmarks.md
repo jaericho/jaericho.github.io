@@ -28,4 +28,4 @@ Here are some quick and dirty benchmarks of my own workflows for the Apple M1.
 
 What is so amazing is that I'm using the MacBook Air which is passively cooled and it will thermally throttle itself after a minute or two. I'm really curious as to the performance of an actively cooled M1 in the Mac Mini.
 
-![Apple M1 logo](/assets/2021/07/apple-m1-logo.jpg)
+[![Apple M1 logo](/assets/2021/07/apple-m1-logo.jpg)](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/)
