@@ -15,7 +15,7 @@ After only a day, I'm really enjoying the integration with my iPhone. iMessage a
 So let's list out my observations and gripes:
 
 * No 'delete' key, only Backspace labeled as Delete. (Altho' I just learned it is Fn-Delete.)
-* Different keyboard shortcuts. (I know this is all muscle memory that i'll have to overcome.)
+* Different keyboard shortcuts. (I know this is all muscle memory that I'll have to overcome.)
 * All these options keys! control, option, alt, curly-thing, and command. Plus there is a function key that also seems to be involved with the arrow keys as KB shortcuts. It seems a bit much.
 * Some KB shortcuts are the same, that's nice. i.e. CTRL+z and Command+z are undo.
 * Safari has no inspect feature. I didn't realize it'd be looking for that on day one.
