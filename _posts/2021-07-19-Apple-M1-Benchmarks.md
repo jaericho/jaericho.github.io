@@ -10,11 +10,11 @@ After jumping in to [test a Mac]({% post_url 2021-05-14-First-Mac-in-a-long-time
 
 I like the keyboard and I'm glad I skipped the butterfly keyboard fiasco, but I'm still trying to overcome muscle memory with ctrl+backspace to delete a whole word. And I miss an actual "delete", and not a renamed backspace to delete. But I do realize that this is a laptop keyboard too.
 
-Sleep/Waking is butter smooth and very reliable. After getting used to an iPad's instant and reliable sleep/waking I really notice the failures on my works Dell laptop when it doesn't work 100% of the time. Or my home-built machine whose sleeping started to cause BSOD's recently.
+Sleep/Waking is butter smooth and very reliable. After getting used to an iPad's instant and reliable sleep/waking, I really notice the failures on my employer issued laptop when it doesn't work 100% of the time. Or my home-built machine whose sleeping recently started to cause BSOD's.
 
 The whole package is quite slick, and the longer I'm in this sysadmin game, the more I appreciate not having to mess around with my home equipment.
 
-I bought a [second-generation iBook G3](https://en.wikipedia.org/wiki/IBook#iBook_G3_Dual_USB_(%22Snow%22)) almost 20 years ago and I ended up quickly selling it because I had no use for it. Since my home-built gaming rig can't run Windows 11 (no TPM 2.0) and my gaming time has dropped significantly in the past year. I will try and keep this as my daily driver.
+I bought a [second-generation iBook G3](https://en.wikipedia.org/wiki/IBook#iBook_G3_Dual_USB_(%22Snow%22)) almost 20 years ago and I ended up quickly selling it because I had no use for it. Now, my home-built gaming rig can't run Windows 11 (no TPM 2.0) and my gaming time has dropped significantly in the past year, so I will try and keep this as my daily driver.
 
 Here are some quick and dirty benchmarks of my own workflows for the Apple M1.
 
