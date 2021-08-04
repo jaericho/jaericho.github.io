@@ -34,17 +34,19 @@ I didn't have a megabase to test [Factorio](https://www.factorio.com), but the b
 
 ### Handbrake 1.4.0
 
-What is so amazing is that I'm using the MacBook Air which is passively cooled and it will thermally throttle itself after a minute or two. I'm really curious as to the [Handbrake](https://handbrake.fr) performance of an actively cooled M1 in the Mac Mini and excited to see what the next gen chip will be like.
+What is so amazing is that this MacBook Air is passively cooled and is probably thermally throttling itself on these encodes. I'm really curious as to the [Handbrake](https://handbrake.fr) performance of an actively cooled M1 in the Mac Mini and more excited to see what the M2 will be like.
 
 || **Apple M1** | **i7-4790K** | **(2x) E5-2680 v2**
-| x264[^1] (480p) | TDB | TDB | TDB
-| x265 (1080p) | TDB | TDB | TDB
-| x265[^2] (480p) | 28.54 fps (+7.5%) | **30.84 fps** | 23.26 fps (+24.5%)
-| x265 (1080p) | 4.69 fps (+37.2%) | 4.59 fps (+38.5%) | **7.47 fps**
+| x264[^1] (480p) | **72 fps** | 51.9 fps (+28%) | 62.9 fps (+13%)
+| x264 (1080p) | 9.75 fps (+50%) | 7.7 fps (+61%) | **19.64 fps**
+| x265[^2] (480p) | 28.54 fps (+7.5%) | **30.84 fps** | 23.26 fps (+25%)
+| x265 (1080p) | 4.69 fps (+37%) | 4.59 fps (+39%) | **7.47 fps**
 
 (The percentages are the increase in encoding time.)
 
+Unfortunately, I'm not encoding x264 SD video anymore, but I'd move to this full time if I was.
+
 [![Apple M1 logo](/assets/2021/07/apple-m1-logo.jpg)](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/)
 
-[^1]: Preset: Super HQ 480p30 Surround No audio or subtitles.
+[^1]: Preset: Super HQ 480p30/1080p30 No audio or subtitles.
 [^2]: Custom preset: x265, 8-bit, slow, crf18, limit-sao:bframes=8:psy-rd=1:aq-mode=3. No audio or subtitles.
