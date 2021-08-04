@@ -6,9 +6,9 @@ categories: [Hardware]
 tags: [Apple, Benchmark, Handbrake, Intel, M1, MacBook Air]
 ---
 
-After jumping in to [test a Mac]({% post_url 2021-05-14-First-Mac-in-a-long-time %}) for my parents, I finally gave in an bought a new MacBook Air with the [M1 processor](https://infogalactic.com/info/Apple_M1).
+After jumping in to [test a Mac]({% post_url 2021-05-14-First-Mac-in-a-long-time %}) for my parents, I finally gave in an bought a new MacBook Air with the new [M1 processor](https://infogalactic.com/info/Apple_M1).
 
-I like the keyboard. I'm glad I skipped the butterfly keyboard fiasco, but I'm still trying to overcome muscle memory with ctrl+backspace to delete a whole word. And I miss an actual "delete", and not a renamed backspace to delete. But I do realize that this is a laptop keyboard too.
+I like the keyboard and I'm glad I skipped the butterfly keyboard fiasco, but I'm still trying to overcome muscle memory with ctrl+backspace to delete a whole word. And I miss an actual "delete", and not a renamed backspace to delete. But I do realize that this is a laptop keyboard too.
 
 Sleep/Waking is butter smooth and very reliable. After getting used to an iPad's instant and reliable sleep/waking I really notice the failures on my works Dell laptop when it doesn't work 100% of the time. Or my home-built machine whose sleeping started to cause BSOD's recently.
 
