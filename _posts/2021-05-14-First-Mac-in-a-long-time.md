@@ -16,7 +16,7 @@ So let's list out my observations and gripes:
 
 * No 'delete' key, only Backspace labeled as Delete. (Altho' I just learned it is Fn-Delete.)
 * Different keyboard shortcuts. (I know this is all muscle memory that I'll have to overcome.)
-* All these options keys! control, option, alt, curly-thing, and command. Plus there is a function key that also seems to be involved with the arrow keys as KB shortcuts. It seems a bit much.
-* Some KB shortcuts are the same, that's nice. i.e. CTRL+z and Command+z are undo.
-* Safari has no inspect feature. I didn't realize it'd be looking for that on day one.
+* All these options keys! Control, Option, Alt, Curly-thing, Command, and a Function key. It's too much much. I'd rather see something along the lines of CTRL+x for shortcuts inside programs, and a Meta+x for OS shortcuts.
+* Some KB shortcuts are the same: i.e. CTRL+z and Curly+z are both undo. CTRL+s and Curly+s are save. That's very nice.
+* ~~Safari has no inspect feature.~~ I found it.
 * I immediately started looking for Homebrew to install things from outside the App Store. I would have thought things like VSCode and Github would be there. In fact, I'm surprised at how much stuff isn't in the AppStore.
