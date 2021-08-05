@@ -12,7 +12,7 @@ The last time I used a Mac was back in the early OSX days with a white iBook. No
 
 After only a day, I'm really enjoying the integration with my iPhone. iMessage and Wi-Fi password sharing, and iCloud are all nice. I'm staying in the iPhone eco system and I'm thinking of getting a Mac to help support my parents with their stuff, but let's see how well this works out...
 
-So let's list out my observations and gripes:
+So let's list my observations and gripes:
 
 * No 'delete' key, only Backspace labeled as Delete. (Altho' I just learned it is Fn-Delete.)
 * Different keyboard shortcuts. (I know this is all muscle memory that I'll have to overcome.)
