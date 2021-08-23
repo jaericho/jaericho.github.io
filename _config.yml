@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 show_excerpts: true
+minima:
+  skin: dark
