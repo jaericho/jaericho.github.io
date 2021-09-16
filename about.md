@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*The title doesn't mean anything.*
+The title doesn't mean anything. This is just a blog, mostly filled with bad movie reviews and ranting about stupid bugs I encounter.
 
 I have wanted to try a static website generator for a while. My Wordpress blog became so bloated that it was downloading 6MB of data to load a single, pictureless, "About" page.
 
