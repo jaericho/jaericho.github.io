@@ -11,7 +11,7 @@ draft: true
 
 ---
 
-I have an old server that is getting replaced this year, but the management console still uses flash. For this case, I decided to keep a VM with old flash lying around just in case.
+I have an old server that is getting replaced this year, but the management console still uses flash. For this case, I decided to keep a VM with an old version of flash lying around just in case.
 
 1. Download flash from Internet Archive.
 	I read that V32.0.0.363 is the last version without the kill switch, so that may work.
@@ -25,6 +25,8 @@ This page might also be of use: https://gist.github.com/KuromeSan/56d8b724c0696b
 ---
 
 # Deleting Windows.old
+
+How to delete `Windows.old` without running Disk Cleanup.
 
 [From](https://www.ghacks.net/2017/07/12/remove-the-windows-old-folder-manually/):
 
@@ -46,11 +48,11 @@ However, I wonder if PowerCLI would have done it too: https://www.reddit.com/r/v
 
 # Detecting if VPN is being used.
 
+*How to to detect if a VPN adapter is being used.*
+
 https://www.harrycaskey.com/detect-vpn-connection-with-powershell/
 
-How to to detect if a VPN adapter is being used.
-
-This also returns true if AnyConnect is connected:
+Inspired by that site, I made this one-liner returns true if AnyConnect is connected:
 
 ```posh
 ![string]::IsNullOrEmpty((Get-WmiObject -Query "Select Name,NetEnabled from Win32_NetworkAdapter where Name like '%AnyConnect%' and NetEnabled='True'"))
