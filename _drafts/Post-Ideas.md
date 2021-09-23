@@ -44,3 +44,13 @@ Inspired by that site, I made this one-liner returns true if AnyConnect is conne
 ```posh
 ![string]::IsNullOrEmpty((Get-WmiObject -Query "Select Name,NetEnabled from Win32_NetworkAdapter where Name like '%AnyConnect%' and NetEnabled='True'"))
 ```
+
+---
+
+# Converting PCKS8 to PCKS1
+
+I have some aruba instant APs that don't like certs using PCKS8. This stackoverflow post pointed me in the right direction.
+
+<https://stackoverflow.com/questions/2957742/how-to-convert-pkcs8-formatted-pem-private-key-to-the-traditional-format>
+
+This was the final command: `openssl rsa -in private-pcks8.pem -out private-pkcs1.pem`
