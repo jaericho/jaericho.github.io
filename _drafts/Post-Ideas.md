@@ -27,23 +27,9 @@ rmdir /s /q c:\Windows.old
 
 # Expanding vmware drive error
 
-After recieving and error of "invalid operation for device '0'" I was able to increase the drive size by going back to the old flash based FlexUI of vcenter.
+After receiving and error of "invalid operation for device '0'" I was able to increase the drive size by going back to the old flash based FlexUI of vcenter.
 
 However, I wonder if PowerCLI would have done it too: https://www.reddit.com/r/vmware/comments/b8q9s4/workaround_for_invalid_operation_for_device_0/
-
----
-
-# Detecting if VPN is being used.
-
-*How to to detect if a VPN adapter is being used.*
-
-https://www.harrycaskey.com/detect-vpn-connection-with-powershell/
-
-Inspired by that site, I made this one-liner returns true if AnyConnect is connected:
-
-```posh
-![string]::IsNullOrEmpty((Get-WmiObject -Query "Select Name,NetEnabled from Win32_NetworkAdapter where Name like '%AnyConnect%' and NetEnabled='True'"))
-```
 
 ---
 
