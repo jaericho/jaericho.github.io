@@ -11,20 +11,6 @@ draft: true
 
 ---
 
-# Deleting Windows.old
-
-How to delete `Windows.old` without running Disk Cleanup.
-
-[From](https://www.ghacks.net/2017/07/12/remove-the-windows-old-folder-manually/):
-
-```cmd
-takeown /f c:\Windows.old\* /r /a /d y
-cacls c:\Windows.old\*.* /t /grant administrators:f
-rmdir /s /q c:\Windows.old
-```
-
----
-
 # Expanding vmware drive error
 
 After receiving and error of "invalid operation for device '0'" I was able to increase the drive size by going back to the old flash based FlexUI of vcenter.
