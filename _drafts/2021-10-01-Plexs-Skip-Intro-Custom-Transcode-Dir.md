@@ -4,7 +4,6 @@ title:  "Plex's Skip Intro and a Custom Transcode Directory"
 date:   2021-10-01 08:00:00 -0600
 categories: [Stupid Bugs]
 tags: [Plex, Skip Intro, Transcoding, Windows]
-draft: true
 ---
 
 *Make sure your custom transcoding directory includes the backslash.*
