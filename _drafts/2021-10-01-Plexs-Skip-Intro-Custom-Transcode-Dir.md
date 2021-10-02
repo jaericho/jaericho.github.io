@@ -16,4 +16,4 @@ The fix was to add a the backslash: `T:\`. After that fix, analyzing a season wo
 
 ![Plex Transcoder temporary directory setting](assets/2021/10/plex-transcoder-temp-dir.png)
 
-Perhaps, not using the root of a drive might have been a good idea, I've ran into [that issue](2017-04-07-WSUS-Doesnt-Download-Updates.md) before.
+Perhaps adding a subdirectory and not using the root of a drive might have been a good idea. I've ran into [that issue](2017-04-07-WSUS-Doesnt-Download-Updates.md) before.
