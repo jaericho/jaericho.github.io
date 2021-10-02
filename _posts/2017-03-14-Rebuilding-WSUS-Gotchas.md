@@ -15,7 +15,7 @@ And the updates breaks SUS and the SUS Console giving me a constant “Reset Ser
 I found [this post](https://social.technet.microsoft.com/Forums/systemcenter/en-US/a3ef8e7b-1323-486e-bbdb-a1ce9f705f72/wsus-constant-reset-server-node-errors?forum=winserverwsus) with details to fix it. `KB3159706` needs some post install steps done to unbreak SUS. (Why can’t these post install steps can’t be done automatically or with a warning?)
 
 Summary of the fix:
-1. Open an elevated Command Prompt window and run: `“C:\Program Files\Update Services\Tools\wsusutil.exe” postinstall /servicing`
+1. Open an elevated Command Prompt window and run: `"C:\Program Files\Update Services\Tools\wsusutil.exe" postinstall /servicing`
 2. Install `HTTP Activation` under `.NET Framework 4.5 Features`
 3. Restart the WSUS service.
 4. Also, don’t forget to add the port (8530) to the Group Policy:
