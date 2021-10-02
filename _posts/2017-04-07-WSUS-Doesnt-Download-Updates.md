@@ -19,6 +19,7 @@ After a reboot (and waiting, as WSUS isn’t very speedy), the updates started d
 For future installs: **don’t specify the just the root of a drive, specify a subdirectory** like `D:\WSUS`.
 
 PS: here’s what the log file says:
+
 ```
 2017-04-07T21:04:23 Successfully stopped WsusService.
 2017-04-07T21:04:23 Beginning content file location change to D:\WsusContent
