@@ -22,4 +22,4 @@ The fix was to add a the backslash: `T:\`.
 ![Plex Transcoder temporary directory setting](/assets/2021/10/plex-transcoder-temp-dir.png)
 
 After that fix, analyzing a season would cause the skip intro feature to scan the files successfully.
-Perhaps adding a subdirectory and not using the root of a drive might have been a good idea. I've ran into [that issue]({% post_url 2017-03-14-Rebuilding-WSUS-Gotchas %}) before.
+Perhaps adding a subdirectory and not using the root of a drive might have been a good idea. I've ran into [that issue]({% post_url 2017-04-07-WSUS-Doesnt-Download-Updates %}) before.
