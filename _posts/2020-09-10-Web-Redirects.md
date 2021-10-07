@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Alpine Linux, darkhttpd, nginx, Redirects, WWW]
 ---
 
-*[Alpine](https://www.alpinelinux.org) and [darkhttpd](https://unix4lyfe.org/darkhttpd/) work great, but [nginx](https://www.nginx.com/) might be a better fit.*
+[Alpine](https://www.alpinelinux.org) and [darkhttpd](https://unix4lyfe.org/darkhttpd/) work great, but [nginx](https://www.nginx.com/) might be a better fit.
 
 ## Redirect Basics
 

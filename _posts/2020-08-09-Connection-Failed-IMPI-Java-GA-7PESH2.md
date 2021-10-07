@@ -6,7 +6,7 @@ categories: [Software]
 tags: [GA-7PESH2, Gigabyte, IPMI, Java]
 ---
 
-*Default Java security is too high for the Gigabyte GA-7PESH2 IPMI.*
+Default Java security is too high for the Gigabyte GA-7PESH2 IPMI.
 
 From this helpful [reddit post](https://www.reddit.com/r/JDM_WAAAT/comments/9dlx2b/ga7pesh2_ipmikvm_wont_connect/):
 
