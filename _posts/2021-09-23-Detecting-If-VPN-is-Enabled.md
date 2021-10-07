@@ -6,7 +6,7 @@ categories: [Powershell]
 tags: [Cisco AnyConnect, Powershell, VPN]
 ---
 
-*How to to detect if a VPN adapter is being used.*
+How to to detect if a VPN adapter is being used.
 
 Inspired by [this blog post](https://www.harrycaskey.com/detect-vpn-connection-with-powershell/), I made this Powershell one-liner that returns true if AnyConnect is connected:
 

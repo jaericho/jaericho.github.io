@@ -6,7 +6,7 @@ categories: [Software]
 tags: [cleanmgr, Disk Cleanup, Microsoft, Windows]
 ---
 
-*Can't/Don't want to install cleanmgr?*
+Can't/Don't want to install cleanmgr?
 
 How to delete `Windows.old` without running Disk Cleanup.
 
