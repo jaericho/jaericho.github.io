@@ -16,7 +16,7 @@ But after creating the T: drive (for temp, see what I did there?) and setting th
 ERROR - [Transcoder] T:Transcode\Detection\<guid>: No such file or directory
 ```
 
-The fix was to add a the backslash: `T:\`.
+The fix was to add a the backslash: `T:\`
 
 
 ![Plex Transcoder temporary directory setting](/assets/2021/10/plex-transcoder-temp-dir.png)
