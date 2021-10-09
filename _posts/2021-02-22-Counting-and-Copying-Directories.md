@@ -109,6 +109,6 @@ robocopy [dir] c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
 
 The default of /MT (8 threads) would probably have been enough. Also, I don't know if this will help on hdds.
 
-Using robocopy is faster than `Get-ChildItem` and can handle filepaths longer than 260 characters.
+This method seems to be faster than `Get-ChildItem` in my informal benchmarks and can handle filepaths longer than 260 characters.
 
 *(I already ran across a situation where I needed to upgrade from `[int64]` to `[uint64]` because of an 8TB hard drive.)*
