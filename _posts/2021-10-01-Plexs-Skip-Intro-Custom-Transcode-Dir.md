@@ -8,9 +8,9 @@ tags: [Plex, Skip Intro, Transcoding, Windows]
 
 Make sure your custom transcoding directory includes the backslash.
 
-I run [Plex](https://plex.tv) in a Windows VM because Windows is easier for me to troubleshoot, and I'm too lazy to switch it to linux. Also, I created a [ramdrive](https://www.tenforums.com/tutorials/174094-how-create-ram-disk-imdisk-windows-10-a.html) so I could offload the transcoding directory off of the NAS. It may not help much, but it will keep a little bit of I/O off the NAS since it's now SSDs instead of HDDs.
+I run [Plex](https://plex.tv) in a Windows VM because Windows is easier for me to troubleshoot, and I'm too lazy to switch it to Linux or Docker. Also, I created a [ramdrive](https://www.tenforums.com/tutorials/174094-how-create-ram-disk-imdisk-windows-10-a.html) so I could offload the transcoding directory off of the NAS. It may not help much, but it will keep a little bit of I/O off the NAS since it's now SSDs instead of HDDs.
 
-But after creating the T: drive *(for "temp", see what I did there?)* and setting the Plex Transcoder temporary directory to `T:` it seemed like everything was working. However, I found that something had broke the skip intro feature on Plex and I found these entries in the logs:
+But after creating the T: drive *(T for "temp", see what I did there?)* and setting the Plex Transcoder temporary directory to `T:` it seemed like everything was working. Weeks later, I found that something had broke the skip intro feature on Plex and I finally put the two together when I found these log entries:
 
 ```
 ERROR - [Transcoder] T:Transcode\Detection\<guid>: No such file or directory
