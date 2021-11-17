@@ -11,8 +11,10 @@ How to to detect if a VPN adapter is being used.
 Inspired by [this blog post](https://www.harrycaskey.com/detect-vpn-connection-with-powershell/), I made this Powershell one-liner that returns true if AnyConnect is connected:
 
 ```posh
-![string]::IsNullOrEmpty((Get-WmiObject -Query "Select Name,NetEnabled from Win32_NetworkAdapter where Name like '%AnyConnect%' and NetEnabled='True'"))
+[bool](Get-WmiObject -Query "Select NetEnabled from Win32_NetworkAdapter where Name like '%AnyConnect%' and NetEnabled='True'")
 ```
+
+Well, that was embarrassing. There was a bug in my code. (Embarrassing, but not unexpected.) I should test more thoroughly before posting.
 
 Original code:
 
