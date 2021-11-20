@@ -14,7 +14,7 @@ Part sandbox, part simulation, part MMO. Elite, is an open ended game with lots 
 
 I broke out my ol' [Microsoft Sidewinder Precision 2](https://infogalactic.com/info/Microsoft_SideWinder#Precision_2) and quickly found out that it doesn't like the front USB ports on my new rig. Luckily, the rear usb ports worked and Windows 8.1 x64 had no issues with my favorite, decade old joystick.
 
-I pre-ordered the game and received a ship upgrade immediately. after a few trade runs and finally dumped the new ship for some cash and bought a hauler. Trading still seems like the best way for me to make money until I figure out how to blow npc's up willy-nilly.
+I pre-ordered the game and received a ship upgrade immediately. after a few trade runs and finally dumped the new ship for some cash and bought a hauler. Trading still seems like the best way for me to make money until I figure out how to blow NPC's up willy-nilly.
 
 The graphics are pretty good. I'm hoping that getting into some nebula will be possible. Those must look gorgeous. Still, some of the best scenes are coming out of hyperspace. The stars are the destinations in hyperspace, so you always pop into a system near the star. Dropping from a couple thousand times the speed of light down to nothing right in front of a huge burning ball of gas is still impressive. The sound effect really helps convey the power that goes along with it. I like it a lot.
 
