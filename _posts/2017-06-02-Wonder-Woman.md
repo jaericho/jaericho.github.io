@@ -20,5 +20,5 @@ My thoughts on the Wonder Woman movie.
 
 ## Terrible
 * Penis jokes.
-* The crown was crooked in first battle.
+* Her crown was crooked in first battle.
 * Soft KB doesn't disappear when she's typing on physical kb.
