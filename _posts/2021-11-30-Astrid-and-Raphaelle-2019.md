@@ -10,7 +10,7 @@ tags: [Astrid, Autism, France, Police, TV Review]
 
 ![Astrid et Raphaëlle](/assets/2021/11/astrid-et-raphaelle-2019.jpg){:.poster}A French show about a Paris detective teaming up with an autistic archivist. Good production value. Great acting. Mediocre mysteries.
 
-First and foremost, [Sara Mortensen](https://www.imdb.com/name/nm2826995/) absolutely steals the show with her performance of [Astrid](https://www.imdb.com/title/tt11950864/). She's [Sheldon](https://www.imdb.com/title/tt0898266/) without the obnoxious assholery. I don't know if Astrid portrayal is accurate, but it seems like it could be.
+First and foremost, [Sara Mortensen](https://www.imdb.com/name/nm2826995/) absolutely steals the show with her performance of [Astrid](https://www.imdb.com/title/tt11950864/). She's [Sheldon](https://www.imdb.com/title/tt0898266/) without the obnoxious assholery. Many review sites describe her condition as Asperger's, but it seems too severe to be Asperger's. *(But what do I know.)* I don't know if Astrid portrayal of her autism is accurate, but it seems like it could be. And she does a great acting job of it anyways.
 
 The best moments of the show are the touching moments between Astrid and her cop friend [Raphaelle](https://www.imdb.com/name/nm1463127/). Raphaelle is trying to learn how to interact with Astrid, while Astrid is trying her best to grow out of her disability. There are some tearjerker scenes. And every episode shows a bit of growth for each of them.
 
