@@ -2,7 +2,7 @@
 layout: post
 title:  "If Apple Asks for a Reboot..."
 date:   2017-04-01 10:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Apple, Pi-Hole]
 ---
 

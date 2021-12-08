@@ -2,7 +2,7 @@
 layout: post
 title: "Yet Another Dumb Progress Bar"
 date: 2020-12-21 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Ivanti, Progress Bars]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "VCSA Certificate Expiration"
 date: 2020-08-07 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Certificates, vCenter, VCSA, VMware]
 ---
 

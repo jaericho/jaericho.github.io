@@ -2,7 +2,7 @@
 layout: post
 title:  "LANDesk Inventory Scans"
 date:   2015-04-28 20:33:36 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Inventory Scan, Landesk]
 ---
 

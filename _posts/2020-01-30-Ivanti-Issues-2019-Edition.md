@@ -2,7 +2,7 @@
 layout: post
 title:  "Ivanti Issues: 2019 Edition"
 date:   2020-01-30 20:33:36 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Ivanti, Landesk]
 ---
 

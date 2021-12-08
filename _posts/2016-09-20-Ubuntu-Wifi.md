@@ -2,7 +2,7 @@
 layout: post
 title:  "Ubuntu Wifi"
 date:   2016-09-20 10:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [linux, Ubuntu, wifi]
 ---
 

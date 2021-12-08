@@ -2,8 +2,8 @@
 layout: post
 title: "Outlook and High Disk Utilization"
 date: 2021-03-29 08:00:00 -0600
-categories: [Stupid_Bugs]
-tags: [Microsoft, Outlook, Teams]
+categories: [Stupid Bugs]
+tags: [Microsoft, Outlook, Stupid Bugs, Teams]
 ---
 
 You'd think that after 2020, Microsoft Teams would get better TLC.

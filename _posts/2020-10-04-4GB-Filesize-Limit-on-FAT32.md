@@ -2,7 +2,7 @@
 layout: post
 title: "4GB Filesize Limit on FAT32"
 date: 2020-10-03 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [FAT32, Filesystem]
 ---
 

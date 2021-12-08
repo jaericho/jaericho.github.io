@@ -2,7 +2,7 @@
 layout: post
 title:  "OpenNMS and Java"
 date:   2020-04-09 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [CentOS 8, Java, Linux, OpenNMS]
 ---
 

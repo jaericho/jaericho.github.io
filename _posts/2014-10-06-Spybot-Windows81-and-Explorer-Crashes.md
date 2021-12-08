@@ -2,7 +2,7 @@
 layout: post
 title:  "Spybot, Windows8.1 and Explorer Crashes"
 date:   2014-10-07 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Explorer, Spybot, Windows]
 ---
 

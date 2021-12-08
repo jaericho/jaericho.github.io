@@ -2,7 +2,7 @@
 layout: post
 title:  "Cisco Jabber Lag"
 date:   2015-05-15 20:33:36 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Cisco, Jabber]
 ---
 

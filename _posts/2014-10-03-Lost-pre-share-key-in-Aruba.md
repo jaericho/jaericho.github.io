@@ -2,7 +2,7 @@
 layout: post
 title:  "Lost Pre-Share Key in Aruba"
 date:   2014-10-03 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Aruba, InstantOS, PSK, Recovery, Wifi]
 ---
 

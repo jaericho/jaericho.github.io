@@ -2,8 +2,8 @@
 layout: post
 title: "ESXi Upgrade Out of Space Error"
 date: 2021-03-12 08:00:00 -0600
-categories: [Stupid_Bugs]
-tags: [ESXi, vmware]
+categories: [Stupid Bugs]
+tags: [ESXi, Stupid Bugs, vmware]
 ---
 
 You enabled the datastore swap but still getting an out of space error.

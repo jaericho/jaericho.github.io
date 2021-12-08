@@ -2,7 +2,7 @@
 layout: post
 title: "RemoveItem's -Recurse Bug"
 date: 2021-03-25 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Microsoft, RemoveItem, Powershell]
 ---
 

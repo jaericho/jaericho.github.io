@@ -2,7 +2,7 @@
 layout: post
 title:  "Netapp Uploads"
 date:   2015-07-09 08:00:00 -0600
-categories: [Stupid_Bugs]
+categories: [Stupid Bugs]
 tags: [Aspera, Netapp, Troubleshooting]
 ---
 
