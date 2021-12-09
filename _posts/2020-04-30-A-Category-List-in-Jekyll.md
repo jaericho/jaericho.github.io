@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Category List in Jekyll"
-date:   2020-04-30 08:00:00 -0600
+title: "A Category List in Jekyll"
+date: 2020-04-30 08:00:00 -0600
 categories: [Meta]
 tags: [Blog, Jekyll]
 ---

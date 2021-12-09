@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "16 Points of the Nationalist Right"
-date:   2016-11-29 10:00:00 -0600
+title: "16 Points of the Nationalist Right"
+date: 2016-11-29 10:00:00 -0600
 categories: [Politics]
 tags: []
 ---

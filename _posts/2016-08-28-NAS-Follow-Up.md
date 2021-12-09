@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "NAS (Follow Up)"
-date:   2016-08-28 10:00:00 -0600
+title: "NAS (Follow Up)"
+date: 2016-08-28 10:00:00 -0600
 categories: [Hardware]
 tags: [Build, FreeNAS, NAS, Storage]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Microsoft Surface Keyboard"
-date:   2016-11-29 10:00:00 -0600
+title: "Microsoft Surface Keyboard"
+date: 2016-11-29 10:00:00 -0600
 categories: [Reviews]
 tags: [Keyboard, Microsoft Surface]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Clear Explanation of UAC"
-date:   2020-04-28 08:00:00 -0600
+title: "A Clear Explanation of UAC"
+date: 2020-04-28 08:00:00 -0600
 categories: [Windows]
 tags: [Administrator, Security, UAC, Windows]
 ---

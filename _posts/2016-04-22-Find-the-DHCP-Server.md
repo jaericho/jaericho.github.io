@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Find the DHCP Server"
-date:   2016-06-05 10:00:00 -0600
+title: "Find the DHCP Server"
+date: 2016-06-05 10:00:00 -0600
 categories: [Powershell]
 tags: [DHCP, Windows]
 ---

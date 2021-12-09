@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Realtek and ESXi"
-date:   2014-07-15 08:00:00 -0600
+title: "Realtek and ESXi"
+date: 2014-07-15 08:00:00 -0600
 categories: [VMware]
 tags: [NIC, Realtek, vSphere]
 ---

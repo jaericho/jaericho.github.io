@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Reclaiming Space on VMs"
-date:   2018-01-06 20:33:36 -0600
+title: "Reclaiming Space on VMs"
+date: 2018-01-06 20:33:36 -0600
 categories: [VMware]
 tags: [unmap, iSCSI, NFS, FreeNAS]
 ---

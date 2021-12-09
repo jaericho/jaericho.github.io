@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "nar·cis·sism"
-date:   2014-10-26 08:00:00 -0600
+title: "nar·cis·sism"
+date: 2014-10-26 08:00:00 -0600
 categories: [Culture]
 tags: [Dating, Feminism, Game]
 ---

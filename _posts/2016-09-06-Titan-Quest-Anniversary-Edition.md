@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Titan Quest Anniversary Edition"
-date:   2016-09-06 10:00:00 -0600
+title: "Titan Quest Anniversary Edition"
+date: 2016-09-06 10:00:00 -0600
 categories: [Reviews]
 tags: [Game Review, Grim Dawn, Tital Quest, Video Game]
 ---

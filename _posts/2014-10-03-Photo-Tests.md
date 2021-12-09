@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Photo Tests"
-date:   2014-10-07 08:00:00 -0600
+title: "Photo Tests"
+date: 2014-10-07 08:00:00 -0600
 categories: [Reviews]
 tags: [Apple, Camera, iPhone]
 ---

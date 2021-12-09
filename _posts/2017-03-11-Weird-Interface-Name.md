@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weird Interface Name"
-date:   2017-03-11 10:00:00 -0600
+title: "Weird Interface Name"
+date: 2017-03-11 10:00:00 -0600
 categories: [Linux]
 tags: [eth0, ethernet, systemd, Ubuntu]
 ---

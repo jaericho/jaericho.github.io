@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Maison Ikkoku"
-date:   2014-06-26 10:00:00 -0600
+title: "Maison Ikkoku"
+date: 2014-06-26 10:00:00 -0600
 categories: [Reviews]
 tags: [anime, Maison Ikkoku, TV Review]
 ---

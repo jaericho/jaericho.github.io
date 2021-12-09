@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DFS-R MaxOfflineTimeInDays"
-date:   2016-12-09 10:00:00 -0600
+title: "DFS-R MaxOfflineTimeInDays"
+date: 2016-12-09 10:00:00 -0600
 categories: [Windows]
 tags: [DFS-R, EventID, Microsoft]
 ---

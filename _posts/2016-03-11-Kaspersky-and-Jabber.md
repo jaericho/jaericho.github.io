@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kaspersky and Jabber"
-date:   2016-03-11 20:33:36 -0600
+title: "Kaspersky and Jabber"
+date: 2016-03-11 20:33:36 -0600
 categories: [Stupid Bugs]
 tags: [Cisco, Jabber, Kaspersky]
 ---

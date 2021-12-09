@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "iPod Upgrade"
-date:   2015-06-17 08:00:00 -0600
+title: "iPod Upgrade"
+date: 2015-06-17 08:00:00 -0600
 categories: [Hardware]
 tags: [Apple, DIY, iPod]
 ---

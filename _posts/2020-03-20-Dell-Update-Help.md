@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dell Command | Update 3.1"
-date:   2020-03-20 10:00:00 -0600
+title: "Dell Command | Update 3.1"
+date: 2020-03-20 10:00:00 -0600
 categories: [Software]
 tags: [Dell, Dell Command Update]
 ---

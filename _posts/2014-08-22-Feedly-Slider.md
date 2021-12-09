@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Feedly Slider"
-date:   2014-08-22 08:00:00 -0600
+title: "Feedly Slider"
+date: 2014-08-22 08:00:00 -0600
 categories: [Software]
 tags: [Feedly, RSS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jefferson Desk"
-date:   2015-05-29 20:33:36 -0600
+title: "Jefferson Desk"
+date: 2015-05-29 20:33:36 -0600
 categories: [Hardware]
 tags: [Jefferson Desk]
 ---

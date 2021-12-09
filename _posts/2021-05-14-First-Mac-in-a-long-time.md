@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Mac in a long time"
-date:   2021-05-14 10:00:00 -0600
+title: "First Mac in a long time"
+date: 2021-05-14 10:00:00 -0600
 categories: [Hardware]
 tags: [Apple, MacBook Pro, MacOS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "WTF is it with Linux?"
-date:   2015-12-30 10:00:00 -0600
+title: "WTF is it with Linux?"
+date: 2015-12-30 10:00:00 -0600
 categories: [Linux]
 tags: [OpenVPN, Ubuntu]
 ---

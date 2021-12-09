@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Ivanti Can't Sort"
-date:   2021-12-08 08:00:00 -0600
+title: "Ivanti Can't Sort"
+date: 2021-12-08 08:00:00 -0600
 categories: [Stupid Bugs]
 tags: [Ivanti, Landesk, Sorting, Stupid Bugs]
 ---
 
-Yet another Ivanti bug... [shocked pikachu meme]
+Yet another Ivanti bug... [shocked Pikachu meme]
 
 Ivanti needs to fix the sorting on their console.
 

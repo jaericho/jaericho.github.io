@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Lewis (Series 7)"
-date:   2014-10-24 08:00:00 -0600
+title: "Lewis (Series 7)"
+date: 2014-10-24 08:00:00 -0600
 categories: [Reviews]
 tags: [Lewis, TV]
 ---

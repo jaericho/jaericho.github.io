@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Powershell Beginnings"
-date:   2014-08-10 08:00:00 -0600
+title: "Powershell Beginnings"
+date: 2014-08-10 08:00:00 -0600
 categories: [Powershell]
 tags: []
 ---

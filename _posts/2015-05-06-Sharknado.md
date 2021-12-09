@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sharknado"
-date:   2015-05-11 20:33:36 -0600
+title: "Sharknado"
+date: 2015-05-11 20:33:36 -0600
 categories: [Reviews]
 tags: [Movie Review, Sharknado]
 ---

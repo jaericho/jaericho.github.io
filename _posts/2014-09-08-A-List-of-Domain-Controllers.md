@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A List of Domain Controllers"
-date:   2014-09-08 08:00:00 -0600
+title: "A List of Domain Controllers"
+date: 2014-09-08 08:00:00 -0600
 categories: [Windows]
 tags: [AD, Domain Controllers]
 ---

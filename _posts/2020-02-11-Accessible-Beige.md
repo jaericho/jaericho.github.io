@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Accessible Beige"
-date:   2020-02-11 10:00:00 -0600
+title: "Accessible Beige"
+date: 2020-02-11 10:00:00 -0600
 categories: [Funny]
 tags: [Beige]
 ---

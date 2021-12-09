@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Working from Home"
-date:   2020-03-18 21:00:00 -0600
+title: "Working from Home"
+date: 2020-03-18 21:00:00 -0600
 categories: [Culture]
 tags: [AnyConnect, ASA, ASDM, VPN]
 ---

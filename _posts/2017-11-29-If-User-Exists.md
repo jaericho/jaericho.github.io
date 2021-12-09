@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "If User Exists?"
-date:   2017-11-29 10:00:00 -0600
+title: "If User Exists?"
+date: 2017-11-29 10:00:00 -0600
 categories: [Powershell]
 tags: [Active Directory, Windows]
 ---

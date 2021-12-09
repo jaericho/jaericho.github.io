@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Device Busy During Write Memory"
-date:   2018-04-24 20:33:36 -0600
+title: "Device Busy During Write Memory"
+date: 2018-04-24 20:33:36 -0600
 categories: [Cisco]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows Spotlight Wallpaper"
-date:   2017-12-01 15:33:36 -0600
+title: "Windows Spotlight Wallpaper"
+date: 2017-12-01 15:33:36 -0600
 categories: [Windows]
 tags: [Wallpaper]
 ---

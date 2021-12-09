@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Prepping for Corona"
-date:   2020-02-25 08:00:00 -0600
+title: "Prepping for Corona"
+date: 2020-02-25 08:00:00 -0600
 categories: [Culture]
 tags: [Coronavirus, Prepping, Supplies]
 ---

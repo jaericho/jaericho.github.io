@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Find an AD User from a SID"
-date:   2019-08-27 20:33:36 -0600
+title: "Find an AD User from a SID"
+date: 2019-08-27 20:33:36 -0600
 categories: [Powershell]
 tags: [Active Directory]
 ---

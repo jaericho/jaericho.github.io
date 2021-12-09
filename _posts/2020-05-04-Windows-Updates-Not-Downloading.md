@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows Updates Not Downloading"
-date:   2020-05-04 08:00:00 -0600
+title: "Windows Updates Not Downloading"
+date: 2020-05-04 08:00:00 -0600
 categories: [Stupid Bugs]
 tags: [0x800706D9, BITS, Error, Firewall, Windows, Windows Update]
 ---

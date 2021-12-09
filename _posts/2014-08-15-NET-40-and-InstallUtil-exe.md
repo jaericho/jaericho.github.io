@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  ".NET 4.0 and InstallUtil.exe"
-date:   2014-08-15 08:00:00 -0600
+title: ".NET 4.0 and InstallUtil.exe"
+date: 2014-08-15 08:00:00 -0600
 categories: [Stupid Bugs]
 tags: [.NET, InstallUtil]
 ---

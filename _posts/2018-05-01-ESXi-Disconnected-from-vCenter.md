@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ESXi Disconnected from vCenter"
-date:   2018-05-01 20:33:36 -0600
+title: "ESXi Disconnected from vCenter"
+date: 2018-05-01 20:33:36 -0600
 categories: [VMware]
 ---
 

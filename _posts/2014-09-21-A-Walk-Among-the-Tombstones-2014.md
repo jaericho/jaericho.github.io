@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Walk Among the Tombstones (2014)"
-date:   2014-09-21 08:00:00 -0600
+title: "A Walk Among the Tombstones (2014)"
+date: 2014-09-21 08:00:00 -0600
 categories: [Reviews]
 tags: [Liam Neeson, Movie Review, Walk Among the Tombstones]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Migrating ePO Database"
-date:   2015-07-31 10:00:00 -0600
+title: "Migrating ePO Database"
+date: 2015-07-31 10:00:00 -0600
 categories: [Software]
 tags: [Database, McAfee]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cleverer Powershell"
-date:   2014-08-23 08:00:00 -0600
+title: "Cleverer Powershell"
+date: 2014-08-23 08:00:00 -0600
 categories: [Powershell]
 tags: [Pipeline, Powershell]
 ---

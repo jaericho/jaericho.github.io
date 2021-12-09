@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Time for a Reboot"
-date:   2016-11-08 10:00:00 -0600
+title: "Time for a Reboot"
+date: 2016-11-08 10:00:00 -0600
 categories: [Funny]
 tags: [Microsoft, Windows]
 ---

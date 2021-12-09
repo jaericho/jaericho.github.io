@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows 10 Upgrade"
-date:   2015-07-31 08:00:00 -0600
+title: "Windows 10 Upgrade"
+date: 2015-07-31 08:00:00 -0600
 categories: [Windows]
 tags: [Windows 10, Upgrade]
 ---

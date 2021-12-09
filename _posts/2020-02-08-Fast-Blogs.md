@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Fast Blogs"
-date:   2020-02-08 10:00:00 -0600
+title: "Fast Blogs"
+date: 2020-02-08 10:00:00 -0600
 categories: [Meta]
 tags: [Jekyll, Static Site Generator, Wordpress]
 ---

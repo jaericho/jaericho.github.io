@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Can’t format VMFS5 partition"
-date:   2016-06-05 10:00:00 -0600
+title: "Can’t format VMFS5 partition"
+date: 2016-06-05 10:00:00 -0600
 categories: [VMware]
 tags: [ESXi, Partition, vmfs]
 ---

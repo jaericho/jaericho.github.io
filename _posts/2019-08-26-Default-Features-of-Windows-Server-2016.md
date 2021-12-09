@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Default Features of Windows Server 2016"
-date:   2019-08-26 20:33:36 -0600
+title: "Default Features of Windows Server 2016"
+date: 2019-08-26 20:33:36 -0600
 categories: [Windows]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Burger King Moving to Canada"
-date:   2014-08-27 08:00:00 -0600
+title: "Burger King Moving to Canada"
+date: 2014-08-27 08:00:00 -0600
 categories: [Politics]
 tags: [Burger King, Double Irish, Tax]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Detecting if the VPN is Enabled"
-date:   2021-09-23 08:00:00 -0600
+title: "Detecting if the VPN is Enabled"
+date: 2021-09-23 08:00:00 -0600
 categories: [Powershell]
 tags: [Cisco AnyConnect, Powershell, VPN]
 ---

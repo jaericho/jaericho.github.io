@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Political Rick-Roll"
-date:   2016-09-16 10:00:00 -0600
+title: "A Political Rick-Roll"
+date: 2016-09-16 10:00:00 -0600
 categories: [Politics]
 tags: [Breitbart, CNN, Trump]
 ---

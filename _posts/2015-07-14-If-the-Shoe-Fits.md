@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "If the shoe fits..."
-date:   2015-07-14 08:00:00 -0600
+title: "If the shoe fits..."
+date: 2015-07-14 08:00:00 -0600
 categories: [Politics]
 tags: [LGBTQP, Military]
 ---

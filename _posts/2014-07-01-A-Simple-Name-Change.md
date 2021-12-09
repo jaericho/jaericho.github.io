@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Simple Name Change"
-date:   2014-07-01 10:00:00 -0600
+title: "A Simple Name Change"
+date: 2014-07-01 10:00:00 -0600
 categories: [Politics]
 tags: [Apple, elementaryos, ISIS, linux]
 ---

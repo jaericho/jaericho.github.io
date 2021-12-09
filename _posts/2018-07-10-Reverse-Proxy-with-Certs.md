@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Reverse Proxy with Certs"
-date:   2018-07-10 20:33:36 -0600
+title: "Reverse Proxy with Certs"
+date: 2018-07-10 20:33:36 -0600
 categories: [Linux]
 tags: [Certs, Reverse Proxy, webserver]
 ---

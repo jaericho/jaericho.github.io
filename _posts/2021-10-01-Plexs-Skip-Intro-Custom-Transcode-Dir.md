@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Plex's Skip Intro and a Custom Transcode Directory"
-date:   2021-10-01 08:00:00 -0600
+title: "Plex's Skip Intro and a Custom Transcode Directory"
+date: 2021-10-01 08:00:00 -0600
 categories: [Stupid Bugs]
 tags: [Plex, Skip Intro, Transcoding, Windows]
 ---

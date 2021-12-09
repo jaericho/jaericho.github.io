@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Moving DB server for WSUS 3.0"
-date:   2015-07-29 08:00:00 -0600
+title: "Moving DB server for WSUS 3.0"
+date: 2015-07-29 08:00:00 -0600
 categories: [Windows]
 tags: [Database, WSUS]
 ---

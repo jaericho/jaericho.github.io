@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "RunOnce a Powershell Script"
-date:   2018-12-26 20:33:36 -0600
+title: "RunOnce a Powershell Script"
+date: 2018-12-26 20:33:36 -0600
 categories: [Powershell]
 ---
 

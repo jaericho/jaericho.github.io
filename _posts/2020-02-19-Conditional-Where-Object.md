@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Conditional Where-Object"
-date:   2020-02-19 09:00:00 -0600
+title: "Conditional Where-Object"
+date: 2020-02-19 09:00:00 -0600
 categories: [Powershell]
 tags: [scripting, where-object]
 ---

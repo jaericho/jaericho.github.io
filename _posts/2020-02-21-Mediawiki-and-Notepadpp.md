@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mediawiki and Notepad++"
-date:   2020-02-21 10:00:00 -0600
+title: "Mediawiki and Notepad++"
+date: 2020-02-21 10:00:00 -0600
 categories: [Software]
 tags: [Markdown, Mediawiki, Notepad++]
 ---

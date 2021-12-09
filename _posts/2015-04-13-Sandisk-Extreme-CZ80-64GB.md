@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SanDisk Extreme CZ80 64GB USB 3.0"
-date:   2015-04-13 20:33:36 -0600
+title: "SanDisk Extreme CZ80 64GB USB 3.0"
+date: 2015-04-13 20:33:36 -0600
 categories: [Hardware]
 tags: [Benchmark, Flash Drive, USB 3.0]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Apply ESXi Updates via CLI"
-date:   2014-12-23 08:00:00 -0600
+title: "Apply ESXi Updates via CLI"
+date: 2014-12-23 08:00:00 -0600
 categories: [VMware]
 tags: [CLI, ESXi, Update]
 ---

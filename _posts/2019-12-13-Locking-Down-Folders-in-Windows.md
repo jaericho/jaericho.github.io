@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Locking Down Folders in Windows"
-date:   2019-12-19 20:33:36 -0600
+title: "Locking Down Folders in Windows"
+date: 2019-12-19 20:33:36 -0600
 categories: [Windows]
 tags: [File Permissions, ACL]
 ---

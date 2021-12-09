@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Spencer Confidential (2020)"
-date:   2020-03-23 08:00:00 -0600
+title: "Spencer Confidential (2020)"
+date: 2020-03-23 08:00:00 -0600
 categories: [Reviews]
 tags: [Mark Wahlberg, Netflix, Movie Reivew]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "WSUS: Reset Server Node While Browsing Computers"
-date:   2017-08-25 10:00:00 -0600
+title: "WSUS: Reset Server Node While Browsing Computers"
+date: 2017-08-25 10:00:00 -0600
 categories: [Stupid Bugs]
 tags: [BIOS, Windows, WSUS]
 ---

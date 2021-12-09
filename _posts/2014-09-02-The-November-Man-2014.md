@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The November Man (2014)"
-date:   2014-09-02 08:00:00 -0600
+title: "The November Man (2014)"
+date: 2014-09-02 08:00:00 -0600
 categories: [Reviews]
 tags: [Movie Review, November Man, Pierce Brosnan]
 ---

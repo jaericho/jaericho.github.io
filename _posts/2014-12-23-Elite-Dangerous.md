@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Elite Dangerous"
-date:   2014-12-23 08:00:00 -0600
+title: "Elite Dangerous"
+date: 2014-12-23 08:00:00 -0600
 categories: [Reviews]
 tags: [Elite Dangerous, Game Review, Video Games]
 ---

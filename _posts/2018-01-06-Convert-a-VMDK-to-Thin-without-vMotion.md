@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Convert a VMDK to Thin without vMotion"
-date:   2018-01-06 15:33:36 -0600
+title: "Convert a VMDK to Thin without vMotion"
+date: 2018-01-06 15:33:36 -0600
 categories: [VMware]
 tags: [vMotion, Thin Provision, VMDK]
 ---

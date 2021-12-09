@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Space Reclaimer CLI"
-date:   2016-03-10 20:33:36 -0600
+title: "Space Reclaimer CLI"
+date: 2016-03-10 20:33:36 -0600
 categories: [Software]
 tags: [CLI, Netapp, SnapDrive]
 ---

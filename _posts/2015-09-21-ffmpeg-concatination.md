@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ffmpeg Concatination"
-date:   2015-09-21 10:00:00 -0600
+title: "ffmpeg Concatination"
+date: 2015-09-21 10:00:00 -0600
 categories: [Software]
 tags: [concatination, ffmpg, h264, mp4, video]
 ---

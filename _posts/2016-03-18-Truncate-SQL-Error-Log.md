@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Truncate SQL Server Error Log"
-date:   2016-03-18 10:00:00 -0600
+title: "Truncate SQL Server Error Log"
+date: 2016-03-18 10:00:00 -0600
 categories: [Software]
 tags: [Database, Log, SQL]
 ---

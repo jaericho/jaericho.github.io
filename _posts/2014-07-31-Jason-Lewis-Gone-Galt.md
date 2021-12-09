@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jason Lewis Gone Galt"
-date:   2014-07-31 08:00:00 -0600
+title: "Jason Lewis Gone Galt"
+date: 2014-07-31 08:00:00 -0600
 categories: [Culture]
 tags: [Galt, Jason Lewis, Quit]
 ---

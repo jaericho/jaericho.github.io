@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cloudflare Doubles Perf of Linux Disk Encryption"
-date:   2020-03-25 08:00:00 -0600
+title: "Cloudflare Doubles Perf of Linux Disk Encryption"
+date: 2020-03-25 08:00:00 -0600
 categories: [Software]
 tags: [CloudFlare, Disk Encryption, Kernel, Linux]
 ---

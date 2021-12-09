@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Honest Thief (2020) and The Doorman (2020)"
-date:   2020-12-10 08:00:00 -0600
+title: "Honest Thief (2020) and The Doorman (2020)"
+date: 2020-12-10 08:00:00 -0600
 categories: [Reviews]
 tags: [Honest Thief, Jean Reno, Liam Neeson, The Doorman, Movie Review]
 ---

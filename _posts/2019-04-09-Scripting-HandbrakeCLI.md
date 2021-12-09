@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scripting HandbrakeCLI"
-date:   2019-04-09 20:33:36 -0600
+title: "Scripting HandbrakeCLI"
+date: 2019-04-09 20:33:36 -0600
 categories: [Powershell]
 tags: [Handbrake]
 ---

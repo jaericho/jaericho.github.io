@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ProKart League 2014: Week One"
-date:   2014-10-29 08:00:00 -0600
+title: "ProKart League 2014: Week One"
+date: 2014-10-29 08:00:00 -0600
 categories: [Racing]
 tags: [League, ProKart]
 ---

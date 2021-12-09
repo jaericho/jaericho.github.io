@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Working from Home: Discipline"
-date:   2020-03-27 10:00:00 -0600
+title: "Working from Home: Discipline"
+date: 2020-03-27 10:00:00 -0600
 categories: [Culture]
 tags: [Discipline, WFH]
 ---

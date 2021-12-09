@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Intel AC-7260 and UniFi"
-date:   2017-10-07 10:00:00 -0600
+title: "Intel AC-7260 and UniFi"
+date: 2017-10-07 10:00:00 -0600
 categories: [Windows]
 tags: [Intel, Ubiquiti, WPA2]
 ---

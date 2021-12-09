@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "WTF is it with Linux? (Part 2)"
-date:   2020-05-12 10:00:00 -0600
+title: "WTF is it with Linux? (Part 2)"
+date: 2020-05-12 10:00:00 -0600
 categories: [Linux]
 tags: [Disk, Ubuntu, vmware]
 ---

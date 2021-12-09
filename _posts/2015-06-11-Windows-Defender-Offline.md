@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows Defender Offline"
-date:   2015-06-11 20:33:36 -0600
+title: "Windows Defender Offline"
+date: 2015-06-11 20:33:36 -0600
 categories: [Software]
 tags: [Antivirus, Windows, Windows Defender]
 ---

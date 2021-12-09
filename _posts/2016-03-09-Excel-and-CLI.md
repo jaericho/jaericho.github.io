@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Excel and CLI"
-date:   2016-03-09 20:33:36 -0600
+title: "Excel and CLI"
+date: 2016-03-09 20:33:36 -0600
 categories: [Software]
 tags: [CLI, Excel, Powershell]
 ---

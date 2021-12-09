@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "For Women, Sex is Power"
-date:   2014-09-03 08:00:00 -0600
+title: "For Women, Sex is Power"
+date: 2014-09-03 08:00:00 -0600
 categories: [Culture]
 tags: [Feminism, Power, Sex]
 ---

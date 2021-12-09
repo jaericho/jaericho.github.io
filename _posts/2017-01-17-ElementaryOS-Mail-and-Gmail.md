@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ElementaryOS Mail and Gmail"
-date:   2017-01-17 10:00:00 -0600
+title: "ElementaryOS Mail and Gmail"
+date: 2017-01-17 10:00:00 -0600
 categories: [Linux]
 tags: [ElementaryOS, Google, Gmail]
 ---

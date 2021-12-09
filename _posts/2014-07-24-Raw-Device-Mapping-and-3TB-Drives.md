@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Raw Device Mapping and 3TB Drives"
-date:   2014-07-28 08:00:00 -0600
+title: "Raw Device Mapping and 3TB Drives"
+date: 2014-07-28 08:00:00 -0600
 categories: [VMware]
 tags: [hdd, esxi, sata, RDM]
 ---

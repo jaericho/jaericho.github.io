@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Re-Run Your Boot Loader"
-date:   2014-07-28 08:00:00 -0600
+title: "Re-Run Your Boot Loader"
+date: 2014-07-28 08:00:00 -0600
 categories: [Linux]
 tags: [boot loader, grub, kernel]
 ---

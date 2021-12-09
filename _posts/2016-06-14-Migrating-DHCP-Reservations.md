@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Migrating DHCP Reservations"
-date:   2016-06-14 10:00:00 -0600
+title: "Migrating DHCP Reservations"
+date: 2016-06-14 10:00:00 -0600
 categories: [Windows]
 tags: [DHCP]
 ---

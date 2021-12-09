@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Upgrading Windows 2003 to 2008 with iSCSI"
-date:   2015-06-11 20:33:36 -0600
+title: "Upgrading Windows 2003 to 2008 with iSCSI"
+date: 2015-06-11 20:33:36 -0600
 categories: [Software]
 tags: [iSCSI, Netapp, Snapdrive, Windows]
 ---

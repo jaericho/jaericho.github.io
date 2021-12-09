@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Lawlessness"
-date:   2016-07-05 10:00:00 -0600
+title: "Lawlessness"
+date: 2016-07-05 10:00:00 -0600
 categories: [Politics]
 tags: [Breitbart, Clinton, James Comey]
 ---

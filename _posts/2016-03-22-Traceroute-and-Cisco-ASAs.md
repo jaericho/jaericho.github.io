@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Traceroute and Cisco ASA’s"
-date:   2016-03-22 10:00:00 -0600
+title: "Traceroute and Cisco ASA’s"
+date: 2016-03-22 10:00:00 -0600
 categories: [Networking]
 tags: [ASA, Cisco, ICMP, Traceroute]
 ---

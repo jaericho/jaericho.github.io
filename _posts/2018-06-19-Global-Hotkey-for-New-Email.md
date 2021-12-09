@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Global Hotkey for New Email"
-date:   2018-06-19 20:33:36 -0600
+title: "Global Hotkey for New Email"
+date: 2018-06-19 20:33:36 -0600
 categories: [Windows]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hollywood's CogDis with Firearms"
-date:   2021-11-20 10:00:00 -0600
+title: "Hollywood's CogDis with Firearms"
+date: 2021-11-20 10:00:00 -0600
 categories: [Politics]
 tags: [Breitbart, Hollywood]
 ---

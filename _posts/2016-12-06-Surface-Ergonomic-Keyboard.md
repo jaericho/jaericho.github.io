@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Surface Ergonomic Keyboard"
-date:   2016-12-06 10:00:00 -0600
+title: "Surface Ergonomic Keyboard"
+date: 2016-12-06 10:00:00 -0600
 categories: [Reviews]
 tags: [Keyboard, Microsoft Surface]
 ---

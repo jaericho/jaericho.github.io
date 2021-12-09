@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows 8 Updates and Audit Mode"
-date:   2014-07-22 08:00:00 -0600
+title: "Windows 8 Updates and Audit Mode"
+date: 2014-07-22 08:00:00 -0600
 categories: [Windows]
 tags: [Audit, Microsoft, Windows Update]
 ---

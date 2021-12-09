@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "VPN to VPN Traffic"
-date:   2020-03-17 10:00:00 -0600
+title: "VPN to VPN Traffic"
+date: 2020-03-17 10:00:00 -0600
 categories: [Networking]
 tags: [AnyConnect, ASA, Cisco, Firewall, NAT, Networking]
 ---

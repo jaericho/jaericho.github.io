@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Expendables 3 (2014)"
-date:   2014-08-17 08:00:00 -0600
+title: "The Expendables 3 (2014)"
+date: 2014-08-17 08:00:00 -0600
 categories: [Reviews]
 tags: [Banderas, Expendables, Feminism, Gibson, Stallone, Movie Review]
 ---

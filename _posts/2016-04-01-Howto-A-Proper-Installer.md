@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Howto: a Proper Installer"
-date:   2016-04-01 10:00:00 -0600
+title: "Howto: a Proper Installer"
+date: 2016-04-01 10:00:00 -0600
 categories: [Windows]
 tags: [Bitvise, Install]
 ---

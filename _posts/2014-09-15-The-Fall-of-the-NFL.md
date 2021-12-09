@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Fall of the NFL"
-date:   2014-09-21 08:00:00 -0600
+title: "The Fall of the NFL"
+date: 2014-09-21 08:00:00 -0600
 categories: [Culture]
 tags: [NFL, SJW]
 ---

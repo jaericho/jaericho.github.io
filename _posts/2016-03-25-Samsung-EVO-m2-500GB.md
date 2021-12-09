@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Samsung 850 EVO m.2 500GB"
-date:   2016-03-25 10:00:00 -0600
+title: "Samsung 850 EVO m.2 500GB"
+date: 2016-03-25 10:00:00 -0600
 categories: [Hardware]
 tags: [Benchmark, Build, Samsung, SSD]
 ---

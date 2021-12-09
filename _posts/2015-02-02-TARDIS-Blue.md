@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "TARDIS Blue"
-date:   2015-02-02 20:33:36 -0600
+title: "TARDIS Blue"
+date: 2015-02-02 20:33:36 -0600
 categories: [Reviews]
 tags: [Blue, Doctor Who, Paint]
 ---

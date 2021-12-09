@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Property Owner Not Available"
-date:   2014-10-27 08:00:00 -0600
+title: "Property Owner Not Available"
+date: 2014-10-27 08:00:00 -0600
 categories: [Stupid Bugs]
 tags: [SQL]
 ---

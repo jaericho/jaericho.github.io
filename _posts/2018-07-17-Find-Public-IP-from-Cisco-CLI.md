@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Find Public IP from Cisco CLI"
-date:   2018-07-17 20:33:36 -0600
+title: "Find Public IP from Cisco CLI"
+date: 2018-07-17 20:33:36 -0600
 categories: [Cisco]
 ---
 

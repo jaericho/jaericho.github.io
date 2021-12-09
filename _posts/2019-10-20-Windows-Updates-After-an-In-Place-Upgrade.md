@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows Update After an In-Place Upgrades"
-date:   2019-10-20 20:33:36 -0600
+title: "Windows Update After an In-Place Upgrades"
+date: 2019-10-20 20:33:36 -0600
 categories: [Windows]
 tags: [Windows Update]
 ---

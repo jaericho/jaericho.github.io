@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Filter Is Finicky"
-date:   2016-11-08 10:00:00 -0600
+title: "Filter Is Finicky"
+date: 2016-11-08 10:00:00 -0600
 categories: [Powershell]
 tags: [Windows]
 ---

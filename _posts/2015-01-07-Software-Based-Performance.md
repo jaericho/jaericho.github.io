@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Software Based Performance"
-date:   2015-01-07 20:33:36 -0600
+title: "Software Based Performance"
+date: 2015-01-07 20:33:36 -0600
 categories: [Stupid Bugs]
 tags: [Optimization, SQL]
 ---

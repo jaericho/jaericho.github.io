@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Shopping Holiday"
-date:   2014-11-24 08:00:00 -0600
+title: "The Shopping Holiday"
+date: 2014-11-24 08:00:00 -0600
 categories: [Culture]
 tags: [Christmas, Shopping, Thanksgiving]
 ---

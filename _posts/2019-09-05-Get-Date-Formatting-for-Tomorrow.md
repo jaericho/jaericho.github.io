@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Get-Date Formatting for Tomorrow"
-date:   2019-09-04 20:33:36 -0600
+title: "Get-Date Formatting for Tomorrow"
+date: 2019-09-04 20:33:36 -0600
 categories: [Powershell]
 ---
 

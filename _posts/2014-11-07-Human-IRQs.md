@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Human IRQs"
-date:   2014-11-07 08:00:00 -0600
+title: "Human IRQs"
+date: 2014-11-07 08:00:00 -0600
 categories: [Politics]
 tags: [Feminism, Game, Heartise, Vox]
 ---

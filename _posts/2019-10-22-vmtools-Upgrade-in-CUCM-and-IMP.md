@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "vmtools Upgrade in CUCM and IMP"
-date:   2019-10-22 20:33:36 -0600
+title: "vmtools Upgrade in CUCM and IMP"
+date: 2019-10-22 20:33:36 -0600
 categories: [Cisco, VMware]
 tags: [vmware tools]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ownCloud SMB storage on Ubuntu 16.04"
-date:   2019-11-20 20:33:36 -0600
+title: "ownCloud SMB storage on Ubuntu 16.04"
+date: 2019-11-20 20:33:36 -0600
 categories: [Linux]
 tags: [ownCloud, SMB, Ubuntu]
 ---

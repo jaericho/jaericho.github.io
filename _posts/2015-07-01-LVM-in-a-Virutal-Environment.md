@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "LVM in a Virtual Environment"
-date:   2015-07-01 08:00:00 -0600
+title: "LVM in a Virtual Environment"
+date: 2015-07-01 08:00:00 -0600
 categories: [Software]
 tags: [Linux, LVM, OwnCloud, Partition, Swap]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Deleting Windows.old"
-date:   2021-09-28 08:00:00 -0600
+title: "Deleting Windows.old"
+date: 2021-09-28 08:00:00 -0600
 categories: [Software]
 tags: [cleanmgr, Disk Cleanup, Microsoft, Windows]
 ---

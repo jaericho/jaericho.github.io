@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Clear VCSA DNS Cache"
-date:   2018-08-25 20:33:36 -0600
+title: "Clear VCSA DNS Cache"
+date: 2018-08-25 20:33:36 -0600
 categories: [VMware]
 tags: [DNS, systemd]
 ---

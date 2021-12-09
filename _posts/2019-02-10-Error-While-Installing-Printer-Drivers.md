@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Error While Installing Printer Drivers"
-date:   2019-02-10 20:33:36 -0600
+title: "Error While Installing Printer Drivers"
+date: 2019-02-10 20:33:36 -0600
 categories: [Stupid Bugs]
 tags: [Printers, Windows]
 ---

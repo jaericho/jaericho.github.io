@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Fairy Tales of the Modern Woman"
-date:   2014-12-02 08:00:00 -0600
+title: "Fairy Tales of the Modern Woman"
+date: 2014-12-02 08:00:00 -0600
 categories: [Culture]
 tags: [Expectations, Women]
 ---

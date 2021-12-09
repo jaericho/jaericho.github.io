@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wipe a Cisco 3560 without the Password"
-date:   2014-08-05 08:00:00 -0600
+title: "Wipe a Cisco 3560 without the Password"
+date: 2014-08-05 08:00:00 -0600
 categories: [Hardware]
 tags: [Cisco, Switch, Wipe]
 ---

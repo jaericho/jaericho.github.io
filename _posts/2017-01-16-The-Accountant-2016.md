@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Accountant (2016)"
-date:   2017-01-17 10:00:00 -0600
+title: "The Accountant (2016)"
+date: 2017-01-17 10:00:00 -0600
 categories: [Reviews]
 tags: [The Accountant, John Wick, Movie Review]
 ---

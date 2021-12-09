@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Modern Man is Bananas"
-date:   2016-04-13 10:00:00 -0600
+title: "Modern Man is Bananas"
+date: 2016-04-13 10:00:00 -0600
 categories: [Culture]
 tags: [John C Wright, voxday]
 ---

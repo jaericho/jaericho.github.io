@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windows SNMP Service Missing Tabs"
-date:   2018-07-11 20:33:36 -0600
+title: "Windows SNMP Service Missing Tabs"
+date: 2018-07-11 20:33:36 -0600
 categories: [Windows]
 tags: [SNMP]
 ---
