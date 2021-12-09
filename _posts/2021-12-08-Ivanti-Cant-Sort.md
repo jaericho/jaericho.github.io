@@ -10,6 +10,6 @@ Yet another Ivanti bug... [shocked Pikachu meme]
 
 Ivanti needs to fix the sorting on their console.
 
-Ignoring the whole 4.1, 4.10, 4.11, 4.2 issue of direct string sorting. This bug doesn't even match that.
+There is the issue of direct string sorting (4.1, 4.10, 4.11, 4.2), but the console can't even do that correctly.
 
 ![Dumb sorting by Ivanti](/assets/2021/12/dumb-sorting-by-ivanti.png)
