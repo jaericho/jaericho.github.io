@@ -16,4 +16,4 @@ I ended up mounting the file share via a script I copied from [here](https://ask
 
 Then I installed `cifs-utils` and made the script executable. I'll just run it before I run my [Handbrake](https://handbrake.fr/downloads2.php) scripts.
 
-It was very confusing problem because powershell (my scripting language of choice) could see the files, and the HandbrakeGUI (which is also Flatpak) worked w/o any problems, so all my tests came out successful. I know Ubuntu is all about snaps, not flatpaks, so maybe a different distro would be easier to work with.
+It was very confusing problem because powershell (my scripting language of choice) could see the files, and the HandbrakeGUI (which is also Flatpak) worked without any problems, so all my troubleshooting tests were successful. I know Ubuntu is all about snaps, not flatpaks, so maybe a different distro would be easier to work with.
