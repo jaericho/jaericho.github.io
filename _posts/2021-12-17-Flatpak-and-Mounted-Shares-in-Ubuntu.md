@@ -4,7 +4,6 @@ title: "Flatpak and Mounted Shares in Ubuntu"
 date: 2021-12-17 08:00:00 -0600
 categories: [Linux]
 tags: [CLI, Flatpak, Handbrake, Linux, Powershell, Scripting, Ubuntu]
-draft: true
 ---
 
 Flatpak apps can't access where Ubuntu mounts network shares by default.
