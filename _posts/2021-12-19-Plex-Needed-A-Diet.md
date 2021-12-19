@@ -4,7 +4,6 @@ title: "Plex Needed A Diet"
 date: 2021-12-19 08:00:00 -0600
 categories: [Software]
 tags: [Plex, Space Saving, Thumbnails, Windows]
-draft: true
 ---
 
 After a while, Plex will need to go on a diet.
