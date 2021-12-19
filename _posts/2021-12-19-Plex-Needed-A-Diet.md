@@ -7,24 +7,26 @@ tags: [Plex, Space Saving, Thumbnails, Windows]
 draft: true
 ---
 
-It doesn't take much for Plex to need a diet.
+After a while, Plex will need to go on a diet.
 
-The default thumbnail generation in Plex is every two seconds and it doesn't much of a library before you're looking at 100+ GB in your Plex installation filled with thumbnails. The thumbnails are nice, but I don't think that one every two seconds is necessary. I read that some client devices only do thumbnails every 5 seconds any ways but I don't think that comment was directed at the AppleTV, so I still don't know what the optimal interval for the AppleTV is.
+The default thumbnail generation in Plex is every two seconds and it doesn't much of a library before you're looking at 100+ GB in your Plex installation filled with thumbnails. The thumbnails are nice, but I don't think that one every two seconds is necessary. I read that some client devices will only show thumbnails every 5 seconds, so that seems like a good tradeoff for size but still have accurate thumbnails. I don't think that comment was directed at the AppleTV, so I still don't know what the optimal interval for an AppleTV is.
 
-However, changed the setting from 2 seconds to 5 seconds really helps save space. It halved my 130+ GB Plex install and I recommend this change to anyone with a large library.
+I changed the setting from 2 seconds to 5 seconds and it really helps save space. It halved my 130+ GB Plex install and I recommend this change to anyone with a moderately sized library.
 
 The instructions can be found [here](https://forums.plex.tv/t/big-media-folder-make-smaller-video-preview-thumbnails/635729/6).
 
 Here were the commands that I used. (Since the Powershell curl command is different than regular curl, I used the Ubuntu distro on the Windows Subsystem for Linux and it worked like a charm.)
 
-This command verifies the current setting. It should return `default="2"` and `value="2"` on an unaltered install:
+First, find out the server token with these [instructions](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/).
 
-`curl -s "http://192.168.1.15:32400/:/prefs?X-Plex-Token=<plextokenhere>" | grep BIFF`
+Second, run this command to verify the current setting. It should return `default="2"` and `value="2"` on an unaltered install:
 
-This command will change the value of the `GenerateBIFFrameInterval` to "5".
+`curl -s "http://<PlexServerIP>:32400/:/prefs?X-Plex-Token=<plextokenhere>" | grep BIFF`
 
-`curl -X PUT "http://192.168.1.15:32400/:/prefs?GenerateBIFFrameInterval=5&X-Plex-Token=<plextokenhere>"`
+Third, change the value of `GenerateBIFFrameInterval` to "5", for 5 seconds. Change this another number if you'd like something else.
 
-Afterwards, you should see: `value="5"` returned with the first command.
+`curl -X PUT "http://<PlexServerIP>:32400/:/prefs?GenerateBIFFrameInterval=5&X-Plex-Token=<plextokenhere>"`
 
-This will only affect newly generated thumbnails, so I had to delete all the thumbnails in the library and regenerate them, but that seemed to work without issues. 
+Afterwards, run the first command and you should see: `value="5"`.
+
+This will only affect newly generated thumbnails, so delete all the thumbnails in the library and regenerate them.
