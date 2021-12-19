@@ -19,13 +19,17 @@ Here were the commands that I used. (Since the Powershell curl command is differ
 
 First, find out the server token with these [instructions](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/).
 
-Second, run this command to verify the current setting. It should return `default="2"` and `value="2"` on an unaltered install:
+Secondly, run this command to verify the current setting. It should return `default="2"` and `value="2"` on an unaltered install:
 
-`curl -s "http://<PlexServerIP>:32400/:/prefs?X-Plex-Token=<plextokenhere>" | grep BIFF`
+```bash
+curl -s "http://<PlexServerIP>:32400/:/prefs?X-Plex-Token=<plextokenhere>" | grep BIFF
+```
 
-Third, change the value of `GenerateBIFFrameInterval` to "5", for 5 seconds. Change this another number if you'd like something else.
+Thirdly, change the value of `GenerateBIFFrameInterval` to "5", for 5 seconds. Change this another number if you'd like something else.
 
-`curl -X PUT "http://<PlexServerIP>:32400/:/prefs?GenerateBIFFrameInterval=5&X-Plex-Token=<plextokenhere>"`
+```bash
+curl -X PUT "http://<PlexServerIP>:32400/:/prefs?GenerateBIFFrameInterval=5&X-Plex-Token=<plextokenhere>"
+```
 
 Afterwards, run the first command and you should see: `value="5"`.
 
