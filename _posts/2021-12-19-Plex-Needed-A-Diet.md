@@ -14,7 +14,7 @@ I changed the setting from 2 seconds to 5 seconds and it really helps save space
 
 The instructions can be found [here](https://forums.plex.tv/t/big-media-folder-make-smaller-video-preview-thumbnails/635729/6).
 
-Here were the commands that I used. (Since the Powershell curl command is different than regular curl, I used the Ubuntu distro on the Windows Subsystem for Linux and it worked like a charm.)
+Here were the commands that I used. (Since the Powershell curl command is different than regular curl, I used the Ubuntu distribution on the Windows Subsystem for Linux and it worked like a charm.)
 
 First, find out the server token with these [instructions](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/).
 
@@ -24,7 +24,7 @@ Second, run this command to verify the current setting. It should return `defaul
 curl -s "http://<PlexServerIP>:32400/:/prefs?X-Plex-Token=<plextokenhere>" | grep BIFF
 ```
 
-Third, change the value of `GenerateBIFFrameInterval` to "5", for 5 seconds. Change this another number if you'd like something else.
+Third, change the value of `GenerateBIFFrameInterval` to "5" for 5 seconds. (or change this to whatever interval you'd like, but I think 5 is a reasonable choice.)
 
 ```bash
 curl -X PUT "http://<PlexServerIP>:32400/:/prefs?GenerateBIFFrameInterval=5&X-Plex-Token=<plextokenhere>"
