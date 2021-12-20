@@ -8,13 +8,13 @@ tags: [Plex, Space Saving, Thumbnails, Windows]
 
 After a while, Plex will need to go on a diet.
 
-The default thumbnail generation in Plex is every two seconds and it doesn't much of a library before you're looking at 100+ GB in your Plex installation filled with thumbnails. The thumbnails are nice, but I don't think that one every two seconds is necessary. I read that some client devices will only show thumbnails every 5 seconds, so that seems like a good tradeoff for size but still have accurate thumbnails. I don't think that comment was directed at the AppleTV, so I still don't know what is the optimal interval for an AppleTV.
+The default thumbnail generation in [Plex](https://www.plex.tv) is every two seconds and it doesn't much of a library before you're looking at 100+ GB in your Plex installation filled with thumbnails. The thumbnails are nice, but I don't think that one every two seconds is necessary. I read that some client devices will only show thumbnails every 5 seconds, so that seems like a good tradeoff for size but still have accurate thumbnails. I don't think that comment was directed at the [AppleTV](https://www.apple.com/apple-tv-4k/), so I still don't know what is the optimal interval for an AppleTV.
 
 I changed the setting from 2 seconds to 5 seconds and it really helps save space. It halved my 130+ GB Plex install and I recommend this change to anyone with a moderately sized library.
 
 The instructions can be found [here](https://forums.plex.tv/t/big-media-folder-make-smaller-video-preview-thumbnails/635729/6).
 
-Here were the commands that I used. (Since the Powershell curl command is different than regular curl, I used the Ubuntu distribution on the Windows Subsystem for Linux and it worked like a charm.)
+Here were the commands that I used. (Since the [Powershell version of curl](https://ss64.com/ps/invoke-restmethod.html) has different arguments than Linux's curl, I used the [Ubuntu](https://ubuntu.com/wsl) distribution on the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) and it worked like a charm.)
 
 First, find out the server token with these [instructions](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/).
 
