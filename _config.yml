@@ -28,9 +28,16 @@ url: "http://jaericho.github.io" # the base hostname & protocol for your site, e
 github_username:  jaericho
 
 # Build settings
-theme: minima
+minima:
+  skin: dark
+
+#theme: minima
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -40,18 +47,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-show_excerpts: true
-minima:
-  skin: dark
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
