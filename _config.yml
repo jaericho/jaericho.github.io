@@ -31,8 +31,8 @@ github_username:  jaericho
 minima:
   skin: dark
 
-#theme: minima
-remote_theme: jekyll/minima
+theme: minima
+#remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
