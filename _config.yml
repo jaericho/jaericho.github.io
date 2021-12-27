@@ -31,11 +31,12 @@ github_username:  jaericho
 minima:
   skin: dark
 
-theme: minima
-#remote_theme: jekyll/minima
+#theme: minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 show_excerpts: true
 
