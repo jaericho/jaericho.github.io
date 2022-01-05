@@ -8,9 +8,9 @@ tags: [Plex, Space Saving, Thumbnails, Windows]
 
 After a while, Plex will need to go on a diet.
 
-The default thumbnail generation in [Plex](https://www.plex.tv) is every two seconds and it doesn't much of a library before you're looking at 100+ GB in your Plex installation filled with thumbnails. The thumbnails are nice, but I don't think that one every two seconds is necessary. I read that some client devices will only show thumbnails every 5 seconds, so that seems like a good tradeoff for size but still have accurate thumbnails. I don't think that comment was directed at the [AppleTV](https://www.apple.com/apple-tv-4k/), so I still don't know what is the optimal interval for an AppleTV.
+The default thumbnail generation in [Plex](https://www.plex.tv) is every two seconds and it doesn't take much of a library before you're looking at a 100+ GB Plex installation filled with thumbnails. The thumbnails are nice, but I don't think that one every two seconds is necessary. I read that some client devices will only show thumbnails every 5 seconds, so that seems like a good tradeoff for size but still have accurate thumbnails. I don't think that comment was directed at the [AppleTV](https://www.apple.com/apple-tv-4k/), so I still don't know what is the optimal interval for an AppleTV.
 
-I changed the setting from 2 seconds to 5 seconds and it really helps save space. It halved my 130+ GB Plex install and I recommend this change to anyone with a moderately sized library.
+I changed the setting from 2 seconds to 5 seconds and it really helps save space. It halved my 130+ GB Plex install and I recommend this change to anyone with even a moderately sized library.
 
 The instructions can be found [here](https://forums.plex.tv/t/big-media-folder-make-smaller-video-preview-thumbnails/635729/6).
 
@@ -33,3 +33,5 @@ curl -X PUT "http://<PlexServerIP>:32400/:/prefs?GenerateBIFFrameInterval=5&X-Pl
 Afterwards, run the first command and you should see: `value="5"`.
 
 This will only affect newly generated thumbnails, so delete all the thumbnails in the library and regenerate them.
+
+Plex needs to add this as a user option by default.
