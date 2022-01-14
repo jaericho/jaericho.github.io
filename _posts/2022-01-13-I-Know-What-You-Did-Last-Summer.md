@@ -18,6 +18,6 @@ There were far too many red herrings that didn't fool me. The island cult. The l
 
 The show was over-sexualized. Every episode had some drug fueled, teenage sexcapade, or a deranged feminist spouting the latest online slang. In between the softcore, lesbian OnlyFans scenes, some feminist was screaming out "incel" to the closest white guy.
 
-I hated the characters, so maybe I can say the show was well acted. And the show was paced well and didn't slog along. I'll give it that much. But the situations were just too unbelievable to be sucked into the world. *(The Dad is in on the cover-up. Seriously?)* The characters were such a mess that I was actively rooting against them. And all the show had to hook you was the teenage titillation.
+I hated the characters, so maybe I can say the show was well acted. And the show was paced well and didn't slog along. I'll give it that much. But the situations were just too unbelievable to be sucked into the world. *(The Dad is in on the cover-up. Seriously?)* The characters were such a mess that I was actively rooting against them. And all the show had to hook you with was the teenage titillation.
 
 Watch: No.
