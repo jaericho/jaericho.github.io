@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Mac Complaints"
-date:   2022-01-14 08:00:00 -0600
+title: "Mac Complaints"
+date: 2022-01-14 08:00:00 -0600
 categories: [Software]
-tags: [Complaints, MacOS, Windows]
+tags: [Activity Monitor, Apple, Complaints, Explorer, Finder, iCloud, MacOS, Microsoft, OneDrive, TimeMachine, Windows]
 ---
 
 *A list of bugs, complaints, and growing pains from an old Windows user to a new Mac user.*
