@@ -12,4 +12,4 @@ Everything is on one screen: the EULA, upgrade vs. new instance, the open when f
 
 ![pic](/assets/2016/04/bitvise_installer.png)
 
-Fan*fucking*tastic Bitvise.
+Fan*fucking*tastic [Bitvise](https://www.bitvise.com/).
