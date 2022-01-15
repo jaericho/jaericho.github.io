@@ -6,7 +6,7 @@ categories: [Reviews]
 tags: [Anime, Cowboy Bebop, Netflix, Yoko Kanno]
 ---
 
-
+*A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price.*
 
 Right off the bat I'm going to throw this out there: I never even knew Cowboy Bebop was being made into a live action series until the trailer dropped a few weeks ago, so I missed all the online controversy that surrounded its development. *thank goodness* So because of that, I can offer an unbiased fan's opinion: They did good with making it look like the Bebop universe, but they screwed up the writing that the show sucks. I'm on episode 6 and I can barely get thru it.
 
