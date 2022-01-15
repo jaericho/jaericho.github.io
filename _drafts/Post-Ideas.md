@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Post Ideas"
-date:   2021-09-21 08:00:00 -0600
+title: "Post Ideas"
+date: 2021-09-21 08:00:00 -0600
 categories: [Meta]
 tags: [Blog Ideas]
 draft: true
