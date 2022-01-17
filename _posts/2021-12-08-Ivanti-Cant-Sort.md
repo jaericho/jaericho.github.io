@@ -6,7 +6,7 @@ categories: [Stupid Bugs]
 tags: [Ivanti, Landesk, Sorting, Stupid Bugs]
 ---
 
-Yet another Ivanti bug... [shocked Pikachu meme]
+*Yet another Ivanti bug... [shocked Pikachu meme]*
 
 Ivanti needs to fix the sorting on their console.
 
