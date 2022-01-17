@@ -16,4 +16,5 @@ After some light usage for a few months, here my some of my complaints for MacOS
 * OneDrive can take over all the major places in the users' home directory (Documents, Downloads, Pictures, etc...); however, iCloud Drive just seems content to exist side by side. This makes it very confusing to know where files exist.
 * I had to reboot to fix iCloud Drive not sync'ing.
 * MacOS 12 apparently broke Unraid's TimeMachine hosting capability. I was looking forward to trying that out.
-* *more to come*
+  
+*more to come*
