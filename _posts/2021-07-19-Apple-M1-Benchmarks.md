@@ -3,7 +3,7 @@ layout: post
 title: "Apple M1 + Benchmarks"
 date: 2021-07-27 08:00:00 -0600
 categories: [Hardware]
-tags: [Apple, Benchmark, Handbrake, Intel, M1, MacBook Air]
+tags: [Apple, Benchmark, Handbrake, Intel, M1, MacBook Air, x265]
 ---
 
 This processor is impressive.
