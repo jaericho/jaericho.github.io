@@ -13,8 +13,8 @@ Looks like x265 Medium can *really* increase the speed of encoding versus the Sl
 The results are amazing! The file size is about 10% larger, but the encode time is down 60%. For this round of re-encodes, I'll stick with the M1. This 8 core (4 high perf / 4 efficiency core) processor is handily beating out TWO 10 core / 20 thread processors from just 8 years prior.
 
 || **Apple M1** | **(2x) E5-2680 v2**
-| Run time | 00:16:04 | 00:41:04
-| Avg speed | 38.35 fps | 14.99 fps
+| Encoding time | 00:16:04 | 00:41:04
+| Average speed | 38.35 fps | 14.99 fps
 
 The source was a 25:39 minute episode.
 
