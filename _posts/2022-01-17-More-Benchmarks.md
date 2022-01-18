@@ -8,9 +8,9 @@ tags: [Apple, Benchmark, Handbrake, Intel, M1, MacBook Air, x265]
 
 *How about that? Slow really means slow.*
 
-Looks like x265 Medium can *really* increase the speed of encoding versus the Slow preset. My [previous benchmark]({% post_url 2021-07-19-Apple-M1-Benchmarks %}) had the dual E5-2680v2's beating out the M1 by 30% on the Slow preset. (7.47 vs. 4.69 fps) However, I was getting tired of long encodes and a high electric bill, so I decided to give the Medium preset a try. I've [read](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/) in the past that Medium vs Slow is about a 2 point CRF difference. I lowered the CRF to 21 and set the preset to Medium and did an encode to see what would happen.
+Looks like x265 Medium can *really* increase the speed of encoding versus the Slow preset. My [previous benchmark]({% post_url 2021-07-19-Apple-M1-Benchmarks %}) had the dual E5-2680v2's beating out the M1 by 30% on the Slow preset. (7.47 vs. 4.69 fps) However, I was getting tired of long encodes and a high electric bill, so I decided to give the Medium preset a try. I've [read](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/) in the past that Medium vs Slow is about a 2 point CRF difference, so I lowered the CRF to 21 and set the preset to Medium and did an encode to see what would happen.
 
-The results are amazing. The file size is about 10% larger, but the encode time is down 60%. For this round of encodes, I'll stick with the M1.
+The results are amazing! The file size is about 10% larger, but the encode time is down 60%. For this round of encodes, I'll stick with the M1.
 
 || **Apple M1** | **(2x) E5-2680 v2**
 | Run time | 00:16:04 | 00:41:04
