@@ -23,3 +23,5 @@ Encoder: H.265 10-bit (x265), Framerate: Same as source (variable), Constant Qua
 Video Options: 	Preset: medium, Tune: none, Options: limit-sao:bframes=8:psy-rd=1:aq-mode=3:aq-strength=0.8:deblock=1,1, Profile: auto, Level: auto
 
 For this round of re-encodes, I'll stick with the M1.
+
+*Update: I believe the great performance was caused by the source material being animated. I'm re-encoding a movie now which I know has some very grainy scenes and the fps is fluctuating much more on the M1. (7-25 fps, avg. 11 fps.)*
