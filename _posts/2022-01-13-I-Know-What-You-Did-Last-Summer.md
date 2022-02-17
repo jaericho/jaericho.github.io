@@ -12,7 +12,7 @@ tags: [Amazon, I Know What You Did, Slasher, TV Review]
 
 The premise and setup for the twist weren't *terrible*, but it was a little unbelievable: Twin girls. The first accidentally killed by the second in a tragic hit-and-run. So the second twin assumes the life of the first to cover up her crime. A year later, the killer scrawls an *I know what you did last summer* note and begins knocking off each of the people involved one by one.
 
-I could see the twist coming a mile away: did the first twin really die or is she come back to haunt everyone and get revenge? She did! but the switch happened in the middle of the show. The killed twin survived, and came back to kill the second twin and then pretend to be the second twin pretending to be the first. Confusing? Yes. Worth it? Not really.
+I could see the twist coming a mile away: did the first twin really die or is she come back to haunt everyone and get revenge? She came back! But the switch happened in the middle of the show. So half the show was actually the first twin, pretending to be the second twin, pretending to be the first twin. Confusing? Yes. Worth it? Not really.
 
 There were far too many red herrings that didn't fool me. The island cult. The long lost mom that's still alive. The too-old "chad" that's creeping on pretty co-eds. The dirt poor loner that hangs out with the rich kids. The creepy "witch" living in the woods with a honey fetish. There may have been more, there were so many I don't remember them all.
 
