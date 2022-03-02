@@ -7,8 +7,6 @@ tags: [DCU, Idris Elba, John Cena, Movie Review, Suicide Squad]
 draft: true
 ---
 
-
-
 Not bad, but kind of a mess.
 
 https://www.imdb.com/title/tt6334354/
