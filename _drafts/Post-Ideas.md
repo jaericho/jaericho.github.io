@@ -31,6 +31,14 @@ This was the final command: `openssl rsa -in private-pcks8.pem -out private-pkcs
 
 # CPPM Disk Layout and Licensing Needs Work
 
-CPPM uses a single disk partitioned into two halves. It should be using two disks, each with a single partition for easy expandability.
+## Disk Layouts
 
-CPPM... why even have the platform license if the client licenses is what is really needed. It took me a month to get licensing sorted out to migrate the cluster and the whole time the answer was, "just open a ticket ask to have a license released for cluster migration." Complete B.S.
+Aruba's CPPM uses a single disk partitioned into two halves to install different major versions. This is so it can boot a previous version in case something catastrophic happens. However, the disk of my initial deployment was too small and needed to be expanded. Even though it's a virtual appliance I can't expand the drive and continue. I think it should be using two disks, each with a single partition for easy expandability.
+
+Yes, you should be able to redeploy the appliance easily (cattle, not pets and all that), but it's not \*that\* easy, and a virtual hdd expansion should be more than doable.
+
+## Licensing
+
+Aruba... why even have the CPPM platform license if the client licenses is what is really needed? It took me more than a month to upgrade a CPPM cluster just because  I had to sort out licensing and the entire time the answer was, "...open a ticket with, 'I need to have a license released for a cluster migration." 
+
+Complete B.S. Aruba
