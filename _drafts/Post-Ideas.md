@@ -26,3 +26,11 @@ I have some aruba instant APs that don't like certs using PCKS8. This stackoverf
 <https://stackoverflow.com/questions/2957742/how-to-convert-pkcs8-formatted-pem-private-key-to-the-traditional-format>
 
 This was the final command: `openssl rsa -in private-pcks8.pem -out private-pkcs1.pem`
+
+---
+
+# CPPM Disk Layout and Licensing Needs Work
+
+CPPM uses a single disk partitioned into two halves. It should be using two disks, each with a single partition for easy expandability.
+
+CPPM... why even have the platform license if the client licenses is what is really needed. It took me a month to get licensing sorted out to migrate the cluster and the whole time the answer was, "just open a ticket ask to have a license released for cluster migration." Complete B.S.
