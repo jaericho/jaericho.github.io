@@ -16,6 +16,6 @@ Yes, you should be able to redeploy the appliance easily *(cattle, not pets and 
 
 ## Licensing
 
-Aruba... why even have the CPPM platform license if the client licenses is what is really needed? It took me more than a month to upgrade a CPPM cluster just because Customer Support could not convey to me, "...open a ticket with, 'I need to have a license released for a cluster migration.'" 
+Aruba... why even have the CPPM platform license if the client licenses is what is really needed? It took me more than a month to upgrade a CPPM cluster just because Customer Support could not convey to me, "...open a ticket with, *'I need to have a license released for a cluster migration.'*" 
 
-Complete B.S. Aruba
+Thanks Aruba /s
