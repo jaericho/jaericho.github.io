@@ -29,7 +29,7 @@ This was the final command: `openssl rsa -in private-pcks8.pem -out private-pkcs
 
 ---
 
-# CPPM Disk Layout and Licensing Needs Work
+# CPPM Works Well But...
 
 ## Disk Layouts
 
