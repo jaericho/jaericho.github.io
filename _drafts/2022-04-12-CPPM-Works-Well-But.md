@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Aruba, Clearpass, CPPM, Licensing, Customer Support, VMware]
 ---
 
-*I don't mind CPPM, it works well and I've never had major problems, but Aruba, come on...*
+*I don't mind CPPM it works well and I've never had major problems, but Aruba, come on...*
 
 ## Disk Layouts
 
