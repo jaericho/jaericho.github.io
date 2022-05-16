@@ -68,6 +68,7 @@ function Select-RoboSummary {
 
 function Get-NiceFilesize {
     param (
+        [parameter(Mandatory=$true)]
         [uint64]$ByteCount
     )
         
