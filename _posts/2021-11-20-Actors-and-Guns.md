@@ -8,8 +8,8 @@ tags: [Breitbart, Hollywood]
 
 The whole [Alec Baldwin shooting a crew member](https://www.breitbart.com/entertainment/2021/10/21/alec-baldwin-accidentally-shot-and-killed-female-cinematographer-injured-director-on-movie-set/) on a movie set has me thinking...
 
-How do actors handle the cognitive dissonance of gun handling in Hollywood? Every normal person going through firearm training is told to never point it at another person, but actors are not only told to point a gun at someone, but also pull the trigger, and then expect different result versus everyone else in the world.
+How do actors handle the cognitive dissonance of gun handling in Hollywood? Every normal person going through firearm training is told to never point it at another person, but actors are not only told to point a gun at someone, but also pull the trigger, and then expect a different result from everyone else in the world.
 
-When normal people pull the trigger they know that something bad will happen. But actors (on set) are told to believe the opposite.
+When normal people pull the trigger they *(should)* know that something bad will happen, but actors (on set) are told to believe the opposite.
 
-It seems to be cognitive dissonance. How do actors handle it? If they handle it at all.
+It seems to be cognitive dissonance to me. How do actors handle it *(if they handle it at all)*?
