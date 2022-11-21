@@ -35,10 +35,8 @@ I was experiencing a bad bug in Office 2016 that would make the calendar in Outl
 
 # Cert upgrades in windows
 
-[https://dirteam.com/sander/2022/09/14/todo-upgrade-the-certificates-for-your-windows-server-2016-based-domain-controllers-and-up-to-enable-windows-hello-for-business-hybrid-scenarios/]
+How to do cert upgrades in [Windows](https://dirteam.com/sander/2022/09/14/todo-upgrade-the-certificates-for-your-windows-server-2016-based-domain-controllers-and-up-to-enable-windows-hello-for-business-hybrid-scenarios/)
 
 # Inconsistent Powershell
 
-Get-networkfirewallprofile isn't accurate.
-
-[https://stackoverflow.com/questions/31058090/windows-firewall-state-different-between-powershell-output-and-gui]
+Get-networkfirewallprofile isn't [accurate](https://stackoverflow.com/questions/31058090/windows-firewall-state-different-between-powershell-output-and-gui)
