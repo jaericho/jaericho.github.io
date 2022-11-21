@@ -8,14 +8,37 @@ However, I wonder if PowerCLI would have done it too: https://www.reddit.com/r/v
 
 It appears that Ivanti isn't smart enough to make sure it's scheduled AV scans don't overlap each other.
 
-# Python Benchmarks with the M1
-
-A friend of mine is taking some sort of data analytics class and he's learning python. I'm not sure what is all involved with it. But he needed an upgrade from his i5-4690 4c/4t machine, so he gave me a call and my kneejerk reaction was to point him towards the 5600x. A solid, modern, 6c/12t CPU that will get him a lot of bang for his buck. And it did give a great performance lift. One of his jobs went from 7 hours to 3.5 hours of processing time. Up next he's going to water cool it, and do a slight overclock to squeeze out a bit better performance, but so far he is enjoying the long delayed upgrade.
-
-Should I have told him my fanless Macbook Air with the M1 did it in 2.75 hours?
-
 # Windows 11
 
 So far, i'm not hating Windows 11. After I upgraded at work, Win11 cleared up several bugs of mine and at least *feels* faster than Win10.
 
 I was experiencing a bad bug in Office 2016 that would make the calendar in Outlook very slow and after an in-place upgrade to Win11 the issue is gone.
+
+# CyberArk Needs Work
+
+## EPM
+
+* When pasting a definition, add it to the top of the list just like when a new definition is added.
+* Can't move definitions to another policy easily. Copy/Paste one at a time doesn't cut it.
+* Can't wildcard search names of computers. (i.e. "2*")
+* at least they added the checkbox to the parameters screen
+
+## PAM
+
+* Editing a device should lose your place in the Accounts View. How many times do I have to retype my search criteria?
+* Cisco Router via SSH doesn't support [Secret](https://cyberark-customers.force.com/s/article/00002207) out of the box. And CyberArk support doesn't seem to know anything about it. 
+* MSSQLManagementStudioDatabaseAuthenticationDispatcher.exe is not added to AppLocker by default, but MSSQLManagementStudioWindowsAuthenticationDispatcher.exe is.
+* MSSQL setup instructions don't mention that the ODBC driver is necessary.
+* PAM needs a much easier way to update the Notes field.
+* Needs a way to mass edit Safe members and their permissions.
+* PGU needs to support special characters in passwords.
+
+# Cert upgrades in windows
+
+[https://dirteam.com/sander/2022/09/14/todo-upgrade-the-certificates-for-your-windows-server-2016-based-domain-controllers-and-up-to-enable-windows-hello-for-business-hybrid-scenarios/]
+
+# Inconsistent Powershell
+
+Get-networkfirewallprofile isn't accurate.
+
+[https://stackoverflow.com/questions/31058090/windows-firewall-state-different-between-powershell-output-and-gui]
