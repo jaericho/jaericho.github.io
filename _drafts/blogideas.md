@@ -31,7 +31,9 @@ I was experiencing a bad bug in Office 2016 that would make the calendar in Outl
 * MSSQL setup instructions don't mention that the ODBC driver is necessary.
 * PAM needs a much easier way to update the Notes field.
 * Needs a way to mass edit Safe members and their permissions.
-* PGU needs to support special characters in passwords.
+* PGU needs to support special characters in passwords. (but this might be a selenium issue. I don't know.)
+
+They do finally have their own client so using RDCMan isn't required. It's ugly as sin but it does support SAML, and you only need to login once which is a big win.
 
 # Cert upgrades in windows
 
