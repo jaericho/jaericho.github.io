@@ -21,6 +21,7 @@ I was experiencing a bad bug in Office 2016 that would make the calendar in Outl
 * When pasting a definition, add it to the top of the list just like when a new definition is added.
 * Can't move definitions to another policy easily. Copy/Paste one at a time doesn't cut it.
 * Can't wildcard search names of computers. (i.e. "2*")
+* EPM dashboard is stuck on DST.
 * at least they added the checkbox to the parameters screen
 
 ## PAM
