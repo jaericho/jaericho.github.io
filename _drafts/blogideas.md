@@ -43,3 +43,7 @@ How to do cert upgrades in [Windows](https://dirteam.com/sander/2022/09/14/todo-
 # Inconsistent Powershell
 
 Get-networkfirewallprofile isn't [accurate](https://stackoverflow.com/questions/31058090/windows-firewall-state-different-between-powershell-output-and-gui)
+
+# Handbrake, Subtitle-Default, and JSON
+
+You can use SubtitleDefault with Handbrake's .json config files.
