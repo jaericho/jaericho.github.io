@@ -4,9 +4,6 @@ After receiving and error of "invalid operation for device '0'" I was able to in
 
 However, I wonder if PowerCLI would have done it too: https://www.reddit.com/r/vmware/comments/b8q9s4/workaround_for_invalid_operation_for_device_0/
 
-# Ivanti and AV scanning
-
-It appears that Ivanti isn't smart enough to make sure it's scheduled AV scans don't overlap each other.
 
 # Windows 11
 
@@ -22,7 +19,7 @@ I was experiencing a bad bug in Office 2016 that would make the calendar in Outl
 * Can't move definitions to another policy easily. Copy/Paste one at a time doesn't cut it.
 * Can't wildcard search names of computers. (i.e. "2*")
 * EPM dashboard is stuck on DST.
-* at least they added the checkbox to the parameters screen
+* At least they added the checkbox to the parameters screen.
 
 ## PAM
 
