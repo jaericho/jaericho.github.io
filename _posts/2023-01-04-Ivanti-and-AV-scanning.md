@@ -9,3 +9,5 @@ tags: [Antivirus, Ivanti, Landesk, Stupid Bugs]
 It's been a while since I updated this blog, so let's start the new year off right.
 
 It appears that Ivanti isn't smart enough to make sure it's scheduled AV scans don't overlap each other and will gladly run a full scan and quick scan at the same time.
+
+![Ivanti AV bug](/assets/2023/01/Ivanti-AV-Bug-two-scheduled-scans.png)
