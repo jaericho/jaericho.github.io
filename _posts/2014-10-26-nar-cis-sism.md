@@ -8,7 +8,7 @@ tags: [Dating, Feminism, Game]
 
 I was out getting a burger with a buddy of mine when he told me about his latest date.
 
-Setup via Match.com he took a divorced mother to an expensive restaurant of her choice. They later skipped over to a semi-upscale grocery store to pick up desert from the bakery with her employee discount. She interrogated my buddy all night about his employment and family plans. Then proceeded to talk about her ex for a substantial amount of the time. Luckily, my friend was adept at exiting from the situation and when she assumed there was to be a second date and asked when it would be, he replied “I'll text you tomorrow,” and then he converted a goodnight kiss into a side-hug.
+Setup via Match.com he took a divorced mother to an expensive restaurant of her choice. They later skipped over to a semi-upscale grocery store to pick up desert from the bakery with her employee discount. She interrogated my buddy all night about his employment and family plans. Then proceeded to talk about her ex for a substantial amount of the time. Luckily, my friend was adept at exiting from the situation and when she assumed there was to be a second date and asked when it would be, he replied "I'll text you tomorrow," and then he converted a goodnight kiss into a side-hug.
 
 I don't often go on dates. It's not my thing, but I've been told many stories of scenarios similar to this and I must ask: What is wrong with women today? Don't they know how to date at all? Do they not know that there is more to a date than themselves and their little bubbles?
 
@@ -42,7 +42,7 @@ You see an online dating profile with bad photos. The words, however, are well p
 
 This doesn't mean changing your standards regarding the men you date. It only means noticing the positive elements in men. That's the exercise. Simple, no?
 
-Do this for a week. After the week passes, ask yourself this question: “Where are all the good men?”
+Do this for a week. After the week passes, ask yourself this question: "Where are all the good men?"
 
 Guess what, you just spent a week seeing them with your own eyes.
 
