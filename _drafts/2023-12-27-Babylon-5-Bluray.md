@@ -40,8 +40,8 @@ We finally have Babylon 5 on blu-ray and it's been a long time coming. HBO upsca
 
 * The character design is terrible. Objectively horrible. I couldn't help but be distracted and I had a difficult time getting into the movie because of it. I couldn't tell Lochley apart from Ivanova.
 * Time-travel is never my favorite.
-* Why are the Minbari worried about pollution from a power generator for a city? It makes no sense, if Mankind has fusion power, the Minbari certainly have it too.
-* Some cringy dialog.
+* Why are the Minbari worried about pollution from a power generator for a city? It makes no sense, the Minbari have clean energy sources.
+* Some cringey dialog.
 
 # Sad:
 
