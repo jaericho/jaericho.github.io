@@ -6,7 +6,7 @@ categories: [Stupid Bugs]
 tags: [Microsoft, Outlook, Stupid Bugs, Teams]
 ---
 
-You'd think that after 2020, Microsoft Teams would get better TLC.
+*You'd think that after 2020, Microsoft Teams would get better TLC.*
 
 I happened to open Task Manager today and I saw >80% utilization. Using Resource Monitor I tracked it down to the OUTLOOK.EXE process. It was re-creating and writing a .db-journal file in the temp directory constantly.
 

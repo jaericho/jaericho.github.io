@@ -6,7 +6,7 @@ categories: [Stupid Bugs]
 tags: [Plex, Skip Intro, Transcoding, Windows]
 ---
 
-Make sure your custom transcoding directory includes the backslash.
+*Make sure your custom transcoding directory includes the backslash.*
 
 I run [Plex](https://plex.tv) in a Windows VM because Windows is easier for me to troubleshoot, and I'm too lazy to switch it to Linux or Docker. Also, I created a [ramdrive](https://www.tenforums.com/tutorials/174094-how-create-ram-disk-imdisk-windows-10-a.html) so I could offload the transcoding directory off of the NAS. It may not help much, but it will keep a little bit of I/O off the NAS since it's now SSDs instead of HDDs.
 

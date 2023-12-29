@@ -6,6 +6,6 @@ categories: [Software]
 tags: [App, Bloatware, Mint]
 ---
 
-Seriously Mint, cut back on the carbs.
+*Seriously Mint, cut back on the carbs.*
 
 ![Fat slob.](/assets/2021/08/mint-needs-a-diet.png)

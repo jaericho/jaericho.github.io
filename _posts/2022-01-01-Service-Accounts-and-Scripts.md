@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Active Directory, Passwords, Scripting, Service Accounts, Windows]
 ---
 
-Sometimes a fresh perspective is needed.
+*Sometimes a fresh perspective is needed.*
 
 A developer came to me to discuss service accounts. He was trying to do it properly and not reuse service accounts, but this situation was a very small and minor script generated a tiny file and sent it to a single user. It could have been a scheduled batch script on the user's machine, but there would have been problems with that approach as well.
 

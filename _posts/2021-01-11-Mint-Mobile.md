@@ -6,7 +6,7 @@ categories: [Reviews]
 tags: [AT&T, Mint Mobile, Wi-Fi Calling]
 ---
 
-I finally dumped AT&T.
+*I finally dumped AT&T.*
 
 I finally switched off [AT&T](https://www.att.com) and onto an [MVNO](https://infogalactic.com/info/Mobile_virtual_network_operator). One of those smaller mobile companies that resell one of the Big Three's cellular service. I chose [Mint Mobile](https://www.mintmobile.com/) and they resell [T-Mobile's](https://www.tmobile.com) airwaves.
 

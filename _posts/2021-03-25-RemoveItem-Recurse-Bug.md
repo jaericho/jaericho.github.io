@@ -6,7 +6,7 @@ categories: [Stupid Bugs]
 tags: [Microsoft, RemoveItem, Powershell]
 ---
 
-tl;dr: There is no solution and it will probably never be fixed.
+*tl;dr: There is no solution and it will probably never be fixed.*
 
 Why `Remove-Item -Recurse` doesn't work 100% of the time on Windows.
 

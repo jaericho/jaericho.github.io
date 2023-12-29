@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Microsoft, Performance, Powershell, Robocopy]
 ---
 
-Robocopy is still amazing.
+*Robocopy is still amazing.*
 
 Robocopy is one of the best performing ways to copy, sync, and delete directories in Windows, but it can also be used to count directories. It takes a bit of wrangling to use in Powershell, but the end result is quite amazing.
 

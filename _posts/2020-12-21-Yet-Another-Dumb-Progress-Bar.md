@@ -6,6 +6,6 @@ categories: [Stupid Bugs]
 tags: [Ivanti, Progress Bars]
 ---
 
-Progress bars are already nigh-worthless, but this one is quite dumb.
+*Progress bars are already nigh-worthless, but this one is quite dumb.*
 
 ![Dumb, inaccurate progress bar](/assets/2020/12/dumb-progress-bar.png){:border="1px"}

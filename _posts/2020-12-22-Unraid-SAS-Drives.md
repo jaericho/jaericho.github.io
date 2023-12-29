@@ -6,7 +6,7 @@ categories: [Software]
 tags: [HDD, Linux, LSI SAS2008, SAS, Unraid]
 ---
 
-I was gifted with many 4TB SAS 7.2k drives, now it's time to put them to work.
+*I was gifted with many 4TB SAS 7.2k drives, now it's time to put them to work.*
 
 I had an interesting issue the other day when building my new Unraid NAS. (Using [this great guide](https://forums.serverbuilds.net/t/guide-nas-killer-4-0-fast-quiet-power-efficient-and-flexible-starting-at-125/667) from [ServerBuilds.net](https://serverbuilds.net))
 

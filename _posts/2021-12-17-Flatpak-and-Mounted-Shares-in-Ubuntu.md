@@ -6,7 +6,7 @@ categories: [Linux]
 tags: [CLI, Flatpak, Handbrake, Linux, Powershell, Scripting, Ubuntu]
 ---
 
-Flatpak apps can't access where Ubuntu mounts network shares by default.
+*Flatpak apps can't access where Ubuntu mounts network shares by default.*
 
 This one took me a while to figure out, but I think I understand what is going on. Ubuntu's file explorer mounts SMB shares under `/run/user/1000/gvfs/...`, specifically my handbrake SMB share is mounted under `/run/user/1000/gvfs/smb-share:server=servername,share=handbrake/` and that links to `/home/username/handbrake/`, but [Flatpak](https://docs.flatpak.org/en/latest/index.html) [blacklists filesystem access](https://docs.flatpak.org/en/latest/sandbox-permissions.html?highlight=blacklist#filesystem-access) to `/run`. The fix was to mount the network share via the CLI instead of Nautilus.
 

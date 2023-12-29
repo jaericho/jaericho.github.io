@@ -6,7 +6,7 @@ categories: [Hardware]
 tags: [Apple, Benchmark, Handbrake, Intel, M1, MacBook Air, x265]
 ---
 
-This processor is impressive.
+*This processor is impressive.*
 
 After jumping in to [test a Mac]({% post_url 2021-05-14-First-Mac-in-a-long-time %}) for my parents, I finally gave in an bought a new MacBook Air with the new [M1 processor](https://infogalactic.com/info/Apple_M1).
 

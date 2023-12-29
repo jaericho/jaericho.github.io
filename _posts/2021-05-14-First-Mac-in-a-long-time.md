@@ -6,7 +6,7 @@ categories: [Hardware]
 tags: [Apple, MacBook Pro, MacOS]
 ---
 
-My first attempt at moving to the MacOS platform.
+*My first attempt at moving to the MacOS platform.*
 
 The last time I used a Mac was back in the early OSX days with a white iBook. Now, I'm using a coworkers old MacBook Pro (Late 2013). It has a dual core i5 4th Gen cpu, a 13" screen, 8GB of memory, and 256GB of storage. It's a well kept machine. The screen and keyboard are still good condition, the battery is decent for a seven year old battery, and it's running the latest MacOS, [Big Sur](https://www.apple.com/macos/big-sur/). This is the oldest model to be supported.
 

@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Docker, Linux, NPM]
 ---
 
-I keep forgetting how to upgrade Docker containers because I use them so infrequently.
+*I keep forgetting how to upgrade Docker containers because I use them so infrequently.*
 
 Here are simple commands to upgrade the (very slick) [nginx-proxy-manager](https://nginxproxymanager.com/) container.
 

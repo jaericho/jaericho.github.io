@@ -6,7 +6,7 @@ categories: [Stupid Bugs]
 tags: [ESXi, Stupid Bugs, vmware]
 ---
 
-You enabled the datastore swap but still getting an out of space error.
+*You enabled the datastore swap but still getting an out of space error.*
 
 The [VMware ESXi Patch Tracker](https://esxi-patches.v-front.de/ESXi-6.7.0.html) is an amazing website. It makes patching non-vcenter connected esxi hosts very simple...except when it comes to vmware bugs.
 

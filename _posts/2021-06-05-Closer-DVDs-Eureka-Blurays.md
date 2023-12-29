@@ -6,7 +6,7 @@ categories: [Reviews]
 tags: [Blu-ray, DVD, Eureka, The Closer, TV Reviews]
 ---
 
-Whomever authored the DVD Box Set for The Closer should be punished.
+*Whomever authored the DVD Box Set for The Closer should be punished.*
 
 ## [The Closer](https://www.imdb.com/title/tt0458253/)
 
