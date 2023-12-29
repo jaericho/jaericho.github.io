@@ -27,16 +27,25 @@ We finally have Babylon 5 on blu-ray and it's been a long time coming. HBO upsca
 
 # Babylon 5: The Road Home
 
-[!B5 The Road Home Poster](/assets/2023/12/b5-the-road-home-poster.webp){:.poster}This animated movie takes place after Sheridan leaves B5 to head up the Interstellar Alliance on Minbar.
+[!B5 The Road Home Poster](/assets/2023/12/b5-the-road-home-poster.webp){:.poster}This animated movie takes place after Sheridan leaves B5 to head up the Interstellar Alliance on Minbar. He inadvertantly jumping back and forth in the timeline and alternate dimensions. I don't know how I feel about this one. On one hand, I want more B5 and it genuinely has good moments. On the other, this just isn't up to the same standards. Some of the dialog is cringey and sometimes doesn't fit with the characters.
 
 # Pros:
 
 * More B5!
+* Some moments are pretty good.
+* Some of the funny dialog lands well.
+* Peter Jurasik as Londo.
 
 # Cons:
 
-* The animation is terrible. Objectively horrible. Like, really, really bad. I couldn't help but be distracted and I had a difficult time getting into the movie.
+* The character design is terrible. Objectively horrible. I couldn't help but be distracted and I had a difficult time getting into the movie because of it. I couldn't tell Lochley apart from Ivanova.
+* Time-travel is never my favorite.
+* Why are the Minbari worried about pollution from a power generator for a city? It makes no sense, if Mankind has fusion power, the Minbari certainly have it too.
+* Some cringy dialog.
 
 # Sad:
 
-* Having so many of the original cast gone: (Biggs)[https://www.imdb.com/name/nm0081863/], (Conaway)[https://www.imdb.com/name/nm0001063/], (Doyle)[https://www.imdb.com/name/nm0236381/], (Furlan)[https://www.imdb.com/name/nm0001245/], (Katsulas)[https://www.imdb.com/name/nm0441537/], (O'Hare)[https://www.imdb.com/name/nm0641365/] RIP everyone.
+* Having so many of the original cast gone: 
+<!-- (Biggs)[https://www.imdb.com/name/nm0081863/], (Conaway)[https://www.imdb.com/name/nm0001063/], (Doyle)[https://www.imdb.com/name/nm0236381/], (Furlan)[https://www.imdb.com/name/nm0001245/], (Katsulas)[https://www.imdb.com/name/nm0441537/], (O'Hare)[https://www.imdb.com/name/nm0641365/] -->
+
+[!In Memoriam](/assets/2023/12/b5-the-road-home-in-memoriam.webp){.center}
