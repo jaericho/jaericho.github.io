@@ -6,7 +6,7 @@ categories: [Reviews]
 tags: [Big Bang Theory, TV Review]
 ---
 
-My list of essential episodes of The Big Bang Theory.
+*My list of essential episodes of The Big Bang Theory.*
 
 # The Big Bang Theory
 

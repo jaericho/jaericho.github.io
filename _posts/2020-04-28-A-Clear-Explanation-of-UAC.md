@@ -6,7 +6,7 @@ categories: [Windows]
 tags: [Administrator, Security, UAC, Windows]
 ---
 
-[This](https://serverfault.com/a/749271) is clearest and simplest explanation of what UAC does to admin accounts that I have read.
+*[This](https://serverfault.com/a/749271) is clearest and simplest explanation of what UAC does to admin accounts that I have read.*
 
 Kudos to the [author](https://serverfault.com/users/6352/massimo).
 

@@ -6,7 +6,7 @@ categories: [Powershell]
 tags: [email, Outlook, scripting]
 ---
 
-For an inline image in an email, use a lowercase "cid:" when specifying the content-id.
+*For an inline image in an email, use a lowercase "cid:" when specifying the content-id.*
 
 I had a heck of a time trying to get an inline image to show in Outlook when sending an email with Powershell. It should show in other email clients like the iPhone Mail app, but not in Outlook 2016.
 

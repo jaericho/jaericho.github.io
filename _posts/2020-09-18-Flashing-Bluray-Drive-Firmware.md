@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Blu-ray, Firmware, MakeMKV, UHD, Upgrade]
 ---
 
-MakeMKV is a great program, but the forum guides need some cleanup.
+*MakeMKV is a great program, but the forum guides need some cleanup.*
 
 I bought an LG UHD Blu-ray drive to rip 4K discs, but you have to flash the firmware in order to make it work.
 

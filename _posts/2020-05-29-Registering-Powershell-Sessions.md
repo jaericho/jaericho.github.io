@@ -6,7 +6,7 @@ categories: [Powershell]
 tags: [Microsoft, Powershell, Windows]
 ---
 
-Invoke-Command was giving me a strange error.
+*Invoke-Command was giving me a strange error.*
 
 When trying to use `Invoke-Command` against some workstations, I was getting this error message:
 

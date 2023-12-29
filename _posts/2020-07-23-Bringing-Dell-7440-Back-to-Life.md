@@ -6,7 +6,7 @@ categories: [Hardware]
 tags: [BIOS, Dell, laptop, Latitude, power]
 ---
 
-Hold the power button and plug in the laptop without the battery.
+*Hold the power button and plug in the laptop without the battery.*
 
 I have an older [Dell Latitude E7440](https://www.dell.com/support/home/en-us/product-support/product/latitude-e7440-ultrabook/overview) ultrabook which I am very fond of. There are better laptops out there, smaller and faster, but I just really liked this laptop.
 

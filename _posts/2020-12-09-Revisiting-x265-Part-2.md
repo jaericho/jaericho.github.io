@@ -6,7 +6,7 @@ categories: [Software]
 tags: [Encoding, Handbrake, x265]
 ---
 
-Deinterlace vs Detelecine. FIGHT!
+*Deinterlace vs Detelecine. FIGHT!*
 
 First, a hat tip to Kokomins. I've found [his guide](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/) for (re)encoding anime to be very useful.
 
