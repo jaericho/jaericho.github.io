@@ -6,8 +6,8 @@ categories: [Reviews]
 tags: [Lucy Lawless, My Life is Murder, TV Review]
 ---
 
-Season 2 went downhill, rapidly.
+*Season 2 went downhill, rapidly.*
 
-The first season of [My Life is Murder](https://www.imdb.com/title/tt10584446/) with [Lucy Lawless](https://www.imdb.com/name/nm0005128/) was pretty entertaining, but season 2 took a turn for the worse. Every episode has some verbal troll about feminism, gays, transgenders, or climate change. The characters are on a continuous feminist power trip and constantly denigrating men. I didn't think that Lucy Lawless's character was terrible the first season, but perhaps I missing something. This season her character is a terrible person. She is constantly mean and angry.
+The first season of [My Life is Murder](https://www.imdb.com/title/tt10584446/) with [Lucy Lawless](https://www.imdb.com/name/nm0005128/) was pretty entertaining, but season 2 took a turn for the worse. Every episode has some verbal troll about feminism, gays, transgenders, or climate change. The characters are on a never-ending feminist power trip and constantly denigrating men. I didn't think that Lucy Lawless's character was terrible the first season, but perhaps I missing something. This season, her character is mean, angry, and very unlikable.
 
-I liked the first season, but it's too bad this season went downhill. Lawless is a good actor and I enjoy watching her work, but not this show. I'll skip season three.
+I liked the first season, so it's too bad this season went downhill. Lawless is a good actress and I enjoy watching her work, but this show, I'll skip season three.
