@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Babylon 5 (blu-ray) and B5: The Road Home"
-date: 2023-12-27 08:00:00 -0600
+date: 2023-12-28 08:00:00 -0600
 categories: [Reviews]
 tags: [Anime, Babylon 5, Blu-ray, TV Review]
 ---
+
+Babylon 5 is finally on bluray and there's a new animated movie.
 
 # Babylon 5 on Blu-ray
 
