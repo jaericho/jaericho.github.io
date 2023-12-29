@@ -6,7 +6,7 @@ categories: [Hardware]
 tags: [5506, ASA, Cisco, Firmware]
 ---
 
-It's been a while since I had to use `rommon`.
+*It's been a while since I had to use `rommon`.*
 
 This site has a good [write up](https://www.binaryroyale.com/2013/04/resetting-a-cisco-asa-5510-to-factory-defaults/) on resetting a Cisco ASA. I used it on an ASA5506.
 
