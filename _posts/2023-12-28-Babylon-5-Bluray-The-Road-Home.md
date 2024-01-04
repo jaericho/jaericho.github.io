@@ -33,7 +33,7 @@ The first and last discs for each season have 5 episodes on them each at ~8 GB, 
 
 ![B5 The Road Home Poster](/assets/2023/12/b5-the-road-home-poster.webp){:.poster}This animated movie takes place after Sheridan leaves B5 to head up the Interstellar Alliance on Minbar. An accident causes him to jump back and forth in time and to alternate dimensions.
 
-I don't know how I feel about this one. On one hand, I want more B5 and it genuinely has good moments. On the other, this just isn't up to the same standards. Some of the dialog is cringey and sometimes doesn't fit with the characters. The animation was smooth and I even liked the new jumpgate style, but the character design is terrible. I difficultly telling Lochley from Ivanova because they looked so similar. The story wasn't terrible but I thought it was a little basic.
+I don't know how I feel about this one. On one hand, I want more B5 and it genuinely has good moments. On the other, this just isn't up to the same standards. Some of the dialog is cringy and sometimes doesn't fit with the characters. The animation was smooth and I even liked the new jumpgate style, but the character design is terrible to the point where I had difficultly telling Lochley apart from Ivanova because they looked so similar. The story wasn't terrible but I thought it was a little basic.
 
 But as always, [Peter Jurasik](https://www.imdb.com/name/nm0432867/) steals every scene when he plays Londo.
 
@@ -49,7 +49,7 @@ But as always, [Peter Jurasik](https://www.imdb.com/name/nm0432867/) steals ever
 * The character design is terrible. Don't let the cover art fool you.
 * Time-travel is never my favorite plot device.
 * Why are the Minbari worried about pollution from a power generator for a city? It makes no sense, the Minbari have clean energy sources.
-* Some cringey dialog moments.
+* Some cringy dialog moments.
 
 ## Sad:
 
