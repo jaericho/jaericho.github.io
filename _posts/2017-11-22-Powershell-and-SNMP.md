@@ -8,7 +8,7 @@ tags: [SNMP, Windows]
 
 I’ve been trying to get all the snmp on my servers fixed and it’s been kind of a pain. Powershell doesn’t have any good cmdlets, but I’ve found a couple examples. [This](https://sysadminplus.blogspot.com/2017/05/find-all-snmp-settings-of-windows.html) is very nice script, but doesn’t work on remote machines unless you do PS Remoting. (I need to bone up on my PS remoting now.)
 
-I ended up using the following for the base of a script. I need only a very simple script so this looks for a specific registry key which will be the name of the CommunityString. Since mine is ‘Public’, I’m just looking for that.
+I ended up using the following for the base of a script. I need only a very simple script so this looks for a specific registry key which will be the name of the CommunityString.
 
 {% highlight posh %}
 function Get-RemoteRegistryValue ([string]$ComputerName, [string]$KeyPath, [string]$Value) {
@@ -21,5 +21,5 @@ function Get-RemoteRegistryValue ([string]$ComputerName, [string]$KeyPath, [stri
     }
     return $key.GetValue($Value)
 }
-Get-RemoteRegistryValue -ComputerName $server -KeyPath 'SYSTEM\CurrentControlSet\Services\SNMP\Parameters\ValidCommunities' -Value 'Public'
+Get-RemoteRegistryValue -ComputerName $server -KeyPath 'SYSTEM\CurrentControlSet\Services\SNMP\Parameters\ValidCommunities' -Value 'YourValueHere'
 {% endhighlight %}
