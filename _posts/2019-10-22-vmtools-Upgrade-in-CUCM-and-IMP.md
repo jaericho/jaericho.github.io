@@ -5,7 +5,8 @@ date: 2019-10-22 20:33:36 -0600
 categories: [Cisco, VMware]
 tags: [vmware tools]
 ---
-vmtools has a simple upgrade in Cisco’s CUCM and IM & Presence.
+
+*vmtools has a simple upgrade in Cisco’s CUCM and IM & Presence.*
 
 1. Start the vmtools guest install in interactive mode.
 1. `utils os secure permissive`
