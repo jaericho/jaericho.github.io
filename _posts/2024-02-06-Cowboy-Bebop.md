@@ -14,7 +14,7 @@ Right off the bat I'm going to throw this out there: I never even knew Cowboy Be
 
 I didn't even know there was controversy surrounding it and at this point I don't even want to know what it was. The Critical Drinker has a video about some of it.
 
-The aesthetics of the show aren't bad. They kept the design of the ships, gates, the general feel of the shittiness of the universe and it kinda worked. But they made the show rated R and I don't think they should have gone that route. The writers should have stuck with PG13 instead.
+The aesthetics of the show aren't bad. They kept the design of the ships, gates, the general feel of the shittiness of the universe and it kinda worked. However, they made this an R-rated show and I don't think they should have gone that route. The writers should have stuck with PG13 instead.
 
 The music is great because it's Yoko Kanno. Honestly, if she phoned it in, I'd probably still like it. 
 
