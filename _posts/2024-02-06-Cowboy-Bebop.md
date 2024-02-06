@@ -10,7 +10,7 @@ tags: [Anime, Cowboy Bebop, Netflix, Yoko Kanno]
 
 *Written: 2021-12-16*
 
-Right off the bat I'm going to throw this out there: I never even knew Cowboy Bebop was being made into a live action series until the trailer dropped a few weeks ago, so I missed all the online controversy that surrounded its development. *thank goodness* So because of that, I can offer an unbiased fan's opinion: They did good with making it look like the Bebop universe, but they screwed up the writing and for that the show sucks. I'm on episode 6 and I can barely get thru it.
+![](/assets/2024/02/cowboy-bebop-poster.jpg){:.poster}Right off the bat I'm going to throw this out there: I never even knew Cowboy Bebop was being made into a live action series until the trailer dropped a few weeks ago, so I missed all the online controversy that surrounded its development. *thank goodness* So because of that, I can offer an unbiased fan's opinion: They did good with making it look like the Bebop universe, but they screwed up the writing and for that the show sucks. I'm on episode 6 and I can barely get thru it.
 
 I didn't even know there was controversy surrounding it and at this point I don't even want to know what it was. The Critical Drinker has a video about some of it.
 
