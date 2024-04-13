@@ -13,8 +13,10 @@ I had a dozen Cisco 3560 switches I needed to wipe, but I couldn’t give the in
 1. Let go of the button and the switch will reboot with a blank config. The original configs will be renamed and backed up on flash.
 1. Skip the Initial Configuration dialog then run the regular commands to wipe the switch.
 
-    Switch# write erase
-    Switch# delete flash:vlan.txt.renamed
-    Switch# reload
+```
+Switch# write erase
+Switch# delete flash:vlan.txt.renamed
+Switch# reload
+```
 
 You’re done.
