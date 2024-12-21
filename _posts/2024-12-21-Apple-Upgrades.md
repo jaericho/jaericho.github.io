@@ -18,4 +18,4 @@ In the meantime, I might have deleted the Yosemite (10.10) Recovery Mode when I 
 
 So now, I'm installing Sierra, and hopefully in half an hour I'll be able to install Catalina, the last macOS that will run on this Mac Mini.
 
-Everyday I inch closer and closer to running linux which I'm sure will be fine (sarcasm) because I've had such [great]({% post_url 2015-12-30-WTF-is-it-with-Linux %}) [luck]({% post_url 2015-12-30-WTF-is-it-with-Linux-Part-2 %}) [running](2021-12-17-Flatpak-and-Mounted-Shares-in-Ubuntu) that.
+Everyday I inch closer and closer to running linux which I'm sure will be fine (sarcasm) because I've had such [great]({% post_url 2015-12-30-WTF-is-it-with-Linux %}) [luck]({% post_url 2020-05-12-WTF-is-it-with-Linux-Part-2 %}) [running](2021-12-17-Flatpak-and-Mounted-Shares-in-Ubuntu) that.
