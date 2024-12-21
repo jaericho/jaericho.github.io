@@ -14,8 +14,8 @@ The Mac Mini was running Yosemite (10.10), but when running in Recovery Mode I c
 
 "So let's make a bood disk", I said. Silly me, Apple doesn't make it easy to create a boot disk. You need a Mac, and not a new Mac like your M1 Air. Not because you can't create a boot disks on new Macs. No, you need an old Mac because you can't obtain the new OS install file from the App Store unless it's compatible with the Mac you're downloading it on.
 
-In the meantime, I might have deleted the Yosemite (10.10) Recovery Mode when I formatted the HDD because I ended up the Mountain Lion (10.8) Recovery mode the next time I booted up. I'm not sure what I did, but at least now I was able to reinstall Mountain Lion (10.8) and then use a Windows machine to download the Sierra (10.12) installer from [Apple](https://support.apple.com/en-us/102662).
+In the meantime, I might have deleted the Yosemite (10.10) Recovery Mode when I formatted the HDD because I ended up the Mountain Lion (10.8) Recovery mode the next time I booted up. I'm not sure what I did, but at least now I was able to reinstall Mountain Lion (10.8) and then use my Windows machine to download the Sierra (10.12) installer because Safari couldn't display the [Apple support page](https://support.apple.com/en-us/102662) to download it.
 
-So now, I'm installing Sierra, and hopefully in half an hour I'll be able to install Catalina, the last macOS that will run on this Mac Mini.
+So now, I'm installing Sierra, and hopefully in an hour I'll be able to install Catalina, the last macOS that will officially run on this Mac Mini.
 
 Everyday I inch closer and closer to running linux which I'm sure will be fine (sarcasm) because I've had such [great]({% post_url 2015-12-30-WTF-is-it-with-Linux %}) [luck]({% post_url 2020-05-12-WTF-is-it-with-Linux-Part-2 %}) [running](2021-12-17-Flatpak-and-Mounted-Shares-in-Ubuntu) that.
