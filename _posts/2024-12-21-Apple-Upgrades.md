@@ -20,8 +20,10 @@ So now I'm installing Sierra (10.12), and hopefully, in an hour, I'll be able to
 
 Everyday, I inch closer and closer to running linux which I'm sure will be just fine because I've had such [great]({% post_url 2015-12-30-WTF-is-it-with-Linux %}) [luck]({% post_url 2020-05-12-WTF-is-it-with-Linux-Part-2 %}) [running]({% post_url 2021-12-17-Flatpak-and-Mounted-Shares-in-Ubuntu %}) that. (/sarcasm)
 
-UPDATE: It turns out that after installing Catalina (10.15) and after re-downloading the Catalina Installer from the App Store, I can follow the [instructions](https://support.apple.com/en-us/101578) and use the terminal to create a boot disk: `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume` Basically after I have no need for a boot disk then I can create one.
+UPDATE: It turns out that after installing Catalina (10.15) and after re-downloading the Catalina Installer from the App Store, I can follow the [instructions](https://support.apple.com/en-us/101578) and use the terminal to create a boot disk: `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
+
+Basically after I have no need for a boot disk then I can create one.
 
 Thanks, Apple.
 
-![Catalina logo](/assets/2024/12/macos-catalina-round.png){:align="center"}
+![Catalina logo](/assets/2024/12/macos-catalina-round.png)
