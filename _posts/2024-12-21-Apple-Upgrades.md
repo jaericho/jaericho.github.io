@@ -8,7 +8,7 @@ tags: [macOS, Catalina]
 
 *When Windows' upgrades are easier, you know Apple has messed it up.*
 
-I obtained a 2012 Mac Mini from my boss that had been sitting in a drawer for years and I decided to upgrade it to the latest version of macOS that could run on it which should be Catalina (10.15). However, I've never run across an OS that was more difficult to install. Gentoo would have probably been easier. And it's all because Apple decided to make it difficult.
+I obtained a 2012 Mac Mini from my boss that had been sitting in a drawer for years and I decided to upgrade it to the latest version of macOS that could run on it which should be Catalina (10.15). However, I've never run across an OS that was more difficult to install. Gentoo would have probably been easier, and it's all because Apple decided to make it difficult.
 
 The Mac Mini was running Yosemite (10.10), but when running in Recovery Mode I couldn't connect to the App Store to do an install of Catalina (10.15). I kept receiving a "403 forbidden" error when trying to log in.
 
