@@ -20,4 +20,4 @@ The music is great because it's Yoko Kanno. Honestly, if she had phoned it in, I
 
 I'm not going to write anything else about this.
 
-*UPDATE: 2024-02-06: It's over two years later and I still haven't finished this series. There's the sum of my review.*
+*UPDATE: 2024-02-06: It's over two years later and I still haven't finished this series. That's the sum of my review.*
