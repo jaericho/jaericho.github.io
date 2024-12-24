@@ -22,7 +22,7 @@ Everyday, I inch closer and closer to running linux which I'm sure will be just 
 
 UPDATE: It turns out that after installing Catalina (10.15) and after re-downloading the Catalina Installer from the App Store, I can follow the [instructions](https://support.apple.com/en-us/101578) and use the terminal to create a boot disk: `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
 
-Basically after I have no need for a boot disk then I can create one.
+So, after I don't need a boot disk then I can create one.
 
 Thanks, Apple.
 
