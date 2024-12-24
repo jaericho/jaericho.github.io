@@ -8,9 +8,9 @@ tags: [Astrid, Autism, France, Police, TV Review]
 
 Astrid Suffers from Asperger's syndrome but has an incredible memory, so she is very useful in analyzing files. The district commander decides to entrust her with very complex investigations which have remained unsolved to date. *No tag line.*
 
-![Astrid et Raphaëlle](/assets/2021/11/astrid-et-raphaelle-2019.jpg){:.poster}[Astrid and Raphaelle](https://www.imdb.com/title/tt11950864/) is a French show about a Paris detective teaming up with an autistic archivist. Great acting, good production value, but mediocre mysteries.
+![Astrid et Raphaëlle](/assets/2021/11/astrid-et-raphaelle-2019.jpg){:.poster}[Astrid and Raphaelle](https://www.imdb.com/title/tt11950864/) is a French show about a Paris detective teaming up with an autistic archivist. Great acting and good production value, but mediocre mysteries.
 
-First and foremost, [Sara Mortensen](https://www.imdb.com/name/nm2826995/) absolutely steals the show with her performance of [Astrid](https://www.imdb.com/title/tt11950864/). She's [Sheldon](https://www.imdb.com/title/tt0898266/) without the obnoxious assholery. Many review sites describe her condition as Asperger's, but it seems too severe to be Asperger's. *(But what do I know.)* I don't know if Astrid portrayal of her autism is accurate, but it seems like it could be. And she does a great acting job of it anyways.
+First and foremost, [Sara Mortensen](https://www.imdb.com/name/nm2826995/)  steals the show with her performance of [Astrid](https://www.imdb.com/title/tt11950864/). She's [Sheldon](https://www.imdb.com/title/tt0898266/) without the obnoxious assholery. Many review sites describe her condition as Asperger's, but it seems too severe to be Asperger's. *(But what do I know.)* I don't know if Astrid portrayal of her autism is accurate, but it seems like it could be, and she does a great acting job of it anyway.
 
 The best moments of the show are the touching moments between Astrid and her cop friend/partner [Raphaelle](https://www.imdb.com/name/nm1463127/). Raphaelle is trying to learn how to interact with Astrid, while Astrid is trying her best to grow out of her disability. There are some bittersweet scenes and some are real tearjerkers. And every episode shows a bit of growth for each of the characters.
 
