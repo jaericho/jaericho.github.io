@@ -8,8 +8,8 @@ tags: [John C Wright, voxday]
 
 Here is another [great post](http://voxday.blogspot.com/2016/04/the-intrinsic-unreliability-of-science.html#c1599593575592361055) by John C. Wright in a fascinating discussion about modern science.
 
-> “what most people call science was born in a class called “natural philosophy” in a university which required Theology in order for people to not be considered bat shit crazy.
-With the order lost people are still trying to square the circle.”
+> "what most people call science was born in a class called "natural philosophy” in a university which required Theology in order for people to not be considered bat shit crazy.
+With the order lost people are still trying to square the circle."
 > 
 > You said it! Ideas fit together like atoms in a molecule: some work together and some do not.
 > 
