@@ -8,7 +8,7 @@ tags: []
 
 I prefer the term Nationalist Right now that the socialists started adopted Alt-right, but this was the original meaning of Alt-Right. 
 
-[What the Alt Right is](http://voxday.blogspot.com/2016/08/what-alt-right-is.html)
+[What the Alt Right is](http://voxday.net/2016/08/what-alt-right-is/)
 
 In the interest of developing a core Alt Right philosophy upon which others can build.
 
