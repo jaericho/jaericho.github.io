@@ -10,7 +10,7 @@ tags: [macOS, Catalina]
 
 I obtained a 2012 Mac Mini from my boss that had been sitting in a drawer for years and I decided to upgrade it to the latest version of macOS that could run on it which should be Catalina (10.15). However, I've never run across an OS that was more difficult to install. Gentoo would have probably been easier, and it's all because Apple decided to make it difficult.
 
-The Mac Mini was running Yosemite (10.10), but when running in Recovery Mode I couldn't connect to the App Store to do an install of Catalina (10.15). I kept receiving a "403 forbidden" error when trying to log in. 
+The Mac Mini was running Yosemite (10.10), but when running in Recovery Mode I couldn't connect to the App Store to do an install of Catalina (10.15). I kept receiving a "403 forbidden" error when trying to log in.
 
 *"Let's make a boot disk"*, I said. Silly me, Apple doesn't make it easy to create a boot disk. It's not like you can run a program to automatically download and format a USB drive. This isn't Microsoft after all. First, you need a Mac but not a new Mac, like my M1 Air, you need an old Mac. Not because you can't create boot disks on new Macs, no, you need an old Mac because you simply can't download the new OS install file from the App Store unless it's compatible with the Mac you're downloading it on.
 
