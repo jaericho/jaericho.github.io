@@ -12,7 +12,7 @@ tags: [Big Bang Theory, TV Review]
 
 ![Season 1 poster](/assets/2020/06/big_bang_theory_poster.jpg){:.poster}It's a guilty pleasure but I still enjoy [The Big Bang Theory](https://www.imdb.com/title/tt0898266/). While it's far from perfect[^1], I believe cutting out the fluff would make it better, so here is my list of essential episodes.
 
-Initially, I wanted to deal only with Leonard and Penny's relationship, but the show wouldn't make any sense if I cut all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. (And the episodes with Zach. He was hilarious.)
+Initially, I wanted to deal only with Leonard and Penny's relationship, but the show wouldn't make any sense if I cut all the Sheldon/Amy or Howard/Bernadette episodes, so I decided to keep just the important relationship and character growth episodes for all the characters. I also kept the episodes with Zach because he was hilarious.
 
 After watching the series all the way though here are my conclusions:
 
@@ -261,4 +261,4 @@ I'll have to re-watch the series for a third time after I complete this list, so
 
 ---
 
-[^1]: Penny's season 8 hair cut was enough to make me stop watching for 5 years, but Sheldon's destain for [Star Trek: The Motion Picture](https://www.imdb.com/title/tt0079945/) and [Babylon 5](https://www.imdb.com/title/tt0105946/), calling the latter's writing derivative, is objectively wrong. It's proof that the writers didn't know what they were talking about; they just looked up geek pop-culture references and threw them into the show. More BBT failings include: Sheldon doesn't like pulp in his orange juice, Sheldon can't use chopstick properly, Sheldon can't do a proper Vulcan salute, and Leonard and Sheldon's horrible Klingon pronunciation.
+[^1]: Penny's haircut in season 8 was enough to make me stop watching for 5 years, but Sheldon's destain for [Star Trek: The Motion Picture](https://www.imdb.com/title/tt0079945/) and [Babylon 5](https://www.imdb.com/title/tt0105946/), calling the latter's writing "derivative", is objectively wrong. It's proof that the writers didn't know what they were talking about; they just looked up geek pop-culture references and threw them into the show. More BBT failings include: Sheldon doesn't like pulp in his orange juice, Sheldon can't use chopsticks properly, Sheldon can't do a proper Vulcan salute, and Leonard and Sheldon's horrible Klingon pronunciation.

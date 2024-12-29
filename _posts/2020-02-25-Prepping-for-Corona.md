@@ -14,7 +14,7 @@ If nothing else, Corona might get me to look at preparedness a bit more. I've be
 
 I think the goal will be to stock up enough to easily limit my public exposure for several weeks.
 
-From [Vox Popoli](http://voxday.blogspot.com/2020/02/prepping-for-corona-chan.html):
+From [Vox Popoli](http://voxday.net/2020/02/prepping-for-corona-chan):
 
 * Try to get ahead on medical prescriptions when you can, in case of very predictable supply chain disruptions, and so you won’t have to go out to the pharmacy at a time when there may be long lines of sick people.
 * Start to stock up on enough non-perishable food to last your household through several weeks of social distancing at home during an intense wave of transmission in the community.
