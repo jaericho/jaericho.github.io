@@ -4,7 +4,6 @@ title: "Migrating to Proxmox"
 date: 2025-01-01 08:00:00 -0600
 categories: [Linux]
 tags: [ESXi, LXC, Proxmox, VMware, VM]
-draft: true
 ---
 
 *New Year. New Hypervisor.*
