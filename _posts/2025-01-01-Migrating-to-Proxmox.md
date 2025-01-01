@@ -15,6 +15,6 @@ I have discovered LXC containers and I'm finding them a lot of fun. I had severa
 
 I've already migrated [Pi-Hole](https://pi-hole.net/), [Nginx Proxy Manager](https://nginxproxymanager.com/), [Unifi Aetwork Application](https://www.ui.com/download/releases/firmware/), and [Tautulli] in just a few hours. There are some [community scripts](https://community-scripts.github.io/ProxmoxVE/) to make it easier to install these containers, but I've stuck with manual installs so far, except for Tautulli. The easy Tautulli install uses Snaps and I read that some Snaps might have issues with LXC and I didn't want to change any host-wide config changes to make it work.
 
-I didn't have good luck with Proxmox back in the 4.x and early 5.x days. I hope that 8.3 fairs better but then again I don't have much choice. It's either Proxmox or XCP-NG. Any issues I encounter, I'll have to fix forward.
+I didn't have good luck with Proxmox back in the 4.x and early 5.x days. I hope that 8.3 fairs better but then again I don't have much choice. It's either Proxmox or [XCP-NG](https://xcp-ng.org/). Any issues I encounter, I'll have to fix forward.
 
-![Proxmox logo](/assets/2025/01/Proxmox-logo-stacked-white-background-600.png)
+![Proxmox logo](/assets/2025/01/Proxmox-logo-stacked-white-background-300.png)
