@@ -12,11 +12,11 @@ tags: [Jekyll, Static Site Generator, Wordpress]
 
 I noticed one day that my blog was a little sluggish. It was running on Wordpress's free ad-supported service. It's a nice service, and I have no beef with it, usually. The free themes are nice and you get much more than you pay for, so I really couldn't complain.
 
-But the sluggishness was bugging me. In the age of gigabit speed internet connections why is there so much stuttering during load? Especially when this blog is mostly text and _maybe_ a picture every other post.
+But the sluggishness was bugging me. In the age of gigabit speed internet connections why is there so much stuttering during load? Especially when this blog is mostly text and *maybe* a picture every other post.
 
 Most web browsers have a built in developer mode and Chrome's is especially nice since it can benchmark every element in the webpage and tell you what it took to download each one. I fired it up on my latest blog post and found that a full reload (skipping the cache) of one of my blogposts would download 6MB! That is *beyond* insane.
 
-Well, it turns out that is a little misleading. The 6MB page download was true, but it only does that when I'm logged into Wordpress and had a Gravatar account linked to it. Regular visitors won't see that much. They'll see a 2.9MB webpage. Which is still _much_ too high for a blog consisting of 95% text.
+Well, it turns out that is a little misleading. The 6MB page download was true, but it only does that when I'm logged into Wordpress and had a Gravatar account linked to it. Regular visitors won't see that much. They'll see a 2.9MB webpage. Which is still *much* too high for a blog consisting of 95% text.
 
 With Wordpress the [Ivanti Issues]({% post_url 2020-01-30-Ivanti-Issues-2019-Edition %}) post would transfer 1.5MB of data, 2.9MB of resources, with over 70 requests in 500-900ms. And most of the requests are fetching ads, gravatar crap, fonts, and pictures that aren't even used in the post at all.
 
