@@ -16,7 +16,7 @@ The best moments of the show are the touching moments between Astrid and her cop
 
 The mysteries on the other hand aren't that great. The plots are rather simplistic, and Raphaelle's schtick of *going outside the chain of command and doing what needs to be done* doesn't seem to fit with the tone of the show. But both actors do a good job. To be honest, the personal drama is much more interesting than the police procedural/mystery aspect.
 
-IMDB gives it an 8.0. That's *a little* high. I'd give it a solid 7.0.
+IMDB gives it an 8.0. That's a *little* high. I'd give it a solid 7.0.
 
 Watch: Yes.
 
