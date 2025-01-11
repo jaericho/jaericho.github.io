@@ -21,6 +21,7 @@ Example robocopy output:
    Bytes :  19799875         0  19799875         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 ```
+
 I want to parse the total bytes and the SketchingDev's function helped me do just that. The output Powershell object was a little tricky for me to work out because my Powershell skills aren't the greatest, but a bit of trial an error and I was able to extract just the total bytes. And then run it through another function to make it human readable.
 
 *(You could just leave it as human-readable from Robocopy. But I think extracting the total bytes instead is useful for other applications.)*
@@ -65,13 +66,12 @@ function Select-RoboSummary {
     }
 }
 
-
 function Get-NiceFilesize {
     param (
         [parameter(Mandatory=$true)]
         [uint64]$ByteCount
     )
-        
+
     switch ($bytecount) {
         { $_ -ge 1TB } { "{0:N2} TB" -f ($bytecount / 1TB); break }
         { $_ -ge 1GB } { "{0:N2} GB" -f ($bytecount / 1GB); break }
@@ -81,13 +81,16 @@ function Get-NiceFilesize {
     }
 }
 
-# Use Robocopy to calculate the directory size.
+# Use Robocopy to calculate the directory size
+
 [string]$output = robocopy dir c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
 
-# Extract just the byte count from the robocopy summary.
-[uint64]$bytecount = ($output | Select-RoboSummary)[2].Total
+# Extract just the byte count from the robocopy summary
 
-# Make the Byte count human readable.
+[uint64]$bytecount = [$output | Select-RoboSummary](2).Total
+
+# Make the Byte count human readable
+
 Get-NiceFilesize $bytecount
 {% endhighlight %}
 
@@ -108,8 +111,8 @@ robocopy [dir] c:\dummy /L /BYTES /XJ /E /NFL /NDL /NJH /R:0 /MT:64
     /MT:64 - use 64 threads for performance.
 ```
 
-The default of /MT (8 threads) would probably have been enough. Also, I don't know if this will help on hdds.
+The default of /MT (8 threads) would probably have been enough. Also, this might not help with hdds.
 
-This method seems to be faster than `Get-ChildItem` in my informal benchmarks and can handle filepaths longer than 260 characters.
+This method seems to be faster than `Get-ChildItem` in my informal benchmarks and this method can handle filepaths longer than 260 characters.
 
 *(I already ran across a situation where I needed to upgrade from `[int64]` to `[uint64]` because of an 8TB hard drive.)*
