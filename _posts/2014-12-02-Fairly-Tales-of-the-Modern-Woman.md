@@ -6,7 +6,7 @@ categories: [Culture]
 tags: [Expectations, Women]
 ---
 
-How do you tell a girl their expectations are too high? Don't. You will never succeed.
+How do you tell a girl their expectations are too high? You don't.
 
 Trying to talk a woman out of expecting a man to pay for the first dinner date, out of expecting a romantic marriage proposal, and out of expecting a diamond ring five-hundredths of a carat larger than her sister's ring is something Sisyphus wouldn't attempt. I should know. I attempted it. It's amazing at the logical gymnastics played in her mind and amazing that I haven't learned my lesson yet to keep my own mouth shut.
 
@@ -18,7 +18,7 @@ I was also told that diamonds are the only option. Moissanites are shit. Cubic Z
 
 Next, I was told that any diamond ring bought needed to be .05 carats bigger than her sisters. *(The sister's ring was 1.2 carat, so her's needs to be 1.25 carat. /facepalm I hope she never finds out her sister's ring was fake.)*
 
-Finally, the conversation was summed up: She should be surprised during the proposal. *(It shouldn't be a surprise because they should be discussing marriage and their roles before the engagement.)* But of course she'll discuss marriage and roles with the guy beforehand! But that discussion isn't a proposal. A surprise is needed for a proposal. A romantic surprise. *(But it's not a surprise because...\<interrupted\>)* It should be a surprise!
+Finally, the conversation was summed up: She should be surprised during the proposal. *(It shouldn't be a surprise because they should be discussing marriage and their roles before the engagement.)* Of course she'll discuss marriage and roles with the guy beforehand! But that discussion isn't a proposal. A surprise is needed for a proposal. A romantic surprise. *(But it's not a surprise because...\<interrupted\>)* It should be a surprise!
 
 Amazing thing #1: Mental Gymnastics.
 
