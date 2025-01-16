@@ -28,4 +28,4 @@ Amazing thing #3: Talking to a modern woman about marriage and her expectations 
 
 Women, if you want guys to pony up and get hitched: **Shut. The. Hell. Up.**
 
-Update 2014-12-08: [JudgyBitch](http://judgybitch.com/2014/12/02/why-men-should-never-pay-for-the-first-date/) had a post up on the 2nd for this very topic. She was probably writing it as I was floundering with my argument.
+Update 2014-12-08: [JudgyBitch](https://judgybitch.wordpress.com/2014/12/02/why-men-should-never-pay-for-the-first-date/) had a post up on the 2nd for this very topic. She was probably writing it as I was floundering with my argument.
