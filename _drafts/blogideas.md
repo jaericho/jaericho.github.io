@@ -1,16 +1,3 @@
-# Expanding vmware drive error
-
-After receiving and error of "invalid operation for device '0'" I was able to increase the drive size by going back to the old flash based FlexUI of vcenter.
-
-However, I wonder if PowerCLI would have done it too: https://www.reddit.com/r/vmware/comments/b8q9s4/workaround_for_invalid_operation_for_device_0/
-
-
-# Windows 11
-
-So far, i'm not hating Windows 11. After I upgraded at work, Win11 cleared up several bugs of mine and at least *feels* faster than Win10.
-
-I was experiencing a bad bug in Office 2016 that would make the calendar in Outlook very slow and after an in-place upgrade to Win11 the issue is gone.
-
 # CyberArk Needs Work
 
 ## EPM
@@ -24,7 +11,7 @@ I was experiencing a bad bug in Office 2016 that would make the calendar in Outl
 ## PAM
 
 * Editing a device should lose your place in the Accounts View. How many times do I have to retype my search criteria?
-* Cisco Router via SSH doesn't support [Secret](https://cyberark-customers.force.com/s/article/00002207) out of the box. And CyberArk support doesn't seem to know anything about it. 
+* Cisco Router via SSH doesn't support [Secret](https://cyberark-customers.force.com/s/article/00002207) out of the box. And CyberArk support doesn't seem to know anything about it.
 * MSSQLManagementStudioDatabaseAuthenticationDispatcher.exe is not added to AppLocker by default, but MSSQLManagementStudioWindowsAuthenticationDispatcher.exe is.
 * MSSQL setup instructions don't mention that the ODBC driver is necessary.
 * PAM needs a much easier way to update the Notes field.
