@@ -6,7 +6,7 @@ categories: [Apple]
 tags: [macOS, Catalina]
 ---
 
-*When Windows' upgrades are easier, you know Apple has messed it up.*
+*When Windows upgrades are easier, you know Apple has messed it up.*
 
 I obtained a 2012 Mac Mini from my boss that had been sitting in a drawer for years, and I decided to upgrade it to the latest version of macOS that could run on it, which should be Catalina (10.15). However, I've never come across an OS that was more difficult and easy to install. Gentoo would have probably been easier, and it's all because Apple decided to make it difficult.
 
