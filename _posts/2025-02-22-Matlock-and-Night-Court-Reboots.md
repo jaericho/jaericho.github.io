@@ -14,7 +14,7 @@ tags: [Kathy Bates, John Larroquette, Matlock, Night Court, Reboot, Review, TV R
 
 While the premise is solid, the rest of the show suffers from pacing and writing issues. The secret life of Madeline Kingston was revealed at the end of the first episode. I think the show would have benefited by drawing out the spycraft intrigue for one or two more episodes before revealing it.
 
-The episode plots follow the original Matlock formula: Matlock uses her defense attorney skills to bring the real culprits to justice. However, many of the storylines are contrived and flimsy, in addition to having a number of Current Issues in every episode. The writing isn't very tight, and the main storyline—Matlock investigating the attorneys she works for—is always relegated to the B-plot.
+The episode plots follow the original Matlock formula: Matlock uses her defense attorney skills to prove her client's true innocence while simulataneously bringing the real culprits to justice. However, many of the storylines are contrived and flimsy, in addition to having a number of Current Issues in every episode. The writing isn't very tight, and the main storyline—Matlock investigating the attorneys she works for—is always relegated to the B-plot.
 
 Overall, I would have loved to see this show as a limited series on Netflix or if it were written by HBO. Focus on the main plot and wrap it up on a high note, but I suspect they'll try to drag this out too long. I'll finish this season, but depending on how it ends, I may not continue with season two.
 
