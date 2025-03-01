@@ -17,6 +17,7 @@ The workaround according to MS Support: remove the Teams Meetings add-in from Ou
 I can still make Teams meetings within Outlook with the fix, but after sending the invite, the invite window hangs open. Not a big deal for me. But I don't know if I want to roll this out to my users.
 
 Here are the steps for the workaround:
+
 1. Open a command prompt as admin.
 1. Run: `attrib +r %appdata%\..\local\temp\*.db*`
 1. Restart Outlook. (You might have to kill the process.)
