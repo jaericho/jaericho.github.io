@@ -12,7 +12,7 @@ Astrid Suffers from Asperger's syndrome but has an incredible memory, so she is 
 
 First and foremost, [Sara Mortensen](https://www.imdb.com/name/nm2826995/)  steals the show with her performance of [Astrid](https://www.imdb.com/title/tt11950864/). She's [Sheldon](https://www.imdb.com/title/tt0898266/) without the obnoxious assholery. Many review sites describe her condition as Asperger's, but it seems too severe to be Asperger's. *(But what do I know.)* I don't know if Astrid portrayal of her autism is accurate, but it seems like it could be, and she does a great acting job of it anyway.
 
-The best moments of the show are the touching moments between Astrid and her cop friend/partner [Raphaelle](https://www.imdb.com/name/nm1463127/). Raphaelle is trying to learn how to interact with Astrid, while Astrid is trying her best to grow out of her disability. There are some bittersweet scenes and some are real tearjerkers. And every episode shows a bit of growth for each of the characters.
+The best moments of the show are the touching moments between Astrid and her cop friend/partner [Raphaelle](https://www.imdb.com/name/nm1463127/). Raphaelle is trying to learn how to interact with Astrid, while Astrid is trying her best to grow past her disability. There are some bittersweet scenes and some are real tearjerkers, and every episode shows a bit of growth for each of the characters.
 
 The mysteries on the other hand aren't that great. The plots are rather simplistic, and Raphaelle's schtick of *going outside the chain of command and doing what needs to be done* doesn't seem to fit with the tone of the show. But both actors do a good job. To be honest, the personal drama is much more interesting than the police procedural/mystery aspect.
 
