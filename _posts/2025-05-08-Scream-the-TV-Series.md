@@ -16,4 +16,4 @@ I have started season two and the episode titles have me laughing to myself: [I 
 
 Watch: Yes—if you like the movies.
 
-[^1]If this is a reference to the Spanish film, *El orfanato*, then I fully approve. *El orfanato* was one helluva movie with an ending you don't forget.
+[^1]: If this is a reference to the Spanish film, *El orfanato*, then I fully approve. *El orfanato* was one helluva movie with an ending you don't forget.
