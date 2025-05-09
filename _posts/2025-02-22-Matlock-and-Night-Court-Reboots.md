@@ -28,6 +28,6 @@ Re-watch: No.
 
 There isn't much to say on this one except that the show has its moments, but there aren't many. It ends up being a nostagia trip just watching for Dan Fielding or other characters from the original, like Bob Wheeler ([Brent Spiner](https://www.imdb.com/name/nm0000653/)), or a guest star from Big Bang Theory. Unfortunately, with so many deaths of the original cast, we don't get many cameos.
 
-However, I did enjoy the season two homage to Larroquette playing Maltz in [Star Trek 3](https://www.imdb.com/title/tt0088170/) by dressing Dan up as a Klingon to hide him from a stalker.
+However, I did enjoy the season two homage to Larroquette playing Maltz in [Star Trek 3](https://www.imdb.com/title/tt0088170/) by dressing Dan up as a Klingon.
 
 Watch: meh.
