@@ -14,6 +14,6 @@ Without spoiling it too much for myself, some things I've read say that season o
 
 I have started season two and the episode titles have me laughing to myself: [I Know What You Did Last Summer](https://www.imdb.com/title/tt0119345/), [Psycho](https://www.imdb.com/title/tt0054215/), [Dawn of the Dead](https://www.imdb.com/title/tt0077402/), [Jeepers Creepers](https://www.imdb.com/title/tt0263488/), and [The Orphanage](https://www.imdb.com/title/tt0464141/)[^1].
 
-Watch: Yes, if you like the movies.
+Watch: Yes—if you like the movies.
 
 [^1]If this is a reference to the Spanish film, *El orfanato*, then I fully approve. *El orfanato* was a good movie with a helluva ending.
