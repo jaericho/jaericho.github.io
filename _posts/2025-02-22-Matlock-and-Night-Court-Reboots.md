@@ -22,6 +22,8 @@ Watch: Maybe.
 
 Re-watch: No.
 
+UPDATE 2025-05-31: I finally finished season 1 of Matlock and the series started off better than it ended. It was just too long for what it was. I'm keeping my review the same, but my recommendation is to skip it entirely.
+
 ## [Night Court (2023)](https://www.imdb.com/title/tt13798316/)
 
 ![Night Court (2023) Poster](/assets/2025/02/night-court-poster.jpg){:.poster}I was excited to see [John Larroquette](https://www.imdb.com/name/nm0488662/) reprise his character from the original show, and it was quite the treat to see him slip into his character so easily.
