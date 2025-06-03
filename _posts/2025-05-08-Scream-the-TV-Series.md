@@ -18,4 +18,4 @@ Watch: Yes—but only if you enjoy the movies.
 
 [^1]: If this is a reference to the Spanish film, *El orfanato*, then I fully approve. *El orfanato* was one helluva movie with an ending you don't forget.
 
-Update 2025-06-03: I have finished the series and I'll update my recommendation to watch only if you *really* like the movies. Season 3 was terrible and I was actively rooting for Ghostface, but it was terrible because it leaned far too much into bashing anything non-woke in 2019. If they had stopped that crap, it would have been as enjoyable as the first two seasons.
+Update 2025-06-03: I have finished the series and I'll update my recommendation: *Watch, but only if you **really** enjoy the movies.* Season 3 was terrible and I was actively rooting for Ghostface, but it was terrible because it leaned far too much into bashing anything non-woke in 2019. If they had avoided that crap, it would have been as enjoyable as the first two seasons.
