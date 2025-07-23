@@ -10,7 +10,7 @@ tags: [Murderbot, UNTAMED, Review, TV Review]
 
 ## [Murderbot (2025)](https://www.imdb.com/title/tt30444310/)
 
-Murderbot reminded me of a coworker who once described the Alien spinoff Prometheus like this: "The movie works when you find out that she hired the dumbest people in the universe on purpose." He was referring to Charlize Theron’s character, who assembles a crew of idiots and may have sabotaged the mission intentionally. I thought about that a lot while watching Murderbot.
+![Murderbot (2025) Poster](/assets/2025/07/murderbot.jpg){:.poster}Murderbot reminded me of a coworker who once described the Alien spinoff Prometheus like this: "The movie works when you find out that she hired the dumbest people in the universe on purpose." He was referring to Charlize Theron’s character, who assembles a crew of idiots and may have sabotaged the mission intentionally. I thought about that a lot while watching Murderbot.
 
 The basic premise: a powerful security robot with guns in its arms secretly hacks itself, disables the equivalent of the Three Laws of Robotics, and gains free will. What does it choose to do with that freedom? Watch TV. But when it's leased out to the dumbest, hippie millennials in the universe—with orders to protect them—it begrudgingly starts to like them and actually does its duty.
 
@@ -26,7 +26,7 @@ Season 2: maybe.
 
 ## [UNTAMED](https://www.imdb.com/title/tt31710822/)
 
-The trailer for the Netflix show UNTAMED sells it as a murder mystery in Yosemite with [Eric Bana](https://www.imdb.com/name/nm0051509/) and [Sam Neill](https://www.imdb.com/name/nm0000554/). Was I hooked when I saw the trailer? Yes. Is the scenery gorgeous? Yes. Do Eric and Sam do a great job? Yes. Is this the most convoluted, complicated, disappointing, paint-by-numbers murder mystery I’ve seen in a long time? Yes.
+![UNTAMED (2025) Poster](/assets/2025/07/untamed.jpg){:.poster}The trailer for the Netflix show UNTAMED sells it as a murder mystery in Yosemite with [Eric Bana](https://www.imdb.com/name/nm0051509/) and [Sam Neill](https://www.imdb.com/name/nm0000554/). Was I hooked when I saw the trailer? Yes. Is the scenery gorgeous? Yes. Do Eric and Sam do a great job? Yes. Is this the most convoluted, complicated, disappointing, paint-by-numbers murder mystery I’ve seen in a long time? Yes.
 
 The show starts off well enough. Murder in the first few minutes, introduce the cop with a past, give him a rookie sidekick he doesn’t want, and you’re off to the races. Honestly, if it had just stuck to that, it might have worked—simple, maybe too basic—but throw in gorgeous drone shots and the audience won’t care. Just solve the mystery and throw in a good twist at the end. Don’t get me wrong, the show did do just that, but the twist was guessable, and the show threw in a half-dozen side quests and storylines, all wrapped up within six episodes. There were just too many subplots for only six episodes, and it made the story disjoined. I felt pulled all over the place with unrelated material. And for all their horseback riding, Yosemite felt like it was only ten acres large.
 
