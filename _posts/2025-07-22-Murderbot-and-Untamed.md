@@ -14,7 +14,7 @@ tags: [Murderbot, UNTAMED, Review, TV Review]
 
 The premise: a powerful but outdated security robot with guns in its arms secretly hacks itself, disables the equivalent of the Three Laws of Robotics, and gains free will. What does it choose to do with that freedom? Watch TV. But when it's leased out to the dumbest, hippie millennials in the universe—with orders to protect them—it begrudgingly starts to like them and actually does its duty.
 
-The show is based on the first book in a series of four or so novellas, and Season 2 has already been greenlit. A quick glance at Wikipedia suggests that Season 1 follows the book closely enough. It was well acted, in the sense that I truly hated all the characters. [Alexander Skarsgård](https://www.imdb.com/name/nm0002907/) stole the show with his sardonic android schtick—though, to be fair, there wasn’t much to steal.
+The show is based on the first book in a series of four or so novellas, and Season 2 has already been greenlit. A quick glance at Wikipedia suggests that Season 1 follows the book closely enough. It was well acted, in the sense that I truly hated all the characters. [Alexander Skarsgård](https://www.imdb.com/name/nm0002907/) stole the show with his sardonic android schtick; however, there wasn’t much to steal.
 
 IMDB gives it a 7.4. I'd give it a high 6's
 
