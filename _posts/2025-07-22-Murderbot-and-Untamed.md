@@ -24,7 +24,7 @@ Re-watch: prob not.
 
 Season 2: maybe.
 
-## [UNTAMED](https://www.imdb.com/title/tt31710822/)
+## [UNTAMED (2025)](https://www.imdb.com/title/tt31710822/)
 
 ![UNTAMED (2025) Poster](/assets/2025/07/untamed.jpg){:.poster}The trailer for the Netflix show UNTAMED sells it as a murder mystery in Yosemite with [Eric Bana](https://www.imdb.com/name/nm0051509/) and [Sam Neill](https://www.imdb.com/name/nm0000554/). Was I hooked when I saw the trailer? Yes. Is the scenery gorgeous? Yes. Do Eric and Sam do a great job? Yes. Is this the most convoluted, complicated, disappointing, paint-by-numbers murder mystery I’ve seen in a long time? Yes.
 
