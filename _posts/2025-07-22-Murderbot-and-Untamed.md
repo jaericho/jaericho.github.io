@@ -10,7 +10,7 @@ tags: [Murderbot, UNTAMED, Review, TV Review]
 
 ## [Murderbot (2025)](https://www.imdb.com/title/tt30444310/)
 
-![Murderbot (2025) Poster](/assets/2025/07/murderbot.jpg){:.poster}Murderbot reminded me of a coworker who once described the Alien spinoff [Prometheus](https://www.imdb.com/title/tt1446714/) like this: "The movie works if you believe that she hired the dumbest people in the universe on purpose." He was referring to Charlize Theron’s character, who assembles a crew of idiots and may have sabotaged the mission intentionally. I thought about that a lot while watching Murderbot.
+![Murderbot (2025) Poster](/assets/2025/07/murderbot.jpg){:.poster}Murderbot reminded me of a coworker who once described the Alien spinoff [Prometheus](https://www.imdb.com/title/tt1446714/) like this: "The movie works if you believe that she hired the dumbest people in the universe on purpose." He was referring to Charlize Theron’s character, who assembles a crew of the Prometheus which turn out to be massive idiots, and you think that maybe she did that intentionally to screw over her Dad. I thought about that a lot while watching Murderbot.
 
 The premise: a powerful but outdated security robot with guns in its arms secretly hacks itself, disables the equivalent of the Three Laws of Robotics, and gains free will. What does it choose to do with that freedom? Watch TV. But when it's leased out to the dumbest, hippie millennials in the universe—with orders to protect them—it begrudgingly starts to like them and actually does its duty.
 
